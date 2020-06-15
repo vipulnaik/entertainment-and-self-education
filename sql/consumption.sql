@@ -27,7 +27,8 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
 /* MasterClass stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('Netflix','The Vietnam War: A Film by Ken Burns and Lynn Novick', 'https://www.netflix.com/title/80997770','2020-05-31','day','2020-06-07','day','I decided to watch this documentary as I became curious about it while watching a MasterClass by its co-creator Ken Burns. I restarted my Netflix subscription because of it.'),
-  ('Netflix','13 Reasons Why: Season 4','https://www.netflix.com/title/80117470','2020-06-06','day','2020-06-12','day','I noticed that this seeason was just released just as I was getting close to finishing my reading of the Vietnam War documentary.');
+  ('Netflix','13 Reasons Why: Season 4','https://www.netflix.com/title/80117470','2020-06-06','day','2020-06-12','day','I noticed that this season was just released just as I was getting close to finishing my reading of the Vietnam War documentary.'),
+  ('Netflix','Madam Secretary: Season 6','https://www.netflix.com/title/80024232','2020-06-13','day','2020-06-14','day','When I reactivated Netflix temporarily in order to watch the Vietnam War documentary, I noticed that this season was now available on Netflix. I decided to watch it while I still had my subscription.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
