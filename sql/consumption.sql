@@ -24,12 +24,15 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   ('MasterClass','Paul Krugman Teaches Economics and Society','https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society','2020-05-23','day','2020-05-30','day','I watched this out of curiosity. Paul Krugman is an eminent economist but has different ideological leanings than I do, and has also been accused of writing biased and sloppy stuff (see https://www.econlib.org/archives/2013/12/why_i_read_paul.html for general background). I found his class reasonably interesting, and got to understand his perspective somewhat better.'),
   ('MasterClass','Ken Burns Teaches Documentary Filmmaking','https://www.masterclass.com/classes/ken-burns-teaches-documentary-filmmaking','2020-05-24','day',NULL,NULL,'I will write more on this once I finish.');
 
-/* MasterClass stuff */
+/* Netflix stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('Netflix','The Vietnam War: A Film by Ken Burns and Lynn Novick', 'https://www.netflix.com/title/80997770','2020-05-31','day','2020-06-07','day','I decided to watch this documentary as I became curious about it while watching a MasterClass by its co-creator Ken Burns. I restarted my Netflix subscription because of it.'),
   ('Netflix','13 Reasons Why: Season 4','https://www.netflix.com/title/80117470','2020-06-06','day','2020-06-12','day','I noticed that this season was just released just as I was getting close to finishing my reading of the Vietnam War documentary.'),
   ('Netflix','Madam Secretary: Season 6','https://www.netflix.com/title/80024232','2020-06-13','day','2020-06-14','day','When I reactivated Netflix temporarily in order to watch the Vietnam War documentary, I noticed that this season was now available on Netflix. I decided to watch it while I still had my subscription.'),
-  ('Netflix','Tokyo Trial','https://www.netflix.com/title/80091880','2020-06-18','day','2020-06-19','day','I saw this item in the list of recommendations on Netflix (possibly selected because I had watched other historical documentaries). I found it intriguing so I ended up watching it.');
+  ('Netflix','Tokyo Trial','https://www.netflix.com/title/80091880','2020-06-18','day','2020-06-19','day','I saw this item in the list of recommendations on Netflix (possibly selected because I had watched other historical documentaries). I found it intriguing so I ended up watching it.'),
+  ('Netflix','The Crown: Season 3','https://www.netflix.com/title/80025678','2020-06-20','day','2020-06-23','day','While I had a month of Netflix subscription, I decided to catch up on watching The Crown by watching its Season 3.'),
+  ('Netflix','26 Years','https://www.netflix.com/title/80198771','2020-06-23','day','2020-06-23','day','I decided to watch this movie at random.'),
+  ('Netflix','Kapoor & Sons','https://www.netflix.com/title/80102019','2020-06-25','day','2020-06-25','day','I decided to watch this move at random.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
