@@ -32,7 +32,8 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   ('Netflix','Tokyo Trial','https://www.netflix.com/title/80091880','2020-06-18','day','2020-06-19','day','I saw this item in the list of recommendations on Netflix (possibly selected because I had watched other historical documentaries). I found it intriguing so I ended up watching it.'),
   ('Netflix','The Crown: Season 3','https://www.netflix.com/title/80025678','2020-06-20','day','2020-06-23','day','While I had a month of Netflix subscription, I decided to catch up on watching The Crown by watching its Season 3.'),
   ('Netflix','26 Years','https://www.netflix.com/title/80198771','2020-06-23','day','2020-06-23','day','I decided to watch this movie at random.'),
-  ('Netflix','Kapoor & Sons','https://www.netflix.com/title/80102019','2020-06-25','day','2020-06-25','day','I decided to watch this move at random.');
+  ('Netflix','Kapoor & Sons','https://www.netflix.com/title/80102019','2020-06-25','day','2020-06-25','day','I decided to watch this movie at random.'),
+  ('Netflix','Bulbbul','https://www.netflix.com/title/81029150','2020-06-26','day','2020-06-26','day','I decided to watch this movie because Netflix promoted it on the browse page, and reviews were positive.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
