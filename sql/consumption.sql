@@ -7,6 +7,7 @@ create table consumption(
   `start_date_precision` enum('day','month','year'),
   `end_date` date,
   `end_date_precision` enum('day','month','year'),
+  `rewatch` boolean default false,
   `notes` varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
@@ -22,7 +23,8 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   ('MasterClass','Natalie Portman Teaches Acting','https://www.masterclass.com/classes/natalie-portman-teaches-acting','2020-05-16','day','2020-05-23','day','I started this class mainly out of idle curiosity. I found it reasonably interesting, though not too relevant. It was interesting to see the emphasis on playfulness given by Portman.'),
   ('MasterClass','#MasterClassLive with Chris Voss','https://www.youtube.com/watch?v=nZcBuSCT3Io','2020-05-23','day','2020-05-23','day','I watched this MasterClass Q&A session two months aftere it was aired live; this is a complement to Voss''s Art of Negotiation MasterClass.'),
   ('MasterClass','Paul Krugman Teaches Economics and Society','https://www.masterclass.com/classes/paul-krugman-teaches-economics-and-society','2020-05-23','day','2020-05-30','day','I watched this out of curiosity. Paul Krugman is an eminent economist but has different ideological leanings than I do, and has also been accused of writing biased and sloppy stuff (see https://www.econlib.org/archives/2013/12/why_i_read_paul.html for general background). I found his class reasonably interesting, and got to understand his perspective somewhat better.'),
-  ('MasterClass','Ken Burns Teaches Documentary Filmmaking','https://www.masterclass.com/classes/ken-burns-teaches-documentary-filmmaking','2020-05-24','day','2020-07-11','day','I started watching this, then decided to take a detour to watch the Vietnam War documentary. I returned to this MasterClass after finishing the documentary. Overall, I liked the MasterClass and gained more appreciation of documentary filmmaking.');
+  ('MasterClass','Ken Burns Teaches Documentary Filmmaking','https://www.masterclass.com/classes/ken-burns-teaches-documentary-filmmaking','2020-05-24','day','2020-07-11','day','I started watching this, then decided to take a detour to watch the Vietnam War documentary. I returned to this MasterClass after finishing the documentary. Overall, I liked the MasterClass and gained more appreciation of documentary filmmaking.'),
+  ('MasterClass','Doris Kearns Goodwin Teaches U.S. Presidential History and Leadership','https://www.masterclass.com/classes/doris-kearns-goodwin-teaches-us-presidential-history-and-leadership','2020-07-23','day',NULL,NULL,'I started watching this out of interest in history, and how a person with more positive views of politics might see that history.');
 
 /* Netflix stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
@@ -106,6 +108,13 @@ Episode 17 • EN 100%
   /* Movies */
   ('Viki','The Attorney','https://www.viki.com/movies/37061c-the-attorney','2020-05-15','day','2020-05-15','day','The Korean movie is partly based on part of the early life of Roh Moo-hyun, who would later become the President of South Korea.');
 
+/* Viki rewatches */
+insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
+  /* Rewatches */
+  ('Viki','Pinocchio','https://www.viki.com/tv/23066c-pinocchio','2020-06-01','month','2020-07-12','day',true,'I had watched Pinocchio several years ago (in 2016 or 2017) and decided to rewatch it, as I had found it one of the best dramas.'),
+  ('Viki','While You Were Sleeping','https://www.viki.com/tv/33538c-while-you-were-sleeping','2020-07-13','day',true,'2020-07-18','day','After finishing a rewatch of Pinocchio, I decided to watch While You Were Sleeping, also written by Park Hye-run and with Lee Jong-suk as the male lead.'),
+  ('Viki','Mother','https://www.viki.com/tv/35736c-mother','2020-07-18','day',NULL,NULL,true,'Mother is one of the most highly rated dramas I have ever watched. The acting and production values are among the best I''ve seen. I had first watched it in 2018 shortly after it came out; I decidede to rewatch it on a whim.'),
+
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('YouTube','Never Split the Difference: Chris Voss: Talks at Google','https://www.youtube.com/watch?v=guZa7mQV1l0','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
@@ -116,7 +125,5 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   ('EconLib','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
 
 /* Rough notes:
-  - Resumed Seearch: WWW on July 12 or so
-  - While You Were Sleeping rewatched ~July 13 to July 18
-  - Mother rewatched July 18 onward
+  - Resumed Search: WWW on July 12 or so
  */
