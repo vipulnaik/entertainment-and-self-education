@@ -119,7 +119,8 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('YouTube','Never Split the Difference: Chris Voss: Talks at Google','https://www.youtube.com/watch?v=guZa7mQV1l0','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
   ('YouTube','Master the Art of Negotiating in Business and Life: Lewis Howes','https://www.youtube.com/watch?v=pd7tjnVYMzY','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
-  ('YouTube','The Knowledge Project #27 — Chris Voss','https://www.youtube.com/watch?v=yHjUApypNsU','2020-05-24','day','2020-04-24','day','YouTube related video recommendation for me after watching other Chris Voss videos');
+  ('YouTube','The Knowledge Project #27 — Chris Voss','https://www.youtube.com/watch?v=yHjUApypNsU','2020-05-24','day','2020-04-24','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
+  ('YouTube','Conceived in Liberty, Volume 5 | Patrick Newman','https://www.youtube.com/watch?v=duzmFvKGJU0','2020-07-26','day','2020-07-26','day','YouTube video discovered via Bryan Caplan''s blog post https://www.econlib.org/rothbards-conceived-in-liberty-the-new-republic/');
 
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('EconLib','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
