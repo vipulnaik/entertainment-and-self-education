@@ -121,7 +121,8 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   ('YouTube','Master the Art of Negotiating in Business and Life: Lewis Howes','https://www.youtube.com/watch?v=pd7tjnVYMzY','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
   ('YouTube','The Knowledge Project #27 — Chris Voss','https://www.youtube.com/watch?v=yHjUApypNsU','2020-05-24','day','2020-04-24','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
   ('YouTube','Conceived in Liberty, Volume 5 | Patrick Newman','https://www.youtube.com/watch?v=duzmFvKGJU0','2020-07-26','day','2020-07-26','day','YouTube video discovered via Bryan Caplan''s blog post https://www.econlib.org/rothbards-conceived-in-liberty-the-new-republic/'),
-  ('YouTube','Should Libertarians Vote for Biden, Jorgensen, or Trump? A Soho Forum Debate','https://reason.com/video/should-libertarians-vote-for-biden-jorgensen-or-trump-a-soho-forum-debate/','2020-08-01','day','2020-08-01','day','A Soho Forum debate that I came across');
+  ('YouTube','Should Libertarians Vote for Biden, Jorgensen, or Trump? A Soho Forum Debate','https://reason.com/video/should-libertarians-vote-for-biden-jorgensen-or-trump-a-soho-forum-debate/','2020-08-01','day','2020-08-01','day','A Soho Forum debate that I came across'),
+  ('YouTube','Is the Criminal Justice System Racist? A Soho Forum Debate','https://reason.com/video/is-the-criminal-justice-system-racist-a-soho-forum-debate/','2020-08-01','day','2020-08-01','day','A Soho Forum debate I viewed after getting interested in Soho Forum');
 
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('EconLib','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
