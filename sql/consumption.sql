@@ -105,6 +105,7 @@ Episode 17 • EN 100%
   ('Viki','Fatal Promise','https://www.viki.com/tv/37081c-fatal-promise','2020-04-04','day',NULL,NULL,'Daily Korean drama that I started watching after the first week of episodes. Not much rewatch value; just watching during times that I don''t want to do anything too intellectually or emotionally demanding, usually while cooking or eating'),
   ('Viki','Memorist','https://www.viki.com/tv/36983c-memorist','2020-04-07','day',NULL,NULL,'I started watching this drama but paused after episode 2 and started watching something else. I may not return'),
   ('Viki','School 2013','https://www.viki.com/tv/10704c-school-2013','2020-04-11','day','2020-05-02','day','I discovered this drama via https://www.soompi.com/article/1002413wpp/8-k-dramas-will-help-get-pains-growing The drama was well-done; the acting was great, and many of the students in the class had their moments, which was nice!'),
+  ('Viki','Search: WWW','https://www.viki.com/tv/36618c-search-www','2019-05-01','month','2020-08-03','day','I started the drama around May 2019 (not too sure of the exact start date) then switched to other stuff. I resumed it around July 12, 2020 and finished it on August 3.'),
   /* Movies */
   ('Viki','The Attorney','https://www.viki.com/movies/37061c-the-attorney','2020-05-15','day','2020-05-15','day','The Korean movie is partly based on part of the early life of Roh Moo-hyun, who would later become the President of South Korea.');
 
@@ -113,7 +114,7 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
   /* Rewatches */
   ('Viki','Pinocchio','https://www.viki.com/tv/23066c-pinocchio','2020-06-01','month','2020-07-12','day',true,'I had watched Pinocchio several years ago (in 2016 or 2017) and decided to rewatch it, as I had found it one of the best dramas.'),
   ('Viki','While You Were Sleeping','https://www.viki.com/tv/33538c-while-you-were-sleeping','2020-07-13','day',true,'2020-07-18','day','After finishing a rewatch of Pinocchio, I decided to watch While You Were Sleeping, also written by Park Hye-run and with Lee Jong-suk as the male lead.'),
-  ('Viki','Mother','https://www.viki.com/tv/35736c-mother','2020-07-18','day','2020-07-25','day',true,'Mother is one of the most highly rated dramas I have ever watched. The acting and production values are among the best I''ve seen. I had first watched it in 2018 shortly after it came out; I decidede to rewatch it on a whim.'),
+  ('Viki','Mother','https://www.viki.com/tv/35736c-mother','2020-07-18','day','2020-07-25','day',true,'Mother is one of the most highly rated dramas I have ever watched. The acting and production values are among the best I''ve seen. I had first watched it in 2018 shortly after it came out; I decidede to rewatch it on a whim.');
 
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
