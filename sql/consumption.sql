@@ -1,6 +1,6 @@
 create table consumption(
   `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib'),
+  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -111,10 +111,13 @@ Episode 17 • EN 100%
 
 /* Viki rewatches */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
-  /* Rewatches */
   ('Viki','Pinocchio','https://www.viki.com/tv/23066c-pinocchio','2020-06-01','month','2020-07-12','day',true,'I had watched Pinocchio several years ago (in 2016 or 2017) and decided to rewatch it, as I had found it one of the best dramas.'),
   ('Viki','While You Were Sleeping','https://www.viki.com/tv/33538c-while-you-were-sleeping','2020-07-13','day',true,'2020-07-18','day','After finishing a rewatch of Pinocchio, I decided to watch While You Were Sleeping, also written by Park Hye-run and with Lee Jong-suk as the male lead.'),
   ('Viki','Mother','https://www.viki.com/tv/35736c-mother','2020-07-18','day','2020-07-25','day',true,'Mother is one of the most highly rated dramas I have ever watched. The acting and production values are among the best I''ve seen. I had first watched it in 2018 shortly after it came out; I decidede to rewatch it on a whim.');
+
+/* Amazon video stuff */
+insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Amazon Video','Harry Potter and the Order of the Phoenix','https://www.amazon.com/Harry-Potter-Phoenix-Daniel-Radcliffe/dp/B0012GE91W/','2020-08-06','day','2020-08-06','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.');
 
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
