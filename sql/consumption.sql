@@ -28,7 +28,9 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
 
 /* Netflix stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
-  ('Netflix','The Vietnam War: A Film by Ken Burns and Lynn Novick', 'https://www.netflix.com/title/80997770','2020-05-31','day','2020-06-07','day','I decided to watch this documentary as I became curious about it while watching a MasterClass by its co-creator Ken Burns. I restarted my Netflix subscription because of it.'),
+  ('Netflix','Gilmore Girls: A Year in the Life','https://www.netflix.com/title/80109415','2017-02-01','month','2017-02-01','month','I got a Netflix subscription mainly for the purpose of watching this miniseries, and watched the miniseries promptly after getting the subscription.'),
+  /* Brief subscription renewal for one month (2020-06) */
+  ('Netflix','The Vietnam War: A Film by Ken Burns and Lynn Novick','https://www.netflix.com/title/80997770','2020-05-31','day','2020-06-07','day','I decided to watch this documentary as I became curious about it while watching a MasterClass by its co-creator Ken Burns. I restarted my Netflix subscription because of it.'),
   ('Netflix','13 Reasons Why: Season 4','https://www.netflix.com/title/80117470','2020-06-06','day','2020-06-12','day','I noticed that this season was just released just as I was getting close to finishing my reading of the Vietnam War documentary.'),
   ('Netflix','Madam Secretary: Season 6','https://www.netflix.com/title/80024232','2020-06-13','day','2020-06-14','day','When I reactivated Netflix temporarily in order to watch the Vietnam War documentary, I noticed that this season was now available on Netflix. I decided to watch it while I still had my subscription.'),
   ('Netflix','Tokyo Trial','https://www.netflix.com/title/80091880','2020-06-18','day','2020-06-19','day','I saw this item in the list of recommendations on Netflix (possibly selected because I had watched other historical documentaries). I found it intriguing so I ended up watching it.'),
@@ -40,24 +42,46 @@ insert into consumption(consumption_venue, item, url, start_date, start_date_pre
 
 /* Viki stuff */
 insert into consumption(consumption_venue, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  /* 2015/2016 */
+  ('Viki','Remember','https://www.viki.com/tv/29411c-remember','2015-12-01','month','2016-02-01','month','I watched this TV show while it was live, shortly after discovering Viki. It was my first Korean drama.'),
+  ('Viki','Madame Antoine','https://www.viki.com/tv/29584c-madame-antoine','2016-01-01','month','2016-03-01','month','I watched this TV show while it was live. It was probably my second full TV show after Remember.'),
+  ('Viki','Descendants of the Sun','https://www.viki.com/tv/23205c-descendants-of-the-sun','2016-02-01','month','2016-04-01','month','I watched this TV show while it was live. It was one of my first few Korean dramas.'),
+  ('Viki','High Society','https://www.viki.com/tv/27124c-high-society','2016-06-01','month','2016-06-01','month','I believe I binged on the show around this time. My records only show that I had recently finished watching it as of 2016-07.'),
+  ('Viki','Marriage Contract','https://www.viki.com/tv/30292c-marriage-contract','2016-03-01','month','2016-05-01','month','I watched this TV show roughly around the time it was live.'),
+  ('Viki','The Flower in Prison','https://www.viki.com/tv/29937c-the-flower-in-prison','2016-06-01','month','2016-11-01','month','I watched this TV show while it was live (I started watching it once somewhere between 10 and 20 episodes had been released). It was probably my first historical Korean drama (Sageuk).'),
+  ('Viki','Doctors','https://www.viki.com/tv/31066c-doctors','2016-06-01','month','2016-08-01','month','I watched this TV show while it was live.'),
+  ('Viki','W','https://www.viki.com/tv/30854c-w','2016-08-01','month','2016-09-01','month','I started watching this TV show shortly after it went live.'),
+  ('Viki','Dong Yi (Jewel in the Crown)','https://www.viki.com/tv/651c-jewel-in-the-crown','2016-08-01','month','2016-09-01','month','The months entered may not be accurate. I have a note that I had watched part of the show by 2016-08-20, and that I finished watching it by 2016-09-25. I made a lot of progress during the Labor Day holiday in the United States, while working on my Linode migration.'),
+  ('Viki','Oh My Venus','https://www.viki.com/tv/28538c-oh-my-venus','2016-09-01','month','2016-10-01','month','I have a note that I was in the middle of this show around 2016-09-25; the months are extrapolated from that information,'),
+  ('Viki','Jin','https://www.viki.com/tv/32981c-jin','2016-11-01','month','2017-01-01','month','I remember watching this TV show in November 2016, around the time of Thanksgiving, but had to abort watching due to incomplete subtitles. I returned in January 2017 once the subtitles had beeen completed.'),
+  ('Viki','City Hunter','https://www.viki.com/tv/1820c-city-hunter','2016-01-01','year','2016-01-01','year','I don''t remember the exact time I watched this, but it was in 2016; I think it was in the later part of the first half of 2016.'),
+  ('Viki','Healer','https://www.viki.com/tv/23730c-healer','2016-01-01','year','2016-01-01','year','I don''t remember the exact time I watched this, but it was in 2016; I think it was between somewhere in the middle of the year.'),
+  ('Viki','Pinocchio','https://www.viki.com/tv/23066c-pinocchio','2016-01-01','year','2016-01-01','year','Based on rough estimates, I believe I first watched Pinocchio in 2016. However, it''s possible I watched it as late as 2017 (I definitely had finished watching it by November 2017).'),
+  /* 2017 */
+  ('Viki','Jin Final','https://www.viki.com/tv/32982c-jin-final','2017-01-01','year','2017-01-01','year','This is the sequel to Jin. Thee months are based on rough estimates; I believe I watched this shortly after finishing Jin.'),
+  ('Viki','Defendant','https://www.viki.com/tv/32810c-defendant','2017-01-01','month','2017-03-01','month','I watched this TV show around the time of its release,'),
+  ('Viki','Good Manager','https://www.viki.com/tv/32747c-good-manager','2017-02-01','month','2017-03-01','month','I watched this TV show (also called Chief Kim) roughly while it was live.'),
+  ('Viki','Saimdang, Light''s Diary','https://www.viki.com/tv/25434c-saimdang-lights-diary','2017-02-01','month','2017-05-01','month','I watched this TV show at around the time of its release.'),
+  ('Viki','Dae Jang Geum (Jewel in the Palace)','https://www.viki.com/tv/614c-jewel-in-the-palace','2017-01-01','year','2017-01-01','year','I don''t remember exactly when I watched this TV show but it was some time after watching Dong Yi and Saimdang. So I place it roughly in the year of 2017.'),
+  ('Viki','While You Were Sleeping','https://www.viki.com/tv/33538c-while-you-were-sleeping','2017-11-01','month','2017-11-01','month','I remember watching this TV show while on vacation in India. My interest in watching this stemmed from my having watched a similar drama, Pinocchio, previously.'),
+  ('Viki','Ghost','https://www.viki.com/tv/8112c-ghost','2017-11-01','month','2017-11-01','month','I remember watching this TV show while on vacation in India. At the time, this TV show was not available in the United States, so I made use of some of my time in India to watch it.'),
+  ('Viki','Six Flying Dragons','https://www.viki.com/tv/26480c-six-flying-dragons','2017-11-01','month','2018-01-01','month','I remember starting this TV show toward the end of my vacation in India.'),
+  /* 2018 */
+  ('Viki','Mother','https://www.viki.com/tv/35736c-mother','2018-02-01','month','2018-03-01','month','I watched this show around the time it was released. It was one of the most highly rated dramas, and I found it one of the dramas with the best acting and production values.'),
+  ('Viki','Tree with Deep Roots','https://www.viki.com/tv/1585c-tree-with-deep-roots','2018-01-01','year','2018-01-01','year','I watched this TV show a few months after finishing the watching of Six Flying Dragons.'),
+  ('Viki','Yi San','https://www.viki.com/tv/29542c-yi-san','2018-01-01','year','2019-01-01','year','I believe I watched this TV show some time in 2018, though it may have spilled over into early 2019. I did not end up finishing the TV show, fatiguing of it a few episodes before the finish.'),
+  /* 2019 */
+  ('Viki','The Rebel','https://www.viki.com/tv/30926c-the-rebel','2019-01-01','month','2019-02-01','month','I don''t remember exactly when I watched this, but I believe it was in early 2019, before Haechi.'),
+  ('Viki','Haechi','https://www.viki.com/tv/36418c-haechi','2019-02-01','month','2019-05-01','month','I watched this TV show around the time that it was released.'),
   /* Earlier dramas for which we have only approximate dates */
   /* Copied from https://www.viki.com/continue-watching to convert to a better format: Continue Watching
 Edit
-
-Fatal Promise
-Episode 10 • EN 100%
 
 School 2013
 Episode 2 • EN 100%
 
 The Great Doctor
 Episode 1 • EN 100%
-
-Pinocchio
-Episode 15 • EN 100%
-
-Memorist
-Episode 2 • EN 100%
 
 Tell Me What You Saw
 Episode 16 • EN 100%
@@ -88,9 +112,6 @@ Episode 16 • EN 100%
 
 Doctor John
 Episode 32 • EN 100%
-
-Search: WWW
-Episode 10 • EN 100%
 
 Haechi
 Episode 40 • EN 100%
