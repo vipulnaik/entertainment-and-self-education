@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Spanish','Marathi'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -34,6 +34,10 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('Netflix','Series (such as TV show or web series)',true,'English','Gilmore Girls: A Year in the Life','https://www.netflix.com/title/80109415','2017-02-01','month','2017-02-01','month','I got a Netflix subscription mainly for the purpose of watching this miniseries, and watched the miniseries promptly after getting the subscription.'),
   /* Entered from CSV */
+  ('Netflix','Series (such as TV show or web series)',false,'Arabic','Justice: Qalb Al Adala','https://www.netflix.com/title/80199680','2019-02-03','day','2019-02-14','day','I watched this TV show based on a Netflix recommendation.'),
+  ('Netflix','Movie',false,'Hindi','Rajma Chawal','https://www.netflix.com/title/81018377','2019-02-04','day','2019-02-04','day','2019-02-04','day','I watched this movie based on a Netflix recommendation. I only watched about two-thirds of the movie (82 of 118 minutes).'),
+  ('Netflix','Series (such as TV show or web series)',false,'Arabic','Al Hayba: Season 1','https://www.netflix.com/title/81003648','2019-02-15','day','2019-03-10','day','I watched this Lebanese Arabic TV show after being recommended it after watching another Arabic-language show (Justice).'),
+  ('Netflix','Movie',true,'Marathi','Firebrand','https://www.netflix.com/title/81026327','2019-03-02','day','2019-03-02','day','I watched this movie within a few days of its release on Netflix (2019-02-22). It was an interesting movie about a female divorce lawyer who was combating her own rape trauma.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','The Crown: Season 2','https://www.netflix.com/title/80025678','2019-03-16','day','2019-04-06','day','I realized in March 2019 that Season 2 is out (I had watched Season 1 before it had been out). After watching Episode 1 on 2019-03-16, I took a break and then resumed from Episode 2 onward on 2019-03-29.'),
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Delhi Crime','https://www.netflix.com/title/81076756','2019-03-23','day','2019-03-24','day','I watched this TV show about the 2012 Delhi gang rape within a couple of days of its release on Netflix, thanks to heavy promotion by Netflix on its home page.'),
   /* Crime Diaries watched part of the first episode on 2019-04-06 */
