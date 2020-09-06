@@ -95,7 +95,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Bulbbul','https://www.netflix.com/title/81029150','2020-06-26','day','2020-06-26','day','I decided to watch this movie because Netflix promoted it on the browse page, and reviews were positive.'),
   ('Netflix','Single video (such as movie)',true,'English','Athlete A','https://www.netflix.com/title/81034185','2020-06-26','day','2020-06-27','day','I decideed to watch this movie from the Netflix recommendations, and based on generally positive reviews.'),
   /* Subscription renewal (2020-09-02) */
-  ('Netflix','Series (such as TV show or web series)',false,'English','Grand Hotel: Season 3','https://www.netflix.com/title/70308105','2020-09-02','day','2020-09-03','day','I wrapped up Season 3 from where I had left it on 2019-10-26.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','Grand Hotel: Season 3','https://www.netflix.com/title/70308105','2020-09-02','day','2020-09-03','day','I wrapped up Season 3 from where I had left it on 2019-10-26.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Guilty','https://www.netflix.com/title/81116486','2020-09-04','day','2020-09-05','day','I watched this movie based on a Netflix home page recommendation.'),
+  ('Netflix','Series (such as TV show or web series)',true,'English/Hindi','Masaba Masaba','https://www.netflix.com/title/81122196','2020-09-05','day',NULL,NULL,'I started watching this TV show based on a home page recommmendation on Netflix.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
