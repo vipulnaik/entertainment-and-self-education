@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -97,7 +97,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   /* Subscription renewal (2020-09-02) */
   ('Netflix','Series (such as TV show or web series)',false,'English','Grand Hotel: Season 3','https://www.netflix.com/title/70308105','2020-09-02','day','2020-09-03','day','I wrapped up Season 3 from where I had left it on 2019-10-26.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Guilty','https://www.netflix.com/title/81116486','2020-09-04','day','2020-09-05','day','I watched this movie based on a Netflix home page recommendation.'),
-  ('Netflix','Series (such as TV show or web series)',true,'English/Hindi','Masaba Masaba','https://www.netflix.com/title/81122196','2020-09-05','day',NULL,NULL,'I started watching this TV show based on a home page recommmendation on Netflix.');
+  ('Netflix','Series (such as TV show or web series)',true,'English/Hindi','Masaba Masaba','https://www.netflix.com/title/81122196','2020-09-05','day','2020-09-06','day','I started watching this TV show based on a home page recommmendation on Netflix.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
