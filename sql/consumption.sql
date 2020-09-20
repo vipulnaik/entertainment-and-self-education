@@ -99,7 +99,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Guilty','https://www.netflix.com/title/81116486','2020-09-04','day','2020-09-05','day','I watched this movie based on a Netflix home page recommendation.'),
   ('Netflix','Series (such as TV show or web series)',true,'English/Hindi','Masaba Masaba','https://www.netflix.com/title/81122196','2020-09-05','day','2020-09-06','day','I started watching this TV show based on a home page recommmendation on Netflix.');
   /* The Stranger Season 2: start 2020-09-06 */
-  /* Was It Love?: start 2020-09-08 */
+  /* Was It Love?: start 2020-09-08, end 2020-09-19 */
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
