@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -34,6 +34,27 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('Netflix','Series (such as TV show or web series)',true,'English','Gilmore Girls: A Year in the Life','https://www.netflix.com/title/80109415','2017-02-01','month','2017-02-01','month','I got a Netflix subscription mainly for the purpose of watching this miniseries, and watched the miniseries promptly after getting the subscription.'),
   /* Entered from CSV */
+  /* Watched a bit of A Decent Arrangement on 2018-05-12 */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Te3n','https://www.netflix.com/title/80113673','2018-05-12','day','2018-05-12','day','I watched this ovie based on a Netflix recommendation. It was my second movie starring Vidya Balan and Nawazuddin Siddiqui, right after Kahaani.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Rahasya','https://www.netflix.com/title/80223228','2018-05-12','day','2018-05-12','day','I watched this movie, that is based on (but not a realistic depiction of) the 2008 Noida double murder caase, based on a Netflix recommendation.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Ugly',NULL,'2018-05-13','day','2018-05-13','day','I believe I watched this movie based on a Netflix recommendation.'),
+  /* Watched a bit of Shahid 2018-05-13 */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Aarakshan','https://www.netflix.com/title/70211474','2018-05-16','day','2018-05-16','day','I believe I watched this movie based on a Netflix recommendation.'),
+  /* Watched a bit of Masaan on 2019-05-17 */
+  ('Netflix','Series (such as television show or web series)',true,'English','13 Reasons Why: Season 2','https://www.netflix.com/title/80117470','2018-05-18','day','2018-05-23','day','I started watching this season on the day of its release. I had previously watched Season 1 and was therefore interested in continuing to Season 2.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Talvar (Guilty)','https://www.netflix.com/title/80080618','2018-05-25','day','2018-05-25','day','I watched this movie basd on a Netflix recommendation, shortly after watching Rahasya, another Bollywood movie also based on the 2008 Noida double murder case.')
+  ('Netflix','Single video (such as movie)',false,'Hindi','Half Girlfriend','https://www.netflix.com/title/80192420','2018-05-29','day','2018-05-29','day','I watched this movie based on a Netflix recommendation. It would lead me to discover the "Phir Bhi Tumko Chaahunga" song that would become one of my favorite songs of all time.'),
+  /* Watched a little bit of Ajab Prem Ki Ghazab Kahani on 2018-07-09 */
+  ('Netflix','Series (such as TV show or web series)',false,'English','The Indian Detective: Season 1','https://www.netflix.com/title/80190279','2018-05-28','day','2018-07-10','day','I believe I watched this Canadian TV show based on a Netflix recommendation.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Hindi','Agent Raghav','https://www.netflix.com//title/80122232','2018-07-10','day','2018-07-20','day','I believe I watched this TV show based on a Netflix recommendation. I got through the first 19 episodes; I would watch Episode 20 a year later, on 2019-08-01.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Hindi','Powder','https://www.netflix.com/title/80235135','2018-07-21','day','2018-07-28','day','I watched this TV series basd on a Netflix recommendation. This was the first of three YRF Television shows produced by Aditya Chopra that I watched on Netflix in quick succession, the next two being Khotey Sikkey and Rishta.com.'),
+  ('Netflix','Single video (such as movie)',false,'Marathi','Sairat','https://www.netflix.com/title/80124313','2018-07-28','day','2018-07-28','day','I do not reremember if I searched for this movie or saw it in a Netflix recommendation; however, I had heard of this movie in the past and been previously disappointed that it was not available on ErosNow.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Hindi','Khotey Sikkey','https://www.netflix.com/title/80235139','2018-07-29','day','2018-07-30','day','I started watching this series and watched the first six episodes. This was the second of three YRF Television shows produced by Aditya Chopra that I watched on Netflix in quick succession, the first being Powder and the next being Rishta.com.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Baahubali: The Beginning (Hindi Version)','https://www.netflix.com/title/80204117','2018-08-01','day','2018-08-01','day','I believe I watched this movie based on a Netflix recommendattion, but I am not sure. I had already heard a lot of good things about the movie before I started watching it.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Baahubali 2: The Conclusion (Hindi Version)','https://www.netflix.com/title/80203996','2018-08-03','day','2018-08-03','day','I watched this movie shortly after watching "Baahubali: The Beginning" -- its predecessor.'),
+  ('Netflix','Single video (such as movie)',false,'English/Korean','Okja','https://www.netflix.com/title/80091936','2018-08-05','day','2018-08-05','day','I believe I looked for this movie on Netflix, having heard of it from outside Netflix.'),
+  /* Watched some part of Lust Stories 2020-08-05 */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Toilet: Ek Prem Katha','https://www.netflix.com/title/80199962','2018-08-24','day','2018-08-24','day','I watched this movie based on a Netflix recommmendation. I would later watch the similar movie, Pad Man, also starring Akshay Kumar.'),
   /* Watched a little bit of Baabul 2018-08-25 */
   ('Netflix','Single video (such as movie)',false,'Hindi','Secret Superstar','https://www.netflix.com/title/80245408','2018-08-26','day','2018-08-26','day','I watched this movie based on a Netflix recommendation.'),
   ('Netflix','Series (such as TV show or web series)',false,'Hindi','Rishta.com','https://www.netflix.com/title/80234795','2018-08-26','day','2018-08-28','day','I started watching this series and watched the first six episodes. This was the third of YRF Television shows produced by Aditya Chopra that I watched on Netflix in quick succession, the previous two being Powder and Khotey Sikkey.'),
