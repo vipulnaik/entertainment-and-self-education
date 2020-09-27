@@ -32,8 +32,32 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 
 /* Netflix stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
-  ('Netflix','Series (such as TV show or web series)',true,'English','Gilmore Girls: A Year in the Life','https://www.netflix.com/title/80109415','2017-02-01','month','2017-02-01','month','I got a Netflix subscription mainly for the purpose of watching this miniseries, and watched the miniseries promptly after getting the subscription.'),
-  /* Entered from CSV */
+  ('Netflix','Series (such as TV show or web series)',true,'English','Gilmore Girls: A Year in the Life','https://www.netflix.com/title/80109415','2017-01-08','day','2017-01-12','day','I got a Netflix subscription (first 30 days free) mainly for the purpose of watching this miniseries, and watched the miniseries promptly after getting the subscription.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','The House of Cards Trilogy (BBC): House of Cards (Season 1)',NULL,'2017-01-24','day','2017-01-25','day','I started watching this mistakenly thinking it is the House of Cards Netflix original. I soon realized my mistake but continued anyway.'),
+  /* 2017-01-25: Three episodes of A Young Doctor's Notebook */
+  ('Netflix','Series (such as TV show or web series)',false,'English','The House of Cards Trilogy (BBC): To Play the King (Season 2)',NULL,'2017-01-25','day','2017-01-26','day','I started watching this right after finishing Season 1 (House of Cards).'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','The House of Cards Trilogy (BBC): The Final Cut (Season 3)',NULL,'2017-01-26','day','2017-01-27','day','I started watching this right after finishing Season 2 (To Play the King).'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','House of Cards: Season 1','https://www.netflix.com/title/70178217','2017-01-28','day','2017-01-31','day','I started watching this TV show because of its fame; I had just finished watching the original British TV series it was based on.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','House of Cards: Season 2','https://www.netflix.com/title/70178217','2017-01-31','day','2017-02-04','day','I proceeded to thisseason right after finishing Season 1.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','House of Cards: Season 3','https://www.netflix.com/title/70178217','2017-02-04','day','2017-02-16','day','I proceeded to thisseason right after finishing Season 2.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','House of Cards: Season 4','https://www.netflix.com/title/70178217','2017-02-16','day','2017-03-05','day','I proceeded to thisseason right after finishing Season 3.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Airlift',NULL,'2017-03-17','day','2017-03-17','day','I watched this Hindi movie based on a Netflix recommendation. I mostly liked it.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Gulaab Gang',NULL,'2017-03-18','day','2017-03-18','day','I watched this Hindi movie based on a Netflix recommendation. I liked it though it had more violence than ideal.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Kaanchi',NULL,'2017-04-02','day','2017-04-02','day','I watched this Hindi movie based on a Netflix recommendation. It was decent, but had more violence than ideal.'),
+  ('Netflix','Single video (such as movie)',false,'Tamil','O Kadhal Kanmani',NULL,'2017-04-02','day','2017-04-02','day','I watched this Tamil movie (titled OK Kanmani on Netflix) based on a Netflix recommendation.'),
+  /* 2017-04-28 partial watch of Dilwale */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Pink','https://www.netflix.com/title/80144448','2017-04-28','day','2017-04-28','day','I watched this movie based on a Netflix recommendattion. I mostly liked it.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','The Crown: Season 1','https://www.netflix.com/title/80025678','2017-05-13','day','2017-05-13','day','I watched this season based on a Netflix recommendation. I largely enjoyed it.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','13 Reasons Why: Season 1','https://www.netflix.com/title/80117470','2017-05-15','day','2017-05-16','day','I watched this show just a little over 45 days after its release, based on a Netflix recommendation and based on buzz about the show.'),
+  /* 2017-05-18: two episodes of The West Wing */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Gabbar Is Back','https://www.netflix.com/title/80057278','2017-05-18','day','2017-05-18','day','I watched this movie based on a Netflix recommendation.'),
+  ('Netflix','Series (such as TV show or web series)',true,'English','House of Cards: Season 5','https://www.netflix.com/title/70178217','2017-06-03','day','2017-06-05','day','I started watching Season 5 within a few days of its release. I had already watched the first four seasons by then.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','Orange is the New Black: Season 1','https://www.netflix.com/title/70242311','2017-10-14','day','2017-10-22','day','I watched this season based on a Netflix recommendation. I lost interest near the end.'),
+  /* 2017-10-17: pilot of Breaking Bad */
+  ('Netflix','Single video (such as movie)',false,'Hindi','Dangal','https://www.netflix.com/title/80166185','2017-10-21','day','2017-10-21','day','I watched this movie based on a Netflix recommendation, but it was a movie I already knew about from before.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Raees','https://www.netflix.com/title/80164778','2017-10-21','day','2017-10-21','day','I watched this movie based on a Netflix recommendation.'),
+  /* 2017-10-22 How to Get Away With Murder: 2 episodes */
+  /* 2018 onward */
   ('Netflix','Series (such as TV show or web series)',false,'English','Scandal: Season 1','https://www.netflix.com/title/70197057','2018-03-19','day','2018-03-24','day','I watched this show based on a Netflix recommendation, likely because I had previously watched a few episodes of How to Get Away With Murder, that also involves Shonda Rhimes. This was the first Netflix show I watched after a hiatus from Netflix (since 2017-10-22).'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Scandal: Season 2','https://www.netflix.com/title/70197057','2018-03-19','day','2018-03-24','day','I watched this season shortly after finishing Season 1.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Scandal: Season 3','https://www.netflix.com/title/70197057','2018-03-24','day','2018-03-29','day','I watched this season shortly after finishing Season 2.'),
@@ -162,7 +186,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'English/Hindi','Masaba Masaba','https://www.netflix.com/title/81122196','2020-09-05','day','2020-09-06','day','I started watching this TV show based on a home page recommmendation on Netflix.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Stranger: Season 2','https://www.netflix.com/title/80187302','2020-09-06','day',NULL,NULL,'I started watching this season after reviving my Netflix subscription; I had watched the previous season back in November 2019.'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Was It Love?','https://www.netflix.com/title/81289013','2020-09-08','day','2020-09-19','day','I watched this TV show based on a Netflix recommendation after I took a paus from Stranger (that was still live and that I therefore couldn''t finish anyways).'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','The Lies Within','https://www.netflix.com/title/81191500','2020-09-20','day',NULL,NULL,'I watched this TV show based on a Netflix recommendation right after I finished watching the "Was It Love?" TV show.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','The Lies Within','https://www.netflix.com/title/81191500','2020-09-20','day','2020-09-26','day','I watched this TV show based on a Netflix recommendation right after I finished watching the "Was It Love?" TV show.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
