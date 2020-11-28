@@ -310,6 +310,11 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Prisoner of Azkaban','https://www.amazon.com/gp/product/B0091X8FUE/','2020-03-17','day','2020-03-17','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.'),
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Order of the Phoenix','https://www.amazon.com/Harry-Potter-Phoenix-Daniel-Radcliffe/dp/B0012GE91W/','2020-08-06','day','2020-08-06','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.');
 
+/* YouTube movies */
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('YouTube','Single video (such as movie)','Hindi','Pyaar Impossible','https://www.youtube.com/watch?v=0lsTWqapl8o','2012-08-08','month','2012-08-12','month','I rented this movie from YouTube on 2012-08-08 and the rental expired on 2012-08-12. I do not remember exactly when I watched it.'),
+  ('YouTube','Single video (such as movie)','Hindi','Befikre','https://www.youtube.com/watch?v=_TGsB_Cwo4I','2018-04-24','month','2018-04-30','month','I rented this movie from YouTube on 2018-04-24 and the rental expired on 2018-05-24. I believe I watched the movie within a few days of renting it.');
+
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('YouTube','Single video (such as movie)','English','Never Split the Difference: Chris Voss: Talks at Google','https://www.youtube.com/watch?v=guZa7mQV1l0','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
