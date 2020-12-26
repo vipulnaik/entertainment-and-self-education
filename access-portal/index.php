@@ -19,6 +19,8 @@ print '<li><a href="#consumptionSummaryByPrimaryLanguageAndFormat">Consumption s
 print '<li><a href="#consumptionSummaryByConsumptionVenueAndFormat">Consumption summary by consumption venue and format</a></li>';
 print '<li><a href="#consumptionSummaryByConsumptionVenuePrimaryLanguageAndFormat">Consumption summary by consumption venue, primary language, and format</a></li>';
 print '<li><a href="#consumptionSummaryByStartYearAndFormat">Consumption summary by start year and format</a></li>';
+print '<li><a href="#consumptionSummaryByConsumptionVenueStartYearAndFormat">Consumption summary by consumption venue, start year, and format</a></li>';
+print '<li><a href="#consumptionSummaryByPrimaryLanguageStartYearAndFormat">Consumption summary by primary language, start year, and format</a></li>';
 print '<li><a href="#consumptionList">Consumption list</a></li>';
 print '</ul>';
 
@@ -26,6 +28,8 @@ include ("backend/consumptionSummaryByPrimaryLanguageAndFormat.inc");
 include ("backend/consumptionSummaryByConsumptionVenueAndFormat.inc");
 include ("backend/consumptionSummaryByConsumptionVenuePrimaryLanguageAndFormat.inc");
 include ("backend/consumptionSummaryByStartYearAndFormat.inc");
+include ("backend/consumptionSummaryByConsumptionVenueStartYearAndFormat.inc");
+include ("backend/consumptionSummaryByPrimaryLanguageStartYearAndFormat.inc");
 include ("backend/consumptionList.inc");
 
 include_once('anchorjs.inc');
