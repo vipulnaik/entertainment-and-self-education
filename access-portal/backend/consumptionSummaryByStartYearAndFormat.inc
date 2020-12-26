@@ -16,7 +16,7 @@ print '<h4 id="consumptionSummaryByStartYearAndFormat">Consumption summary by st
 print "\n";
 print '<table id="myTableConsumptionSummaryByStartYearAndFormat" class="tablesorter">'."\n";
 print "<thead>\n";
-print '<tr><th>Sttart year</th>';
+print '<tr><th>Start year</th>';
 print '<th>Count of consumption of distinct single videos (such as movies)</th>';
 print '<th>Count of consumption of distinct series (such as TV show or web series)</th>';
 print "</tr></thead>\n<tbody>\n";
