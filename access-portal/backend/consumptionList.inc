@@ -13,6 +13,8 @@ print '<th>Format</th>';
 print '<th>Primary language</th>';
 print '<th>Start date</th>';
 print '<th>End date</th>';
+print '<th>Live watch (watch within 45 days of release)?</th>';
+print '<th>Rewatch?</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
@@ -29,6 +31,8 @@ for ($i = 0; $i < $consumptionListResult -> num_rows; $i++) {
   print '<td>'.$row['primary_language'].'</td>';
   printDateWithPrecision($row['start_date'], $row['start_date_precision']);
   printDateWithPrecision($row['end_date'],$row['end_date_precision']);
+  print '<td>'.($row['live_watch'] ? 'true' : 'false').'</td>';
+  print '<td>'.($row['rewatch'] ? 'true' : 'false').'</td>';
   if (isset($row['notes'])) {
     print '<td>'.cleanNotes($row['notes']).'</td>';
   }

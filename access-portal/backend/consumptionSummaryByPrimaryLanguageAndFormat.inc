@@ -1,6 +1,6 @@
 <?php
 
-$consumptionSummaryByPrimaryLanguageAndFormatQuery = "select primary_language, format, count(1) as freq from consumption group by primary_language, format;";
+$consumptionSummaryByPrimaryLanguageAndFormatQuery = "select primary_language, format, count(distinct item) as freq from consumption group by primary_language, format;";
 $consumptionSummaryByPrimaryLanguageAndFormatResult = $mysqli -> query($consumptionSummaryByPrimaryLanguageAndFormatQuery);
 
 $consumptionSummaryArray = [];
@@ -17,8 +17,8 @@ print "\n";
 print '<table id="myTableConsumptionSummaryByPrimaryLanguageAndFormat" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Primary language</th>';
-print '<th>Count of consumption of single videos (such as movies)</th>';
-print '<th>Count of consumption of series (such as TV show or web series)</th>';
+print '<th>Count of consumption of distinct single videos (such as movies)</th>';
+print '<th>Count of consumption of distinct series (such as TV show or web series)</th>';
 print "</tr></thead>\n<tbody>\n";
 
 foreach ($languages as $language) {
@@ -30,3 +30,5 @@ foreach ($languages as $language) {
 }
 
 print "</tbody>\n</table>\n";
+
+?>
