@@ -3,7 +3,7 @@
 $consumptionListQuery = "select * from consumption order by start_date desc;";
 $consumptionListResult = $mysqli -> query($consumptionListQuery);
 
-print '<h4 id="consumptionList">Consumption list by day ('.$consumptionListResult -> num_rows.' rows)</h4>';
+print '<h4 id="consumptionList">Consumption list ('.$consumptionListResult -> num_rows.' rows)</h4>';
 print "\n";
 print '<table id="myTableConsumptionList" class="tablesorter">'."\n";
 print "<thead>\n";
