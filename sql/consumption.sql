@@ -1,6 +1,6 @@
 create table consumption(
   `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video'),
+  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
   `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German'),
@@ -300,6 +300,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Korean','Blood','https://www.viki.com/tv/24437c-blood','2020-08-05','day','2020-08-16','day','This was one of the few medical Korean dramas that I had not gotten around to watching for a while. I finally got around to it.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Flower of Evil','https://www.viki.com/tv/37073c-flower-of-evil','2020-12-05','day','2020-12-14','day','I watched this drama while looking for highly-rated dramas on Viki that I had not yet watched.'),
   /* Movies */
+  /* 2015 */
+  ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
+  /* 2017/2018 */
   ('Viki','Single video (such as movie)',false,'Korean','The King','https://www.viki.com/movies/35055c-the-king','2017-01-01','year','2017-01-01','year','I believe I watched this movie some time in 2017, the same year it was releeased.'),
   ('Viki','Single video (such as movie)',false,'Korean','New Trial','https://www.viki.com/movies/35083c-new-trial','2018-01-01','year','2018-01-01','year','I believe I watched this movie some time in 2018, a year after its release.'),
   ('Viki','Single video (such as movie)',false,'Korean','The Attorney','https://www.viki.com/movies/37061c-the-attorney','2020-05-15','day','2020-05-15','day','The Korean movie is partly based on part of the early life of Roh Moo-hyun, who would later become the President of South Korea.');
@@ -355,6 +358,36 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('EconLib','Single video (such as movie)','English','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
+
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  /* 2013 */
+  ('ErosNow','Single video (such as movie)','Hindi','Vicky Donor','https://erosnow.com/movie/watch/1004477/vicky-donor','2013-01-01','year','2013-01-01','year','The movie was released in June 2012 and I watched it while still in Chicago, so I believe my watching of it must have been in 2013. But I''m not totally sure, and I might have first watched it in 2012.'),
+  ('ErosNow','Single video (such as movie)','Hindi','The Attacks of 26/11','https://erosnow.com/movie/watch/1004914/the-attacks-of-26-11','2013-01-01','year','2013-01-01','year','I don''t remeber exactly when I watched this movie but it must have been late in the year, since the movie was theatrically released in early March and would not have been uploaded online till later in the year.'),
+  /* 2014 */
+  ('ErosNow','Single video (such as movie)','Hindi','Aakrosh','https://erosnow.com/movie/watch/1000019/aakrosh','2014-01-01','year','2014-01-01','year','I don''t remember exactly when I watched this movie, but I remember it being in Berkeley befor I started my job in August 2014. So it was some time in 2014. I liked the movie quite a bit.'),
+  ('ErosNow','Single video (such as movie)','Hindi','Khakee',NULL,'2014-01-01','year','2014-01-01','year','I don''t remember exactly when I watched this movie, but I remember it being in Berkeley befor I started my job in August 2014. So it was some time in 2014. I liked the movie quite a bit, specifically the fact that a lot of different actors got their moments in the spotlight.'),
+  ('ErosNow','Single video (such as movie)','Hindi','Ram-Leela','https://erosnow.com/movie/watch/1005004/goliyon-ki-raasleela-ram-leela','2014-01-01','year','2014-01-01','year','I don''t remember exactly when I watched this movie, but I believe it was some time in 2014. My purchase of the song Ang Laga De from Amazon Music on 2014-12-22 roughly corroborates this.'),
+  ('ErosNow','Single video (such as movie)','Hindi','Inkaar',NULL,'2014-01-01','year','2014-01-01','year','I don''t remember exactly when I watched this movie, but I believe it was around 2014. I had mixed feelings about the movie.'),
+  /* 2015 */
+  ('ErosNow','Single video (such as movie)','Hindi','Dil Dhadakne Do',NULL,'2015-01-01','year','2015-01-01','year','I don''t remember exactly when I watched this movie, but it must have been in either 2015 or 2016. The movie was released in June 2015 and my ErosNow subscription expired in August 2016.'),
+  /* 2018 */
+  ('ErosNow','Single video (such as movie)','Hindi','Ki & Ka','https://erosnow.com/movie/watch/1047825/ki-and-ka','2018-09-01','month','2018-09-01','month','I remember watching this movie some time shortly after restarting my ErosNow subscription on 2018-08-29; my estimate of this is that it would have been in 2018-09.'),
+  ('ErosNow','Single video (such as movie)','Hindi','NH10','https://erosnow.com/movie/watch/1014298/nh10','2018-09-01','month','2018-09-01','month','I remember watching this movie some time shortly after restarting my ErosNow subscription on 2018-08-29; my estimate of this is that it would have been in 2018-09. It was also close in time to the watching of PK, for which I have a date of 2018-09-02.'),
+  ('ErosNow','Single video (such as movie)','Hindi','Bajirao Mastani','https://erosnow.com/movie/watch/1023354/bajirao-mastani','2018-09-01','month','2018-09-01','month','I remember watching part of this movie some time shortly after restarting my ErosNow subscription on 2018-08-29; my estimate of this is that it would have been in 2018-09. I believe I did not complete watching this movie.'),
+  ('ErosNow','Single video (such as movie)','Hindi','Agent Vinod','https://erosnow.com/movie/watch/1004474/agent-vinod','2018-10-01','month','2018-10-01','month','I remember watching this movie around the same time as two other similar movies starring Saif Ali Khan: Kurbaan and Phantom. The month of watching is estimated based on the dates of watching the other two movies (that were on Netflix).');
+
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Movie theater','Single video (such as movie)','English','Ex Machina',NULL,'2015-04-01','month','2015-04-01','month','I watched this movie as part of a company movie outing.');
+
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('iTunes','Single video (such as movie)','Hindi','2 States',NULL,'2015-12-07','day','2015-12-09','day','I rented out this movie from iTunes; I believe it was not available on ErosNow at th tim. I enjoyed it quite a bit.'),
+  ('iTunes','Single video (such as movie)','Hindi','Azhar',NULL,'2017-03-12','day','2017-03-14','day','I rented out this movie from iTunes; I believe it was not available on Netflix or ErosNow and my interest in it had been piqued. I enjoyed it moderately.'),
+  ('iTunes','Single video (such as movie)','Hindi','Dil Hai Ki Manta Nahin',NULL,'2018-01-23','day','2018-01-25','day','I rented out this movie from iTunes; I believe my interest in the movie was piqued by interest in some of its songs.');
+
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('In-flight entertainment','Single video (such as movie)','Hindi','Ae Dil Hai Mushkil',NULL,'2017-11-01','month','2017-11-01','month','I watched this movie (without sound) on either the flight from San Francisco to Bengaluru or the return flight. I watched many of the songs later with video, and watched parts of the movie when it was available on Netflix. I liked the movie '),
+  ('In-flight entertainment','Single video (such as movie)','English','Circle',NULL,'2017-11-01','month','2017-11-01','month','I watched this movie (without sound) on either the flight from San Francisco to Bengaluru or the return flight.'),
+  ('In-flight entertainment','Single video (such as movie)','Korean','Fabricated City',NULL,'2017-11-01','month','2017-11-01','month','I watched this movie (without sound) on either the flight from San Francisco to Bengaluru or the return flight.');
 
 /* Rough notes:
   - Resumed Search: WWW on July 12 or so
