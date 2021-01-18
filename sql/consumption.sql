@@ -1,6 +1,6 @@
 create table consumption(
   `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes'),
+  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
   `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German'),
@@ -399,6 +399,5 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('In-flight entertainment','Single video (such as movie)','English','Circle',NULL,'2017-11-01','month','2017-11-01','month','I watched this movie (without sound) on either the flight from San Francisco to Bengaluru or the return flight.'),
   ('In-flight entertainment','Single video (such as movie)','Korean','Fabricated City',NULL,'2017-11-01','month','2017-11-01','month','I watched this movie (without sound) on either the flight from San Francisco to Bengaluru or the return flight.');
 
-/* Rough notes:
-  - Resumed Search: WWW on July 12 or so
- */
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Other video player','Single video (such as movie)','English','EATING THIS DAILY IS THE "ON SWITCH" THAT IGNITES YOUR METABOLISM','https://turmeric.sculptnation.com/turmeric-ggl-cpc/','2021-01-18','day','2021-01-18','day','I watched this video by Vince Sant based on a YouTube ad. The TL;DR of the video was that convering white fat to brown fat by suppressing the SLR-11 protein helps burn fat and lose body mass, and turmeric (particularly black, and with high curcumin) helps with this. It ended with advertising the Turmeric Black supplement.');
