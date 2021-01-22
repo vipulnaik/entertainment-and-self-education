@@ -7,7 +7,7 @@ $consumptionSummaryArray = [];
 for ($i = 0; $i < $consumptionSummaryByConsumptionVenueAndFormatResult -> num_rows; $i++) {
   $row = $consumptionSummaryByConsumptionVenueAndFormatResult -> fetch_assoc();
   if (!isset($consumptionSummaryArray[$row['consumption_venue']])) {
-    $consumptionSummaryArray[$row['coonsumption_venue']] = [];
+    $consumptionSummaryArray[$row['consumption_venue']] = [];
   }
   $consumptionSummaryArray[$row['consumption_venue']][$row['format']] = $row['freq'];
 }
