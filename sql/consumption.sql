@@ -312,6 +312,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',true,'Korean','Search: WWW','https://www.viki.com/tv/36618c-search-www','2019-06-01','month','2020-08-03','day','I started the drama around May 2019 (not too sure of the exact start date) then switched to other stuff. I resumed it around July 12, 2020 and finished it on August 3.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Blood','https://www.viki.com/tv/24437c-blood','2020-08-05','day','2020-08-16','day','This was one of the few medical Korean dramas that I had not gotten around to watching for a while. I finally got around to it.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Flower of Evil','https://www.viki.com/tv/37073c-flower-of-evil','2020-12-05','day','2020-12-14','day','I watched this drama while looking for highly-rated dramas on Viki that I had not yet watched.'),
+  /* 2021 */
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Hotel Del Luna','https://www.viki.com/tv/36667c-hotel-del-luna','2021-01-30','day','2021-02-27','day','I watched this TV show based on its high ratings and positive reviews. I was not disappointed! I really enjoyed its exploration of the themes of love, death, forgiveness, and redemption.'),
   /* Movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
