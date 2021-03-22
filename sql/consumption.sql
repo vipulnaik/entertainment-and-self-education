@@ -316,6 +316,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Korean','Flower of Evil','https://www.viki.com/tv/37073c-flower-of-evil','2020-12-05','day','2020-12-14','day','I watched this drama while looking for highly-rated dramas on Viki that I had not yet watched.'),
   /* 2021 */
   ('Viki','Series (such as TV show or web series)',false,'Korean','Hotel Del Luna','https://www.viki.com/tv/36667c-hotel-del-luna','2021-01-30','day','2021-02-27','day','I watched this TV show based on its high ratings and positive reviews. I was not disappointed! I really enjoyed its exploration of the themes of love, death, forgiveness, and redemption.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Encounter','https://www.viki.com/tv/36239c-encounter','2021-03-04','day','2021-03-20','day','I watched this TV show based on its high ratings and positive reviews. I found it quite good overall, though some aspects of the last few episodes felt awkward to me.'),
   /* Movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
