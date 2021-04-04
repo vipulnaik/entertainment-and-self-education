@@ -1,6 +1,6 @@
 <?php
 
-$consumptionListQuery = "select * from consumption order by start_date desc;";
+$consumptionListQuery = "select * from consumption order by start_date desc, end_date desc;";
 $consumptionListResult = $mysqli -> query($consumptionListQuery);
 
 print '<h4 id="consumptionList">Consumption list ('.$consumptionListResult -> num_rows.' rows)</h4>';
