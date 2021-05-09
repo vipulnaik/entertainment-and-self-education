@@ -14,6 +14,13 @@ create table consumption(
   `notes` varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
+/* Notes:
+  - 2021-04-22 Hans Zimmer
+  - 2021-04-25 Law School
+  - 2021-05-01 Pandemic, Prison Playbook, Rookie Historian Goo Hae-Ryung
+  - 2021-05-09 Control Z
+ */
+
 /* MasterClass stuff */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('MasterClass','Series (such as TV show or web series)','English','Chris Voss Teaches the Art of Negotiation','https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation','2020-04-05','day','2020-04-06','day','This class was one of the main motivators for me to sign up for MasterClass. The content seems relevant enough to many day-to-day situations and I expect it''ll influence my real-world behavior. It generally lived up to my expectations. I believe that a single listening was enough for me to absorb and retain almost everything. I also downloaded and saved the workbook.'),
