@@ -14,11 +14,12 @@ create table consumption(
   `notes` varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-/* Notes:
-  - 2021-04-22 Hans Zimmer
+/* Notes on starts:
   - 2021-04-25 Law School
-  - 2021-05-01 Pandemic, Prison Playbook, Rookie Historian Goo Hae-Ryung
-  - 2021-05-09 Control Z
+  - 2021-05-01 Prison Playbook
+  - 2021-05-19 Usher
+  - 2021-05-20 Itaewon Class
+  - 2021-05-25 Extra Curricular
  */
 
 /* MasterClass stuff */
@@ -267,6 +268,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',true,'Korean','Defendant','https://www.viki.com/tv/32810c-defendant','2017-01-01','month','2017-03-01','month','I watched this TV show around the time of its release,'),
   ('Viki','Series (such as TV show or web series)',true,'Korean','Good Manager','https://www.viki.com/tv/32747c-good-manager','2017-02-01','month','2017-03-01','month','I watched this TV show (also called Chief Kim) roughly while it was live.'),
   ('Viki','Series (such as TV show or web series)',true,'Korean','Saimdang, Light''s Diary','https://www.viki.com/tv/25434c-saimdang-lights-diary','2017-02-01','month','2017-05-01','month','I watched this TV show at around the time of its release.'),
+  ('Viki','Series (such as TV show or web series)',true,'Korean','Ms. Perfect','https://www.viki.com/tv/33813c-ms-perfect','2017-03-01','month','2017-05-01','month','I watched this TV show at around the time of its release.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Dae Jang Geum (Jewel in the Palace)','https://www.viki.com/tv/614c-jewel-in-the-palace','2017-01-01','year','2017-01-01','year','I don''t remember exactly when I watched this TV show but it was some time after watching Dong Yi and Saimdang. So I place it roughly in the year of 2017.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Punch','https://www.viki.com/tv/25771c-punch','2017-02-01','month','2017-03-01','month','The months are approximate. My main memory is that I watched this shortly before Whisper, because I caught the cameos made by some Punch cast members at the end of Whisper. It was also before Scandal, because I remember recognizing a common actor in Scandal.'),
   ('Viki','Series (such as TV show or web series)',true,'Korean','Whisper','https://www.viki.com/tv/33856c-whisper','2017-04-01','month','2017-05-01','month','I watched this show shortly after it started.'),
