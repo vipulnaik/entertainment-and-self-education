@@ -21,6 +21,7 @@ create table consumption(
   - 2021-05-19 Usher
   - 2021-05-20 Itaewon Class
   - 2021-05-25 Extra Curricular
+  - 2021-05-28 Startup
  */
 
 /* MasterClass stuff */
