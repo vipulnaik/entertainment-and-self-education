@@ -17,6 +17,7 @@ create table consumption(
 /* Notes on starts:
   - 2021-04-25 Law School
   - 2021-05-01 Prison Playbook
+  - 2021-05-16 Girl from Nowhere
   - 2021-05-19 Usher
   - 2021-05-20 Itaewon Class
   - 2021-05-25 Extra Curricular
