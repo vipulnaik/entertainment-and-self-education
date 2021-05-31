@@ -21,7 +21,7 @@ create table consumption(
   - 2021-05-19 Usher
   - 2021-05-20 Itaewon Class
   - 2021-05-25 Extra Curricular
-  - 2021-05-28 Startup
+  - 2021-05-30 StartUp: Season 3
  */
 
 /* MasterClass stuff */
@@ -233,7 +233,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'English','Pandemic: How to Prevent an Outbreak','https://www.netflix.com/title/81026143','2021-05-01','day','2021-05-09','day','I watched this series after seeing it in Netflix search results related to COVID-19. I found it reasonably good; it was interesting to see this summary of the state of thought on pandemics right before COVID-19 broke out.'),
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Control Z','https://www.netflix.com/title/81021245','2021-05-09','day','2021-05-10','day','I watched this series mainly because I was interested in consuming Spanish-language content to get more comfortable with the language, and this seemed like a short and reasonably interesting series. I found it decent but didn''t relate too well with the characters (unlike some other school dramas I''ve watched, where I have gotten more emotionally involved with the story).'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Rookie Historian Goo Hae-ryung','https://www.netflix.com/title/81116487','2021-05-01','day','2021-05-15','day','I watched this series after seeing it recommended on Netflix and after reading positive reviews. I enjoyed it quite a bit including both the acting and its treatment of social issues.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','Jeffrey Epstein: Filthy Rich','https://www.netflix.com/title/80224905','2021-05-18','day','2021-05-19','day','I watched this series a few days after seeing it listed somewhere on Netflix. My interest was piqued by recent news involving connections between Jeffrey Epstein and Bill Gates.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','Jeffrey Epstein: Filthy Rich','https://www.netflix.com/title/80224905','2021-05-18','day','2021-05-19','day','I watched this series a few days after seeing it listed somewhere on Netflix. My interest was piqued by recent news involving connections between Jeffrey Epstein and Bill Gates.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 1','https://www.netflix.com/title/80154285','2021-05-28','day','2021-05-29','day','I watched this show a month after seeing it recommended as a trending item oon the Netflix homepage. I was looking for something fast-paced and this seemed to fit the bill. I enjoyed it reasonably with some reservations; I generally agree with the points that https://decider.com/2021/05/11/startup-cryptocurrency-hit-netflix/ and https://decider.com/2016/09/19/startup-sex-scenes/ make.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 2','https://www.netflix.com/title/80154285','2021-05-29','day','2021-05-30','day','I wattched this season right after finishing Season 1. My impression of it is similar to my impression of Season 1.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
