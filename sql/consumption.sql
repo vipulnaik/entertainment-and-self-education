@@ -19,7 +19,6 @@ create table consumption(
   - 2021-05-01 Prison Playbook
   - 2021-05-16 Girl from Nowhere
   - 2021-05-19 Usher
-  - 2021-05-20 Itaewon Class
   - 2021-05-25 Extra Curricular
   - 2021-05-30 StartUp: Season 3
  */
@@ -235,7 +234,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Rookie Historian Goo Hae-ryung','https://www.netflix.com/title/81116487','2021-05-01','day','2021-05-15','day','I watched this series after seeing it recommended on Netflix and after reading positive reviews. I enjoyed it quite a bit including both the acting and its treatment of social issues.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Jeffrey Epstein: Filthy Rich','https://www.netflix.com/title/80224905','2021-05-18','day','2021-05-19','day','I watched this series a few days after seeing it listed somewhere on Netflix. My interest was piqued by recent news involving connections between Jeffrey Epstein and Bill Gates.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 1','https://www.netflix.com/title/80154285','2021-05-28','day','2021-05-29','day','I watched this show a month after seeing it recommended as a trending item oon the Netflix homepage. I was looking for something fast-paced and this seemed to fit the bill. I enjoyed it reasonably with some reservations; I generally agree with the points that https://decider.com/2021/05/11/startup-cryptocurrency-hit-netflix/ and https://decider.com/2016/09/19/startup-sex-scenes/ make.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 2','https://www.netflix.com/title/80154285','2021-05-29','day','2021-05-30','day','I wattched this season right after finishing Season 1. My impression of it is similar to my impression of Season 1.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 2','https://www.netflix.com/title/80154285','2021-05-29','day','2021-05-30','day','I watched this season right after finishing Season 1. My impression of it is similar to my impression of Season 1.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Itaewon Class','https://www.netflix.com/title/81193309','2021-05-20','day','2021-05-31','day','I saw this recommended by Netflix a few times, and also read positive reviews. I really enjoyed watching it; I mostly agree with https://www.soompi.com/article/1383803wpp/5-reasons-why-itaewon-class-is-the-k-drama-you-didnt-know-you-needed and https://www.soompi.com/article/1383803wpp/5-reasons-why-itaewon-class-is-the-k-drama-you-didnt-know-you-needed (this review is longer and more nuanced).');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
