@@ -18,9 +18,8 @@ create table consumption(
   - 2021-04-25 Law School
   - 2021-05-01 Prison Playbook
   - 2021-05-16 Girl from Nowhere
-  - 2021-05-19 Usher
-  - 2021-05-25 Extra Curricular
-  - 2021-05-30 StartUp: Season 3
+  - 2021-06-06 Danny Elfman (resume)
+  - 2021-06-06 Ginny & Georgia
  */
 
 /* MasterClass stuff */
