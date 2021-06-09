@@ -15,7 +15,6 @@ create table consumption(
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 /* Notes on starts:
-  - 2021-04-25 Law School
   - 2021-05-01 Prison Playbook
   - 2021-05-16 Girl from Nowhere
   - 2021-06-06 Danny Elfman (resume)
@@ -237,7 +236,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 1','https://www.netflix.com/title/80154285','2021-05-28','day','2021-05-29','day','I watched this show a month after seeing it recommended as a trending item oon the Netflix homepage. I was looking for something fast-paced and this seemed to fit the bill. I enjoyed it reasonably with some reservations; I generally agree with the points that https://decider.com/2021/05/11/startup-cryptocurrency-hit-netflix/ and https://decider.com/2016/09/19/startup-sex-scenes/ make.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 2','https://www.netflix.com/title/80154285','2021-05-29','day','2021-05-30','day','I watched this season right after finishing Season 1. My impression of it is similar to my impression of Season 1.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 3','https://www.netflix.com/title/80154285','2021-05-30','day','2021-06-04','day','I watched this season right after finishing Season 2. My impression of it is similar to my impression of Seasons 1 and 2.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','Extracurricular','https://www.netflix.com/title/80990668','2021-05-25','day','2021-06-06','day','I watched this based on a past Netflix recommendation. I liked it a decent amount; I generally agree with the points that https://www.cinemaescapist.com/2020/05/review-extracurricular-netflix/ makes.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Extracurricular','https://www.netflix.com/title/80990668','2021-05-25','day','2021-06-06','day','I watched this based on a past Netflix recommendation. I liked it a decent amount; I generally agree with the points that https://www.cinemaescapist.com/2020/05/review-extracurricular-netflix/ makes.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Korean','Law School','https://www.netflix.com/title/81413647','2021-04-25','day','2021-06-09','day','I watched this TV show while it was on air. I liked it quite a bit, including the introduction to several legal concepts and their use in furthering the plot.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
