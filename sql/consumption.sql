@@ -15,10 +15,8 @@ create table consumption(
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 /* Notes on starts:
-  - 2021-05-01 Prison Playbook
   - 2021-05-16 Girl from Nowhere
   - 2021-06-06 Danny Elfman (resume)
-  - 2021-06-06 Ginny & Georgia
  */
 
 /* MasterClass stuff */
@@ -238,7 +236,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'English','StartUp: Season 3','https://www.netflix.com/title/80154285','2021-05-30','day','2021-06-04','day','I watched this season right after finishing Season 2. My impression of it is similar to my impression of Seasons 1 and 2.'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Extracurricular','https://www.netflix.com/title/80990668','2021-05-25','day','2021-06-06','day','I watched this based on a past Netflix recommendation. I liked it a decent amount; I generally agree with the points that https://www.cinemaescapist.com/2020/05/review-extracurricular-netflix/ makes.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Law School','https://www.netflix.com/title/81413647','2021-04-25','day','2021-06-09','day','I watched this TV show while it was on air. I liked it quite a bit, including the introduction to several legal concepts and their use in furthering the plot.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','Ginny & Georgia: Season 1','https://www.netflix.com/title/81025696','2021-06-06','day','2021-06-11','day','I watched this TV show based on a Netflix recommendation as well as several mentions of it in lists of shows similar to Gilmore Girls, that I had liked a lot. I enjoyed it; it was definitely quite different from Gilmore Girls despite a few key similarities.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','Ginny & Georgia: Season 1','https://www.netflix.com/title/81025696','2021-06-06','day','2021-06-11','day','I watched this TV show based on a Netflix recommendation as well as several mentions of it in lists of shows similar to Gilmore Girls, that I had liked a lot. I enjoyed it; it was definitely quite different from Gilmore Girls despite a few key similarities.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Prison Playbook','https://www.netflix.com/title/80214406','2021-05-01','day','2021-06-18','day','I watched this TV show based on a Netflix home page recommendation. I did not make much progress initially, getting through only about three episodes till around June 10, but then my interest got piqued. My experience closely matches that of the reviewer in https://thefangirlverdict.com/2018/05/27/review-prison-playbook-wise-prison-life/ who also took some time getting into the flow of the show: "I went through a short phase where I wasn’t feeling Show very much, at around the episode 3 and 4 mark, because I was struggling a little bit, to reconcile myself with Show’s tone. After a couple more episodes, though, I found myself settling into Show’s tone quite well, and by the end, I was sorry to say goodbye." Many other aspects of the review resonated with me as well.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
