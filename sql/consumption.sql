@@ -17,6 +17,7 @@ create table consumption(
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
   - 2021-06-06 Danny Elfman (resume)
+  - 2021-06-22 The Trials of Gabriel Fernandez
  */
 
 /* MasterClass stuff */
