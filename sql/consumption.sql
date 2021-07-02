@@ -16,6 +16,8 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
+  - 2021-06-28 Aaron Sorkin (MasterClass)
+  - 2021-07-02 Guardian / Goblin
  */
 
 /* MasterClass stuff */
