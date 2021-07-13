@@ -16,8 +16,8 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
-  - 2021-06-28 Aaron Sorkin (MasterClass)
   - 2021-07-02 Guardian / Goblin
+  - 2021-07-10 St. Vincent (MasterClass)
  */
 
 /* MasterClass stuff */
@@ -46,7 +46,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('MasterClass','Series (such as TV show or web series)','English','Emily Morse Teaches Sex and Communication','https://www.masterclass.com/classes/emily-morse-teaches-sex-and-communication','2021-04-03','day','2021-04-03','day','I was interested in this topic and saw it was short. Since my MasterClass subscription was ending in two days, I decided to watch it.'),
   ('MasterClass','Series (such as TV show or web series)','English','Penn & Teller Teach the Art of Magic','https://www.masterclass.com/classes/penn-and-teller-teach-the-art-of-magic','2021-04-03','day','2021-04-04','day','I was interested in this topic and saw it was short. Since my MasterClass subscription was ending in two days, I decided to watch it.'),
   ('MasterClass','Series (such as TV show or web series)','English','Hans Zimmer Teaches Film Scoring','https://www.masterclass.com/classes/hans-zimmer-teaches-film-scoring','2021-04-22','day','2021-05-14','day','I am quite interested in music and have been listening to several background themes of late. I saw Zimmer''s MasterClass featured on the home page and decided to try it out. I liked it quite a lot though it was slow going sometimes as I wanted to process the ideas.'),
-  ('MasterClass','Series (such as TV show or web series)','English','Usher Teaches the Art of Performance','https://www.masterclass.com/classes/usher-teaches-the-art-of-performance','2021-05-19','day','2021-06-01','day','I watched this mainly because of its partial connection to music. I found it quite decent, but in general I''m finding fairly common themes across MasterClasses so some parts felt repetitive with other MasterClasses (not the fault of Usher!). There was also less by way of technical detail than some other MasterClasses had.');
+  ('MasterClass','Series (such as TV show or web series)','English','Usher Teaches the Art of Performance','https://www.masterclass.com/classes/usher-teaches-the-art-of-performance','2021-05-19','day','2021-06-01','day','I watched this mainly because of its partial connection to music. I found it quite decent, but in general I''m finding fairly common themes across MasterClasses so some parts felt repetitive with other MasterClasses (not the fault of Usher!). There was also less by way of technical detail than some other MasterClasses had.'),
+  ('MasterClass','Series (such as TV show or web series)','English','Aaron Sorkin Teaches Screenwriting','https://www.masterclass.com/classes/aaron-sorkin-teaches-screenwriting','2021-06-28','day','2021-07-12','day','I watched this after being intrigued by some of Aaron Sorkin''s work, despite considering it off-point in many ways, including The Social Network and Trial of the Chicago 7. I was also interested in comparing and contrasting Sorkin''s guidance with that of Shonda Rhimes, whose MasterClass I had watched a while back. I found his MasterClass quite interesting; particularly the workshop sessions including script readings, pitch sessions, and the West Wing writers'' room. I might write more about this later.');
 
 /* Netflix stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
