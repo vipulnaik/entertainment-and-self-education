@@ -16,8 +16,8 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
-  - 2021-07-02 Guardian / Goblin
   - 2021-07-10 St. Vincent (MasterClass)
+  - 2021-07-24 The Smile Has Left Your Eyes
  */
 
 /* MasterClass stuff */
@@ -357,6 +357,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   /* 2021 */
   ('Viki','Series (such as TV show or web series)',false,'Korean','Hotel Del Luna','https://www.viki.com/tv/36667c-hotel-del-luna','2021-01-30','day','2021-02-27','day','I watched this TV show based on its high ratings and positive reviews. I was not disappointed! I really enjoyed its exploration of the themes of love, death, forgiveness, and redemption.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Encounter','https://www.viki.com/tv/36239c-encounter','2021-03-04','day','2021-03-20','day','I watched this TV show based on its high ratings and positive reviews. I found it quite good overall, though some aspects of the last few episodes felt awkward to me.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Guardian: The Lonely and Great God','https://www.viki.com/tv/31706c-guardian-the-lonely-and-great-god','2021-07-02','day','2021-07-24','day','I watched this TV show (also known as Goblin) based on high ratings and positive reviews; I had originally planned to watch it earlier but decided to take a little break from the genre after finishing Hotel Del Luna. While watching, I was struck by the similarities with the (in my view, better-executed) Hotel Del Luna, leading me to find https://bitchesoverdramas.com/2019/09/11/hotel-del-luna-comparisons-with-goblin/ and tweet at https://twitter.com/vipulnaik_r/status/1415151689389146114 about it. However, I felt that the show did pick up around Episode 11 or so; it just took way longer to come together for me than other shows. This also agrees with https://thefangirlverdict.com/2021/01/12/dear-kfangurl-can-you-talk-about-the-shows-that-you-didnt-review/ where the author stuck with the show for 10 episodes and couldn''t get into it.'),
   /* Movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
