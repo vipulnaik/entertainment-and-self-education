@@ -17,6 +17,7 @@ create table consumption(
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
   - 2021-07-24 The Smile Has Left Your Eyes
+  - 2021-07-28 Amy Tan MasterClass
  */
 
 /* MasterClass stuff */
