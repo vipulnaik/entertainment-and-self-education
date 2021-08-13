@@ -16,6 +16,10 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
+  - 2021-08-06: deadmau5
+  - 2021-08-06: My Little Happiness (Chinese, Viki)
+  - 2021-08-12: https://www.youtube.com/watch?v=094y1Z2wpJg
+  - 2021-08-12: https://www.youtube.com/watch?v=gDqkCxYYDGk
  */
 
 /* MasterClass stuff */
