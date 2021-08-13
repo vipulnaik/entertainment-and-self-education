@@ -18,8 +18,6 @@ create table consumption(
   - 2021-05-16 Girl from Nowhere
   - 2021-08-06: deadmau5
   - 2021-08-06: My Little Happiness (Chinese, Viki)
-  - 2021-08-12: https://www.youtube.com/watch?v=094y1Z2wpJg
-  - 2021-08-12: https://www.youtube.com/watch?v=gDqkCxYYDGk
  */
 
 /* MasterClass stuff */
@@ -426,7 +424,9 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','English','Inside the mind of a master procrastinator | Tim Urban (TED talk)','https://www.youtube.com/watch?v=arj7oStGLkU','2021-06-10','day','2021-06-10','day','I watched this video based on a YouTube recommendation on an unrelated video. I was familiar with Tim Urban through his work on the Wait But Why blog so the recommendation piqued my interest.'),
   ('YouTube','Single video (such as movie)','English','Moxie Wakes Up','https://www.youtube.com/watch?v=JcgwZk38FoY','2021-06-12','day','2021-06-12','day','I first came across Moxie via a YouTube ad. I shared Moxie with Issa, who sent me a link to this video in response. I found the video quite "cute" and it led me to wonder if cuteness will be part of AI''s takeover strategy.'),
   ('YouTube','Single video (such as movie)','English','Gilmore Girls Cast Reunion (Full Interview) | TODAY','https://www.youtube.com/watch?v=1j6bw5O6QKo','2021-07-19','day','2021-07-19','day','I watched this based on a YouTube recommendation. I had read elsewhere many of the nuggets talked about here, but a lot of the details were new to me. It was fun to listen to.'),
-  ('YouTube','Single video (such as movie)','English','Gilmore Girls - Rory, the O.G. Annoying Millennial','https://www.youtube.com/watch?v=dKXTJvR1COw','2021-07-19','day','2021-07-19','day','I watched this based on a YouTube recommendation on the reunion video. I found it quite interesting albeit a bit harsh on Rory.');
+  ('YouTube','Single video (such as movie)','English','Gilmore Girls - Rory, the O.G. Annoying Millennial','https://www.youtube.com/watch?v=dKXTJvR1COw','2021-07-19','day','2021-07-19','day','I watched this based on a YouTube recommendation on the reunion video. I found it quite interesting albeit a bit harsh on Rory.'),
+  ('YouTube','Single video (such as movie)','English','AI & Logical Induction - Computerphile','https://www.youtube.com/watch?v=gDqkCxYYDGk','2021-08-12','day','2021-08-12','day','I watched this video from Robert Miles based on a link post https://www.lesswrong.com/posts/xHLEZPcM2myYauQW5/computerphile-discusses-miri-s-logical-induction-paper on LessWrong that I found while looking for information on https://intelligence.org/2016/09/12/new-paper-logical-induction/ (MIRI''s logical induction paper). I found it engaging and interesting; it may have been quicker to read the paper directly, but at the time I was in a particularly lazy mood so consuming a video felt easier.'),
+  ('YouTube','Single video (such as movie)','English','The Simplest Math Problem No One Can Solve','https://www.youtube.com/watch?v=094y1Z2wpJg','2021-08-12','day','2021-08-12','day','I watched this video on the 3n + 1 conjecture (aka the Collatz conjecture) on seeing it as a recommendation after watching Robert Miles'' video explaining logical induction. This was mostly because I was feeling lazy and curious; I didn''t expect to gain significant value from the video. Nonetheless, the video was interesting and I learned a few new tidbits despite being generally familiar with the material already.');
 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('EconLib','Single video (such as movie)','English','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
