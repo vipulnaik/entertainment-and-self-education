@@ -16,7 +16,7 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
-  - 2021-08-06: My Little Happiness (Chinese, Viki)
+  - 2021-09-01 Reba McEntire MasterClass
  */
 
 /* MasterClass stuff */
@@ -244,7 +244,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Prison Playbook','https://www.netflix.com/title/80214406','2021-05-01','day','2021-06-18','day','I watched this TV show based on a Netflix home page recommendation. I did not make much progress initially, getting through only about three episodes till around June 10, but then my interest got piqued. My experience closely matches that of the reviewer in https://thefangirlverdict.com/2018/05/27/review-prison-playbook-wise-prison-life/ who also took some time getting into the flow of the show: "I went through a short phase where I wasn’t feeling Show very much, at around the episode 3 and 4 mark, because I was struggling a little bit, to reconcile myself with Show’s tone. After a couple more episodes, though, I found myself settling into Show’s tone quite well, and by the end, I was sorry to say goodbye." Many other aspects of the review resonated with me as well.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','The People v. O.J. Simpson: American Crime Story','https://www.netflix.com/title/80083977','2021-06-18','day','2021-06-19','day','I watched this TV show based on a Netflix home page recommendation from a few days ago. I was quite intrigued by it, and particularly by the fact that many of the plot twists were related to things that had actually happened!'),
   ('Netflix','Single video (such as movie)',true,'English','Fatherhood','https://www.netflix.com/title/81435227','2021-06-20','day','2021-06-21','day','I watched this movie based on a Netflix home page recommendation of a couple days prior. I found it a pleasant, heart-warming movie to watch. It''s based on a true story. No unexpected plot twists though.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','The Trials of Gabriel Fernandez','https://www.netflix.com/title/80220207','2021-06-22','day','2021-06-24','day','I watched this TV show based on a Netflix home page recommendation, possibly because I had recently watched The People v. O.J. Simpson. I was fascinated by it, and intrigued by the similarity between this real-world portrayal and the (admittedly milder, tamer) portrayal of child abuse in the Korean drama called Mother.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','The Trials of Gabriel Fernandez','https://www.netflix.com/title/80220207','2021-06-22','day','2021-06-24','day','I watched this TV show based on a Netflix home page recommendation, possibly because I had recently watched The People v. O.J. Simpson. I was fascinated by it, and intrigued by the similarity between this real-world portrayal and the (admittedly milder, tamer) portrayal of child abuse in the Korean drama called Mother.'),
+  ('Netflix','Series (such as TV show or web series)',true,'English','The Chair','https://www.netflix.com/title/81206259','2021-09-02','day','2021-09-02','day','I had first learned of this recently-released Netflix show upon reading https://reason.com/2021/08/20/the-chair-makes-comedy-out-of-colleges-absurd-status-quo/ and decided to watch it upon my return to Netflix, as it promised to be quick. I enjoyed its absurd but not-completely-made-up depiction of academia.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
