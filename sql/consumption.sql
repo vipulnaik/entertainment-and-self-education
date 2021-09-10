@@ -1,6 +1,6 @@
 create table consumption(
   `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player'),
+  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
   `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German'),
@@ -439,7 +439,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','English','The Simplest Math Problem No One Can Solve','https://www.youtube.com/watch?v=094y1Z2wpJg','2021-08-12','day','2021-08-12','day','I watched this video on the 3n + 1 conjecture (aka the Collatz conjecture) on seeing it as a recommendation after watching Robert Miles'' video explaining logical induction. This was mostly because I was feeling lazy and curious; I didn''t expect to gain significant value from the video. Nonetheless, the video was interesting and I learned a few new tidbits despite being generally familiar with the material already.');
 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
-  ('EconLib','Single video (such as movie)','English','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib');
+  ('EconLib','Single video (such as movie)','English','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib'),
+  ('Mercatus','Single video (such as movie)','English','The Real Truth About Hungary','https://www.mercatus.org/events/real-truth-about-hungary','2021-09-10','day','2021-09-10','day','I encountered a link to this while browsing my Twitter feed. I found it quite interesting.');
 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   /* 2013 */
