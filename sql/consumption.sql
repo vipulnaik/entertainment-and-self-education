@@ -17,7 +17,6 @@ create table consumption(
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
   - 2021-09-01 Reba McEntire MasterClass
-  - 2021-09-05 Beyond Evil
  */
 
 /* MasterClass stuff */
@@ -248,7 +247,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'English','The Trials of Gabriel Fernandez','https://www.netflix.com/title/80220207','2021-06-22','day','2021-06-24','day','I watched this TV show based on a Netflix home page recommendation, possibly because I had recently watched The People v. O.J. Simpson. I was fascinated by it, and intrigued by the similarity between this real-world portrayal and the (admittedly milder, tamer) portrayal of child abuse in the Korean drama called Mother.'),
   ('Netflix','Series (such as TV show or web series)',true,'English','The Chair','https://www.netflix.com/title/81206259','2021-09-02','day','2021-09-02','day','I had first learned of this recently-released Netflix show upon reading https://reason.com/2021/08/20/the-chair-makes-comedy-out-of-colleges-absurd-status-quo/ and decided to watch it upon my return to Netflix, as it promised to be quick. I enjoyed its absurd but not-completely-made-up depiction of academia.'),
   ('Netflix','Single video (such as movie)',false,'English','The Queen','https://www.netflix.com/title/70052705','2021-09-04','day','2021-09-04','day','I watched this movie partly based on general interest in British history after watching The Crown (which has not yet gotten to the point in history depicted by this movie) and partly to watch a movie starring Helen Mirren, who has a MasterClass I might watch in the future. It was reasonably enjoyable; there seemed to be a reasonable level of similarity with The Crown in the acting and depiction of characters.'),
-  ('Netflix','Single video (such as movie)',true,'English','Worth','https://www.netflix.com/title/80226212','2021-09-05','day','2021-09-05','day','I watched this movie based on a Netflix home page recommendation. My interest was piqued by the premise of trying to negotiate something agreeable in a fraught situation with emotions running high. I found the movie interesting and well-done.');
+  ('Netflix','Single video (such as movie)',true,'English','Worth','https://www.netflix.com/title/80226212','2021-09-05','day','2021-09-05','day','I watched this movie based on a Netflix home page recommendation. My interest was piqued by the premise of trying to negotiate something agreeable in a fraught situation with emotions running high. I found the movie interesting and well-done.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Beyond Evil','https://www.netflix.com/title/81437733','2021-09-11','day','2021-09-11','day','I watched this show based on a Netflix home page recommendation and also saw a fairly positive review at https://thefangirlverdict.com/2021/07/04/review-beyond-evil-monster/ (a site I nowadays check before starting a TV show, because of its on-point reviews). I enjoyed the carefully plotted twists and turns; read the linked review if you want more information!');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
