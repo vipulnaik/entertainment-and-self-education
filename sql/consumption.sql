@@ -1,6 +1,6 @@
 create table consumption(
   `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich'),
+  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Audible'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
   `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German'),
@@ -470,6 +470,11 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('I Will Teach You To Be Rich','Single video (such as movie)','English','Episode 2: "We''re worth over $1 million, but we’re so cheap, our friends don’t want to see us anymore"','https://www.iwillteachyoutoberich.com/podcast/002-ashley-greg/','2021-09-19','day','2021-09-19','day','After listening to Episode 9 the previous day and enjoying it, I picked Episode 2, which seeemed to have an interesting title. Transcript is available but, instead of reading the transcript, I multiplexed listening with other activities.'),
   ('I Will Teach You To Be Rich','Single video (such as movie)','English','Episode 3: "My husband is going broke, but he won’t let me help"','https://www.iwillteachyoutoberich.com/podcast/003-chantha-calvin/','2021-09-19','day','2021-09-19','day','I picked this up after Episode 2. I had already heard about this episode in one of the interviews of Ramit Sethi that I had listened to the previous day.'),
   ('I Will Teach You To Be Rich','Single video (such as movie)','English','Episode 4: "My wife didn’t know I had $450,000 of debt until yesterday"','https://www.iwillteachyoutoberich.com/podcast/004-wendy-john/','2021-09-19','day','2021-09-19','day','I picked this up after Episode 3.');
+
+/* Audible */
+
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Audible','Single video (such as movie)','English','96. Interview With Kfangurl of The Fangirl Verdict','https://www.audible.com/pd/96-Interview-With-Kfangurl-of-The-Fangirl-Verdict-Podcast/B08W8NPDJX','2021-09-22','day','2021-09-22','day','I was looking for more information on kfangurl, author of https://thefangirlverdict.com/ that I have referenced both before watching dramas and after watching them. I found this interview at https://dramasoverflowers.net/2021/06/10/96-interview-with-kfangurl-of-the-fangirl-verdict/ but the Soundcloud link was broken. Googling led me to find the Audible version.');
 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('EconLib','Single video (such as movie)','English','Bryan Caplan on Homeschooling','https://www.econlib.org/bryan-caplan-on-homeschooling/','2020-07-22','day','2020-07-22','day','Encountered while browsing EconLib'),
