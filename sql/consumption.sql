@@ -19,6 +19,8 @@ create table consumption(
   - 2021-09-01 Reba McEntire MasterClass
   - 2021-09-17 Countdown: Inspiration4 Mission to Space
   - 2021-09-19 D.P.
+  - 2021-09-22 Control Z
+  - 2021-09-22 Crime Stories: India Detectives
  */
 
 /* MasterClass stuff */
@@ -458,7 +460,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','Hindi','JEE Main 2020 - Last 30 days - How to prepare','https://www.youtube.com/watch?v=XXJEJy11YYs','2021-09-20','day','2021-09-20','day','When in high school, I had attended Vidyamandir Classes, a coaching institute. I was curious to see how I would think of their coaching philosophy after all these years I had also not attended the coaching all the way to the point equivalent to what this video covered, so it was interesting to hear how this would sound.'),
   ('YouTube','Single video (such as movie)','Hindi','Magnetism 04','https://www.youtube.com/watch?v=fry0jfdqSNQ','2021-09-20','day','2021-09-21','day','I watched this after watching Magnetism 01, Magnetism 02, and Magnetism 03, and had similar reactions. NOTE: The talking is mostly in Hindi, with a little bit of English. The supporting written materials are in English.'),
   ('YouTube','Single video (such as movie)','English','Lewis Howes REVEALS The One SKILL You Need to be SUCCESSFUL | Impact Theory','https://www.youtube.com/watch?v=hk-1lkVQiXc','2021-09-21','day','2021-09-21','day','I had previously watched the converse: an interview of Tom Bilyeu by Lewis Howes. That made me interested in how the interview in the other direction (Lewis Howes by Tom Bilyeu). It was interesting to see the kinds of topics covered with the tables flipped.'),
-  ('YouTube','Single video (such as movie)','English','The Biggest Myth In Education','https://www.youtube.com/watch?v=rhgwIhB58PA','2021-09-22','day','2021-09-22','day','I learned of this Veritasium video via a link from a friend. The video offers a critical take on learning styles and ends with a plug for using Google Search with more variation in search terms. It was reasonably enjoyable, though it agreed with my priors about learning styles so I didn''t have to update much.');
+  ('YouTube','Single video (such as movie)','English','The Biggest Myth In Education','https://www.youtube.com/watch?v=rhgwIhB58PA','2021-09-22','day','2021-09-22','day','I learned of this Veritasium video via a link from a friend. The video offers a critical take on learning styles and ends with a plug for using Google Search with more variation in search terms. It was reasonably enjoyable, though it agreed with my priors about learning styles so I didn''t have to update much.'),
+  ('YouTube','Single video (such as movie)','English','Feynman Messenger Lectures - The Law of Gravitation - 1','https://www.youtube.com/watch?v=0LOnGjxP_pg','2021-09-22','day','2021-09-23','day','I had heard about the Feynman lectures for some time. I was prompted to listen to some of them while editing learning subwiki and noting some discussion of the Feynman technique in past edits by Issa Rice.');
 
 /* YouTube news consumption */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
