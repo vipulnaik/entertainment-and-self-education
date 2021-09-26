@@ -467,9 +467,10 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','Hindi','JEE Main 2020 - Final message for D day by Bade bhaiya - Must watch for all JEE Main aspirants','https://www.youtube.com/watch?v=S0c1_XuYPbg','2021-09-24','day','2021-09-24','day','I had attendd Vidyamandir Classes while in high school. In the last week, I had been watching some videos put out by them. I decided to continue the tradition by watching one more video.'),
   ('YouTube','Single video (such as movie)','Hindi','BADE BHAIYA Founder Vidyamandir Classes - Tips for JEE MAIN 2018','https://www.youtube.com/watch?v=Tq01JzddKqA','2021-09-25','day','2021-09-25','day','I watched this video the day after watching https://www.youtube.com/watch?v=S0c1_XuYPbg -- a similar video from the same person delivered two years later, in 2020.');
 
-/* YouTube news consumption */
+/* YouTube news and recent video consumption */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
-  ('YouTube','Single video (such as movie)',true,'English','Political meaning of CM change in Gujarat & why the state is even more key for Modi-Shah BJP than UP','https://www.youtube.com/watch?v=R2A09FlmCV0','2021-09-17','day','2021-09-17','day','I watched this Shekha Gupta video by chance, as a result of a YouTube recommendation.');
+  ('YouTube','Single video (such as movie)',true,'English','Political meaning of CM change in Gujarat & why the state is even more key for Modi-Shah BJP than UP','https://www.youtube.com/watch?v=R2A09FlmCV0','2021-09-17','day','2021-09-17','day','I watched this Shekha Gupta video by chance, as a result of a YouTube recommendation.'),
+  ('YouTube','Single video (such as movie)',true,'Hindi','Shyam Mohan Bhaiya shares last moment tips to crack JEE Advanced 2021 and extends his best wishes','https://www.youtube.com/watch?v=CiD0V02ijdA','2021-09-26','day','2021-09-26','day','After listening to a few similar videos for previous years, I decided to listen to a just-released Vidyamandir video on JEE test preparation. This video was focused a little more on practical tips. It''s interesting to listen to all this so far out in space and time from it.');
 
 /* I Will Teach You To Be Rich */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
