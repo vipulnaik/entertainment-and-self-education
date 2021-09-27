@@ -17,6 +17,7 @@ create table consumption(
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
   - 2021-09-17 Countdown: Inspiration4 Mission to Space
+  - 2021-09-26 Captive
  */
 
 /* MasterClass stuff */
@@ -256,7 +257,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Control Z: Season 2','https://www.netflix.com/title/81021245','2021-09-22','day','2021-09-24','day','I had watched Season 1 a few months ago, and I noticed that Season 2 had been released. I watched it relatively quickly. I found it fast to consume. As with the previous season, I was interested in the show mainly as a way to get low-effort exposure to spoken Spanish.'),
   ('Netflix','Series (such as TV show or web series)',false,'Hindi','Kota Factory: Season 1','https://www.netflix.com/title/81249783','2021-09-24','day','2021-09-25','day','I saw the release of Season 2 advertised on the Netflix home page. I had also been interested in the space recently and had seen a meme based on this show when reading a Quora answer about Vidyamandir Classes. Although Season 1 is also available on YouTube, I decided to watch it on Netflix so that I could watch both seasons seamlessly.'),
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Kota Factory: Season 2','https://www.netflix.com/title/81249783','2021-09-25','day','2021-09-25','day','I proceeded to Season 2 right after finishing Season 1. It was quick to watch.'),
-  ('Netflix','Series (such as TV show or web series)',true,'Korean','D.P.','https://www.netflix.com/title/81280917','2021-09-19','day','2021-09-26','day','I watched this based on a Netflix home page recommendation. I found it engaging though it is gritty material so it doesn''t make for light watching.');
+  ('Netflix','Series (such as TV show or web series)',true,'Korean','D.P.','https://www.netflix.com/title/81280917','2021-09-19','day','2021-09-26','day','I watched this based on a Netflix home page recommendation. I found it engaging though it is gritty material so it doesn''t make for light watching.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Arabic','AlRawabi School for Girls','https://www.netflix.com/title/81034661','2021-09-26','day','2021-09-27','day','I watched this based on a Netflix home page recommendation as well as after reading positive reviews. I found it engaging albeit gritty. The review https://www.newyorker.com/culture/culture-desk/the-netflix-teen-drama-that-goes-deeper-into-the-arab-patriarchy makes some interesting points (though it doesn''t fully resonate with me).');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
