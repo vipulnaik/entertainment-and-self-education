@@ -17,7 +17,7 @@ create table consumption(
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
   - 2021-09-26 Captive
-  - 2021-09-28 Memories of the Alhambra
+  - 2021-09-30 Salman Rushdie MasterClass
  */
 
 /* MasterClass stuff */
@@ -259,7 +259,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Kota Factory: Season 2','https://www.netflix.com/title/81249783','2021-09-25','day','2021-09-25','day','I proceeded to Season 2 right after finishing Season 1. It was quick to watch.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','D.P.','https://www.netflix.com/title/81280917','2021-09-19','day','2021-09-26','day','I watched this based on a Netflix home page recommendation. I found it engaging though it is gritty material so it doesn''t make for light watching.'),
   ('Netflix','Series (such as TV show or web series)',true,'Arabic','AlRawabi School for Girls','https://www.netflix.com/title/81034661','2021-09-26','day','2021-09-27','day','I watched this based on a Netflix home page recommendation as well as after reading positive reviews. I found it engaging albeit gritty. The review https://www.newyorker.com/culture/culture-desk/the-netflix-teen-drama-that-goes-deeper-into-the-arab-patriarchy makes some interesting points (though it doesn''t fully resonate with me).'),
-  ('Netflix','Series (such as TV show or web series)',true,'English','Countdown: Inspiration4 Mission to Space','https://www.netflix.com/title/81441273','2021-09-17','day','2021-09-30','day','I watched this based on a Netflix home page recommendation. I found both the topic and the execution of the docuseries fairly good. I watched the first four episodes in a few days; the fifth (final) episode had not been released at the time. I watched the final episode on its date of release.');
+  ('Netflix','Series (such as TV show or web series)',true,'English','Countdown: Inspiration4 Mission to Space','https://www.netflix.com/title/81441273','2021-09-17','day','2021-09-30','day','I watched this based on a Netflix home page recommendation. I found both the topic and the execution of the docuseries fairly good. I watched the first four episodes in a few days; the fifth (final) episode had not been released at the time. I watched the final episode on its date of release.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Memories of the Alhambra','https://www.netflix.com/title/81004280','2021-09-28','day','2021-10-03','day','I had heard of this TV show for a while and decided to finally watch it. Prior to watching, I read the review https://thefangirlverdict.com/2019/01/26/flash-review-memories-of-the-alhambra/ that helped set my expectations; with this prior information, I was able to really enjoy the show.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
