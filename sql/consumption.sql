@@ -21,7 +21,6 @@ create table consumption(
   - 2021-10-09 Biology of Aging a16z (finished same day)
   - 2021-10-10 Living Undocumented
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
-  - 2021-10-18 Kingdom
  */
 
 /* MasterClass stuff */
@@ -270,7 +269,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Mine','https://www.netflix.com/title/81403973','2021-10-03','day','2021-10-12','day','I had heard of this show and seen it advertised by Netflix for a while. I finally decided to watch it. I found it generally enjoyable, though I felt it wasn''t quite as good as Sky Castle (another show with overlapping themes) in terms of getting me to emotionally connect with the characters.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Immigration Nation','https://www.netflix.com/title/80994107','2021-10-10','day','2021-10-15','day','I have an interest in the topic and saw this series advertised on the Netflix home page after I started watching Living Undocumented. I found the series quite engaging and instructive. It was also interesting to see the way the documentary was able to get inside access to ICE and ended up capturing a lot of things that ultimately made the Trump administration wish to suppress the documentary.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Squid Game','https://www.netflix.com/title/81040344','2021-10-15','day','2021-10-16','day','I was prompted to watch this TV show after heavy promotion by Netflix and general buzz about it, as well as a positive review at https://thefangirlverdict.com/2021/10/09/review-squid-game/ despite it not being the author''s typical genre. I enjoyed the show and the review seems spot on and agrees quite a bit with my take on the show.'),
-  ('Netflix','Series (such as TV show or web series)',true,'Korean','My Name','https://www.netflix.com/title/81011211','2021-10-16','day','2021-10-18','day','I was prompted to watch this TV show by a Netflix home page recommendation. While the broad outline of the plot was predictable, there were many specific twists and turns that made it interesting to watch.');
+  ('Netflix','Series (such as TV show or web series)',true,'Korean','My Name','https://www.netflix.com/title/81011211','2021-10-16','day','2021-10-18','day','I was prompted to watch this TV show by a Netflix home page recommendation. While the broad outline of the plot was predictable, there were many specific twists and turns that made it interesting to watch.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Season 1','https://www.netflix.com/title/80180171','2021-10-18','day','2021-10-20','day','I had heard positive things about this show previously, and I decided to finally watch it. It was much shorter than a typical Korean drama -- so it turned out to be quick to consume. I did like it quite a bit. The zombie aspect of it was reminiscent of Train to Busan.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Season 2','https://www.netflix.com/title/80180171','2021-10-20','day','2021-10-22','day','I watched this season right after finishing Season 1. Like Season 1, it was quick to consume, and the flow from Season 1 to Season 2 was very natural. Several of the mysteries raised in Season 1 were resolved in Season 2, with only a few threads left open after Season 2. I enjoyed this season.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
