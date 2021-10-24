@@ -21,6 +21,7 @@ create table consumption(
   - 2021-10-09 Biology of Aging a16z (finished same day)
   - 2021-10-10 Living Undocumented
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
+  - 2021-10-23 Kingdom: Ashin of the North
  */
 
 /* MasterClass stuff */
@@ -271,7 +272,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Squid Game','https://www.netflix.com/title/81040344','2021-10-15','day','2021-10-16','day','I was prompted to watch this TV show after heavy promotion by Netflix and general buzz about it, as well as a positive review at https://thefangirlverdict.com/2021/10/09/review-squid-game/ despite it not being the author''s typical genre. I enjoyed the show and the review seems spot on and agrees quite a bit with my take on the show.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','My Name','https://www.netflix.com/title/81011211','2021-10-16','day','2021-10-18','day','I was prompted to watch this TV show by a Netflix home page recommendation. While the broad outline of the plot was predictable, there were many specific twists and turns that made it interesting to watch.'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Season 1','https://www.netflix.com/title/80180171','2021-10-18','day','2021-10-20','day','I had heard positive things about this show previously, and I decided to finally watch it. It was much shorter than a typical Korean drama -- so it turned out to be quick to consume. I did like it quite a bit. The zombie aspect of it was reminiscent of Train to Busan.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Season 2','https://www.netflix.com/title/80180171','2021-10-20','day','2021-10-22','day','I watched this season right after finishing Season 1. Like Season 1, it was quick to consume, and the flow from Season 1 to Season 2 was very natural. Several of the mysteries raised in Season 1 were resolved in Season 2, with only a few threads left open after Season 2. I enjoyed this season.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Season 2','https://www.netflix.com/title/80180171','2021-10-20','day','2021-10-22','day','I watched this season right after finishing Season 1. Like Season 1, it was quick to consume, and the flow from Season 1 to Season 2 was very natural. Several of the mysteries raised in Season 1 were resolved in Season 2, with only a few threads left open after Season 2. I enjoyed this season.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Kingdom: Ashin of the North','https://www.netflix.com/title/81312457','2021-10-23','day','2021-10-24','day','I watched this special "sidequel" episode to Kingdom after finishing Season 2 of Kingdom. This episode was a little harder to understand on its own, but https://kingdom-netflix.fandom.com/wiki/Ashin_of_the_North was helpful in providing more context to the events.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
