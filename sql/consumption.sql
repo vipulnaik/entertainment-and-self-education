@@ -18,6 +18,8 @@ create table consumption(
   - 2021-05-16 Girl from Nowhere
   - 2021-09-26 Captive
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
+  - 2021-11-07 True Beauty
+  - 2021-11-07 Itzhak Perlman Violin
  */
 
 /* MasterClass stuff */
