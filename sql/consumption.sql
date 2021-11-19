@@ -19,6 +19,8 @@ create table consumption(
   - 2021-09-26 Captive
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-07 True Beauty
+  - 2021-11-16 Carlos Santana Guitar
+  - 2021-11-18 Herbie Hancock Jazz
  */
 
 /* MasterClass stuff */
