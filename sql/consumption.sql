@@ -21,6 +21,7 @@ create table consumption(
   - 2021-11-16 Carlos Santana Guitar
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-26 Happiness
+  - 2021-11-30 Reply 1988
  */
 
 /* MasterClass stuff */
