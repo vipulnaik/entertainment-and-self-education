@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','English/Thai'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','English/Thai','Taiwanese'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -20,7 +20,7 @@ create table consumption(
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
-  - 2021-12-05 Autumn's Concerto
+  - 2021-12-19 Taxi Driver
  */
 
 /* MasterClass stuff */
@@ -404,6 +404,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Korean','True Beauty','https://www.viki.com/tv/37374c-true-beauty','2021-11-07','day','2021-11-26','day','I watched this TV show based on positive reviews as well as its availability on Viki Pass Standard. I enjoyed it; I mostly agree with the points that the review https://thefangirlverdict.com/2021/03/23/review-true-beauty/ makes.'),
   ('Viki','Series (such as TV show or web series)',true,'Korean','Happiness','https://www.viki.com/tv/38039c-happiness','2021-11-26','day','2021-12-12','day','I was intrigued by the premise of the show, which had some of the vibe of zombie shows but was somewhat different. It covered interesting questions about the ethics of dealing with a highly infectious outbreak. I also liked it a bit for its realistic portrayal of highly flawed coping strategies.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Lie After Lie','https://www.viki.com/tv/37291c-lie-after-lie','2021-12-13','day','2021-12-17','day','I watched this TV show mainly based on positive ratings as well as the review https://thefangirlverdict.com/2021/02/23/review-lie-after-lie/ that was generally positive. I found the show pretty good, consistent with the expectations set by the review.'),
+  ('Viki','Series (such as TV show or web series)',false,'Taiwanese','Autumn''s Concerto','https://www.viki.com/tv/635c-autumns-concerto','2021-12-05','day','2021-12-19','day','I watched this TV show after finding it in the list of highly-rated Taiwanese shows on Viki, and seeing positive reviews of it on the Internet. I found it quite gripping and well-done, though there were definitely some aspects of it that I didn''t feel comfortable with.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
