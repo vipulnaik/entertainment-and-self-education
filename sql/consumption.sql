@@ -20,7 +20,6 @@ create table consumption(
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
-  - 2021-12-19 Taxi Driver
  */
 
 /* MasterClass stuff */
@@ -405,6 +404,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',true,'Korean','Happiness','https://www.viki.com/tv/38039c-happiness','2021-11-26','day','2021-12-12','day','I was intrigued by the premise of the show, which had some of the vibe of zombie shows but was somewhat different. It covered interesting questions about the ethics of dealing with a highly infectious outbreak. I also liked it a bit for its realistic portrayal of highly flawed coping strategies.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Lie After Lie','https://www.viki.com/tv/37291c-lie-after-lie','2021-12-13','day','2021-12-17','day','I watched this TV show mainly based on positive ratings as well as the review https://thefangirlverdict.com/2021/02/23/review-lie-after-lie/ that was generally positive. I found the show pretty good, consistent with the expectations set by the review.'),
   ('Viki','Series (such as TV show or web series)',false,'Taiwanese','Autumn''s Concerto','https://www.viki.com/tv/635c-autumns-concerto','2021-12-05','day','2021-12-19','day','I watched this TV show after finding it in the list of highly-rated Taiwanese shows on Viki, and seeing positive reviews of it on the Internet. I found it quite gripping and well-done, though there were definitely some aspects of it that I didn''t feel comfortable with.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Taxi Driver','https://www.viki.com/tv/37770c-taxi-driver','2021-12-19','day','2021-12-26','day','I started watching this TV show immediately upon upgrading to Viki Pass Plus. Despite the "dropped" review https://thefangirlverdict.com/2021/11/22/dropped-taxi-driver/ and the reservations expressed in it, I thought the show might be worth watching. Indeed I found it interesting overall, though there were times when the violence felt too gratuitous, and a "comic book" lens did indeed help.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
