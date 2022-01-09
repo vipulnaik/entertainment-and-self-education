@@ -20,9 +20,7 @@ create table consumption(
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
-  - 2022-01-02 I Hear Your Voice (rewatch)
   - 2022-01-03 Hwarang: The Poet Warrior Youth
-  - 2022-01-08 Mal-Mo-E
   - 2022-01-08 Hillary Clinton MasterClass
  */
 
@@ -421,7 +419,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Single video (such as movie)',false,'Korean','The Attorney','https://www.viki.com/movies/37061c-the-attorney','2020-05-15','day','2020-05-15','day','The Korean movie is partly based on part of the early life of Roh Moo-hyun, who would later become the President of South Korea.'),
   /* 2021 */
   ('Viki','Single video (such as movie)',false,'Korean','Train to Busan','https://www.viki.com/movies/37058c-train-to-busan','2021-08-31','day','2021-08-31','day','I picked this up as I was looking for a movie to watch with only two days left before the pausing of my Viki subscription. I selected it based on high ratings and reviews. I was hooked to the movie for the great portrayal of the very difficult situation of a zombie apocalypse.'),
-  ('Viki','Single video (such as movie)',false,'Korean','A Taxi Driver','https://www.viki.com/movies/37065c-a-taxi-driver','2021-09-01','day','2021-09-01','day','I picked this up as I was looking for a movie to watch with only one day left before the pausing of my Viki subscription. I enjoyed this fictionalized portrayal of real-life events during Korea''s 1980 Gwangju Uprising; Wikipedia explains at https://en.wikipedia.org/wiki/A_Taxi_Driver#Fictionalized_elements what elements are fictional.');
+  ('Viki','Single video (such as movie)',false,'Korean','A Taxi Driver','https://www.viki.com/movies/37065c-a-taxi-driver','2021-09-01','day','2021-09-01','day','I picked this up as I was looking for a movie to watch with only one day left before the pausing of my Viki subscription. I enjoyed this fictionalized portrayal of real-life events during Korea''s 1980 Gwangju Uprising; Wikipedia explains at https://en.wikipedia.org/wiki/A_Taxi_Driver#Fictionalized_elements what elements are fictional.'),
+  /* 2022 */
+  ('Viki','Single video (such as movie)',false,'Korean','Mal. Mo. E – The Secret Mission','https://www.viki.com/movies/37168c-mal-mo-e-the-secret-mission','2022-01-08','day','2022-01-09','day','I watched this movie after noticing it in Viki''s highly-rated list. It had similar vibes as other historically inspired Korean movies I had watched on Viki, such as Juror 8, The Attorney, and A Taxi Driver. Some of the Korean/Japanese conflict was reminiscent of Bridal Mask and Chicago Typewriter, though the more literary focus of this resistance made it more palatable to me.');
 
 /* Viki rewatches */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
