@@ -22,6 +22,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-01-03 Hwarang: The Poet Warrior Youth
   - 2022-01-26 The Devil Judge
+  - 2022-01-28 Terence Tao
  */
 
 /* MasterClass stuff */
