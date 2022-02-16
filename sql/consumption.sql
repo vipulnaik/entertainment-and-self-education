@@ -23,6 +23,7 @@ create table consumption(
   - 2022-01-03 Hwarang: The Poet Warrior Youth
   - 2022-02-05 Weightlifting Fairy Kim Bok Joo
   - 2022-02-14 Es Devlin
+  - 2022-02-15 Squid Game rewatch
  */
 
 /* MasterClass stuff */
