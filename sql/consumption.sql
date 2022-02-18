@@ -24,6 +24,7 @@ create table consumption(
   - 2022-02-05 Weightlifting Fairy Kim Bok Joo
   - 2022-02-14 Es Devlin
   - 2022-02-15 Squid Game rewatch
+  - 2022-02-17 Dont Look Up
  */
 
 /* MasterClass stuff */
