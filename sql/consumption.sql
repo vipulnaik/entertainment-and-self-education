@@ -24,7 +24,7 @@ create table consumption(
   - 2022-02-05 Weightlifting Fairy Kim Bok Joo
   - 2022-02-14 Es Devlin
   - 2022-02-15 Squid Game rewatch
-  - 2022-02-18 The Journalist (Japanese)
+  - 2022-02-21 All of Us Are Dead
  */
 
 /* MasterClass stuff */
@@ -300,7 +300,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Torbaaz','https://www.netflix.com/title/81264422','2022-02-19','day','2022-02-19','day','I watched this based on a Netflix home page recommendation. It was reasonably good, about as much as I expected. The end was a little unexpected.'),
   ('YouTube','Single video (such as movie)',false,'Korean','Squid Games - Behind-the-Scenes On Set','https://www.youtube.com/watch?v=JCPdG4uUI18','2022-02-19','day','2022-02-19','day','I watched this based on general interest in Squid Game. It was reasonably okay.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Class of ''83','https://www.netflix.com/title/80997361','2022-02-19','day','2022-02-19','day','I watched this short movie based on a Netflix home page recommendation. It was reasonably okay; I didn''t have high expectations and it met the expectations I did have.'),
-  ('Netflix','Single video (such as movie)',false,'English/Hindi','Serious Men','https://www.netflix.com/title/81086997','2022-02-20','day','2022-02-20','day','I watched this movie based on a Netflix home page recommendation. I found it interesting and reasonably well-done.');
+  ('Netflix','Single video (such as movie)',false,'English/Hindi','Serious Men','https://www.netflix.com/title/81086997','2022-02-20','day','2022-02-20','day','I watched this movie based on a Netflix home page recommendation. I found it interesting and reasonably well-done.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Japanese','The Journalist','https://www.netflix.com/title/81317111','2022-02-18','day','2022-02-21','day','I watched this TV show based on a Netflix home page recommendation. I found its treatment of corruption interesting -- rather than corrupt people who relish in their corruption and behave like villains, the people affected here seemed to experience pangs of guilt and were often moved to make sacrifices in order to make amends.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
