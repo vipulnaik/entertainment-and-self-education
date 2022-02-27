@@ -25,6 +25,7 @@ create table consumption(
   - 2022-02-14 Es Devlin
   - 2022-02-15 to 2022-02-21 (tentative) Squid Game rewatch
   - 2022-02-26 Sweet Home
+  - 2022-02-27 Juvenile Justice
  */
 
 /* MasterClass stuff */
@@ -306,7 +307,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Force 2','https://www.netflix.com/title/80159955','2022-02--25','day','2022-02-25','day','I watched this movie based on a notice from Netflix that it was going to leave Netflix on 2022-02-26. I found it interesting; the central twist (the revelation of the motivation of the antagonist) was quite interesting.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','One Day: Justice Delivered','https://www.netflix.com/title/81280081','2022-02-25','day','2022-02-25','day','I watched this movie based on a Netflix home page recommendation. I was already familiar with the general premise; the execution felt decent but not great enough and it probably wasn''t worth the watch.'),
   ('Netflix','Single video (such as movie)',true,'English','The Tinder Swindler','https://www.netflix.com/title/81254340','2022-02-26','day','2022-02-26','day','I watched this documentary based on both a Netflix home page recommendation and other buzz about the subject. I found it quite fascinating as a window into a real-life highly complex Ponzi scheme.'),
-  ('Netflix','Single video (such as movie)',true,'Korean','#Alive','https://www.netflix.com/title/81240831','2022-02-26','day','2022-02-26','day','I watched this movie based on both a Netflix home page recommendation and having heard of it as another member of the zombie genre that included other shows I had enjoyed, including Train to Busan, Kingdom, and All of Us Are Dead. I found it a fairly interesting and slightly different take on the subject.');
+  ('Netflix','Single video (such as movie)',true,'Korean','#Alive','https://www.netflix.com/title/81240831','2022-02-26','day','2022-02-26','day','I watched this movie based on both a Netflix home page recommendation and having heard of it as another member of the zombie genre that included other shows I had enjoyed, including Train to Busan, Kingdom, and All of Us Are Dead. I found it a fairly interesting and slightly different take on the subject.'),
+  ('Netflix','Single video (such as movie)',false,'Korean','Silenced','https://www.netflix.com/title/70241118','2022--02-26','day','2022-02-27','day','I watched this movie based on a Netflix home page recommendation and based on having heard about it previously; it is directed by the Squid Game director Hwang Dong-hyuk and stars Gong Yoo, who had a cameo in Squid Game. It was an interesting and well-done social issue movie about sexual and physical abuse of disabled people.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
