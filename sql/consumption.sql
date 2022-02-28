@@ -26,6 +26,7 @@ create table consumption(
   - 2022-02-15 to 2022-02-21 (tentative) Squid Game rewatch
   - 2022-02-26 Sweet Home
   - 2022-02-27 Juvenile Justice
+  - 2022-02-27 Raat Akeli Hai
  */
 
 /* MasterClass stuff */
