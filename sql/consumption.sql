@@ -21,7 +21,6 @@ create table consumption(
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
   - 2022-01-03 Hwarang: The Poet Warrior Youth
-  - 2022-02-05 Weightlifting Fairy Kim Bok Joo
   - 2022-02-14 Es Devlin
   - 2022-02-15 to 2022-02-21 (tentative) Squid Game rewatch
   - 2022-02-26 Sweet Home
@@ -435,6 +434,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   /* 2022 */
   ('Viki','Series (such as TV show or web series)',false,'Korean','Doctor Prisoner','https://www.viki.com/tv/36452c-doctor-prisoner','2022-01-15','day','2022-01-19','day','I started watching this TV show after having seen it in various lists earlier. I was looking for something dramatic and suspenseful, and this show nicely fit the bill. I enjoyed watching it for its many twists and turns.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','The Devil Judge','https://www.viki.com/tv/37789c-the-devil-judge','2022-01-26','day','2022-02-04','day','I watched this TV show because it appeared in Viki''s list of highly rated shows. I enjoyed the plot, the acting, the music, and the lavish costumes in this show depicting a future dystopia.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Weightlifting Fairy Kim Bok-joo','https://www.viki.com/tv/32634c-weightlifting-fairy-kim-bok-joo','2022-02-05','day','2022-03-02','day','I watched this TV show after having planned to watch it for a long time given its high ratings. It was worth the watch. As it is a gentle and slow story, I watched it slowly, taking almost a month.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
