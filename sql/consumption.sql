@@ -16,7 +16,6 @@ create table consumption(
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere
-  - 2021-09-26 Captive
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
@@ -309,7 +308,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',true,'Korean','#Alive','https://www.netflix.com/title/81240831','2022-02-26','day','2022-02-26','day','I watched this movie based on both a Netflix home page recommendation and having heard of it as another member of the zombie genre that included other shows I had enjoyed, including Train to Busan, Kingdom, and All of Us Are Dead. I found it a fairly interesting and slightly different take on the subject.'),
   ('Netflix','Single video (such as movie)',false,'Korean','Silenced','https://www.netflix.com/title/70241118','2022--02-26','day','2022-02-27','day','I watched this movie based on a Netflix home page recommendation and based on having heard about it previously; it is directed by the Squid Game director Hwang Dong-hyuk and stars Gong Yoo, who had a cameo in Squid Game. It was an interesting and well-done social issue movie about sexual and physical abuse of disabled people.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Raat Akeli Hai','https://www.netflix.com/title/81269716','2022-02-27','day','2022-03-01','day','I watched this movie based on a Netflix home page recommendation as well as positive ratings and reviews. It was quite well-done though some parts felt like a stretch.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','The Body','https://www.netflix.com/title/81039382','2022-03-04','day','2022-03-04','day','I watched this movie based on a Netflix home page recommendation. I found it quite enjoyable, with the twist at the end being quite unexpected (to me).');
+  ('Netflix','Single video (such as movie)',false,'Hindi','The Body','https://www.netflix.com/title/81039382','2022-03-04','day','2022-03-04','day','I watched this movie based on a Netflix home page recommendation. I found it quite enjoyable, with the twist at the end being quite unexpected (to me).'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','Captive','https://www.netflix.com/title/80065491','2021-09-26','day','2022-03-05','day','I watched this TV show based on a Netflix home page recommendation. Each episode is a different incident, and I found both the selection of incidents and their depiction in the episodes to be quite good. I watched the first four episodes in September/October 2021 and the last four episodes in March 2022.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
