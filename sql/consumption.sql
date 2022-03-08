@@ -21,7 +21,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-01-03 Hwarang: The Poet Warrior Youth
   - 2022-02-26 Sweet Home
-  - 2022-02-27 Juvenile Justice
+  - 2022-03-07 Ukraine's Fight for Freedom
  */
 
 /* MasterClass stuff */
@@ -310,7 +310,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','The Body','https://www.netflix.com/title/81039382','2022-03-04','day','2022-03-04','day','I watched this movie based on a Netflix home page recommendation. I found it quite enjoyable, with the twist at the end being quite unexpected (to me).'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Captive','https://www.netflix.com/title/80065491','2021-09-26','day','2022-03-05','day','I watched this TV show based on a Netflix home page recommendation. Each episode is a different incident, and I found both the selection of incidents and their depiction in the episodes to be quite good. I watched the first four episodes in September/October 2021 and the last four episodes in March 2022.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Badla','https://www.netflix.com/title/81112446','2022-03-05','day','2022-03-05','day','I watched this movie based on a Netflix home page recommendation. I found it quite enjoyable, particularly the many twists and turns including the final reveal.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','Haseen Dillruba','https://www.netflix.com/title/81320770','2022-03-05','day','2022-03-05','day','I watched this movie based on a Netflix home page recommendation. I found it well-acted and representing a different side of life than most movies (in a good way), though the final reveal seemed a bit implausible.');
+  ('Netflix','Single video (such as movie)',false,'Hindi','Haseen Dillruba','https://www.netflix.com/title/81320770','2022-03-05','day','2022-03-05','day','I watched this movie based on a Netflix home page recommendation. I found it well-acted and representing a different side of life than most movies (in a good way), though the final reveal seemed a bit implausible.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Korean','Juvenile Justice','https://www.netflix.com/title/81312802','2022-02-27','day','2022-03-08','day','I watched this TV show based on a Netflix home page recommendation. I found it engaging, with an interesting exploration of many themes, and great acting.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
