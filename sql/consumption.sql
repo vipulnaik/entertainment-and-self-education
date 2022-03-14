@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','English/Thai','Taiwanese'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','English/Thai','Taiwanese','Ukrainian'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -20,7 +20,6 @@ create table consumption(
   - 2021-11-18 Herbie Hancock Jazz
   - 2021-11-30 Reply 1988
   - 2022-01-03 Hwarang: The Poet Warrior Youth
-  - 2022-03-07 Ukraine's Fight for Freedom
  */
 
 /* MasterClass stuff */
@@ -311,7 +310,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Badla','https://www.netflix.com/title/81112446','2022-03-05','day','2022-03-05','day','I watched this movie based on a Netflix home page recommendation. I found it quite enjoyable, particularly the many twists and turns including the final reveal.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Haseen Dillruba','https://www.netflix.com/title/81320770','2022-03-05','day','2022-03-05','day','I watched this movie based on a Netflix home page recommendation. I found it well-acted and representing a different side of life than most movies (in a good way), though the final reveal seemed a bit implausible.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Juvenile Justice','https://www.netflix.com/title/81312802','2022-02-27','day','2022-03-08','day','I watched this TV show based on a Netflix home page recommendation. I found it engaging, with an interesting exploration of many themes, and great acting.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','Sweet Home','https://www.netflix.com/title/81061734','2022-02-26','day','2022-03-13','day','I watched this TV show based on a Netflix home page recommendation as well as general positive buzz about the show. I liked it quite a bit, but found it a bit harder to fully get into compared to other similar-length shows in the broad horror genre such as All of Us Are Dead.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Sweet Home','https://www.netflix.com/title/81061734','2022-02-26','day','2022-03-13','day','I watched this TV show based on a Netflix home page recommendation as well as general positive buzz about the show. I liked it quite a bit, but found it a bit harder to fully get into compared to other similar-length shows in the broad horror genre such as All of Us Are Dead.'),
+  ('Netflix','Single video (such as movie)',false,'Ukrainian','Winter on Fire: Ukraine''s Fight for Freedom','https://www.netflix.com/title/80031666','2022-03-07','day','2022-03-14','day','I watched this documentary based on a Netflix home page recommendation and ongoing action in Ukraine with the Russian invasion. While the vivid photography was informative and disturbing, overall I didn''t get a lot of value compared to reading about the events on Wikipedia.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
