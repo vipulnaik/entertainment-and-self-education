@@ -46,7 +46,7 @@ make MYSQL_ARGS=<args> init
 
 Once you already have the `ese` SQL database set up, you can update
 the MYSQL_ARGS in the Makefile (such as `-u<username> -p<password>`)
-and you can then load the public portion of the data using:
+and you can then load the data using:
 
 ```bash
 make reset && make read
