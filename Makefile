@@ -1,3 +1,23 @@
+MYSQL_ARGS=
+DATABASE=ese
+
+.PHONY: init
+init:
+	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+
+.PHONY: init
+init:
+	mkdir -p access-portal/images
+	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+
+.PHONY: reset
+reset:
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE);"
+
+.PHONY: read
+read:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/consumption.sql
+
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
 	curl -Lo access-portal/jquery-3.1.1.min.js \
@@ -22,7 +42,7 @@ clean_table_sorting:
 	rm -f access-portal/asc.gif
 	rm -f access-portal/desc.gif
 
-.PHONY: fetch_anchorjs
+	.PHONY: fetch_anchorjs
 fetch_anchorjs:
 	curl -Lo access-portal/anchor.min.js \
 		'https://raw.githubusercontent.com/bryanbraun/anchorjs/master/anchor.min.js'
