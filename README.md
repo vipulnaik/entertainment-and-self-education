@@ -9,7 +9,7 @@ The portal to access the data is at
 ## Setting up
 
 This section is for people who want to set up a local mirror of the
-entertainment and self-education portal (e..g. for development
+entertainment and self-education portal (e.g., for development
 purposes) or want to load up the data into a local database to run
 their own queries.
 
