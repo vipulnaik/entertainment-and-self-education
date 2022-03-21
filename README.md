@@ -10,7 +10,8 @@ The portal to access the data is at
 
 This section is for people who want to set up a local mirror of the
 entertainment and self-education portal (e..g. for development
-purposes).
+purposes) or want to load up the data into a local database to run
+their own queries.
 
 Note that the `passwordFile.inc` file in
 `access-portal/backend/globalVariables` is excluded from the Git
@@ -43,9 +44,9 @@ make MYSQL_ARGS=<args> init
 
 ### Loading and refreshing data
 
-Once you already have the `contractwork` SQL database set up, you can
-update the MYSQL_ARGS in the Makefile (such as `-u<username>
--p<password>`) and you can then load the public portion of the data using:
+Once you already have the `ese` SQL database set up, you can update
+the MYSQL_ARGS in the Makefile (such as `-u<username> -p<password>`)
+and you can then load the public portion of the data using:
 
 ```bash
 make reset && make read
