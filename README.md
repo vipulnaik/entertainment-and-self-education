@@ -15,7 +15,7 @@ purposes).
 Note that the `passwordFile.inc` file in
 `access-portal/backend/globalVariables` is excluded from the Git
 repository, but you can modify a corresponding dummy password file at
-[`dummyPasswordFile.inc`](https://github.com/vipulnaik/contractwork/blob/master/access-portal/backend/globalVariables/dummyPasswordFile.inc):
+[`dummyPasswordFile.inc`](https://github.com/vipulnaik/entertainment-and-self-education/blob/master/access-portal/backend/globalVariables/dummyPasswordFile.inc):
 
 ```bash
 cp access-portal/backend/globalVariables/{dummyPasswordFile.inc,passwordFile.inc}
