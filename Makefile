@@ -5,11 +5,6 @@ DATABASE=ese
 init:
 	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
 
-.PHONY: init
-init:
-	mkdir -p access-portal/images
-	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
-
 .PHONY: reset
 reset:
 	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists consumption;"
