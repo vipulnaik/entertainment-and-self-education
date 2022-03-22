@@ -53,7 +53,8 @@ and you can then load the data using:
 make reset && make read
 ```
 
-Instead of editing the Makefile, you can also pass in the arguments to each make:
+Instead of editing the Makefile, you can also pass in the arguments to
+each make:
 
 ```bash
 make MYSQL_ARGS=<args> reset && make MYSQL_ARGS=<args> read
