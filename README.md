@@ -37,7 +37,7 @@ make init
 ```
 
 Instead of editing the Makefile, you can also pass in the arguments to
-each make:
+make:
 
 ```bash
 make MYSQL_ARGS=<args> init
