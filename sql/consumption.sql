@@ -18,7 +18,8 @@ create table consumption(
   - 2021-05-16 Girl from Nowhere
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-30 Reply 1988
-  - 2022-0-25 Coffee Prince
+  - 2022-03-25 Coffee Prince
+  - 2022-03-25 The Untamed
  */
 
 /* MasterClass stuff */
