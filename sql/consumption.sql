@@ -20,7 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
-  - 2022-04-15 You
+  - 2022-04-17 You: Season 2
  */
 
 /* MasterClass stuff */
@@ -313,7 +313,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Sweet Home','https://www.netflix.com/title/81061734','2022-02-26','day','2022-03-13','day','I watched this TV show based on a Netflix home page recommendation as well as general positive buzz about the show. I liked it quite a bit, but found it a bit harder to fully get into compared to other similar-length shows in the broad horror genre such as All of Us Are Dead.'),
   ('Netflix','Single video (such as movie)',false,'Ukrainian','Winter on Fire: Ukraine''s Fight for Freedom','https://www.netflix.com/title/80031666','2022-03-07','day','2022-03-14','day','I watched this documentary based on a Netflix home page recommendation and ongoing action in Ukraine with the Russian invasion. While the vivid photography was informative and disturbing, overall I didn''t get a lot of value compared to reading about the events on Wikipedia.'),
   ('Netflix','Single video (such as movie)',true,'Hindi','Dasvi','https://www.netflix.com/title/81332225','2022-04-12','day','2022-04-13','day','I watched this movie right after renewing my Netflix subscription, based on a home page recommendation. I found it moderately engaging and enjoyed Abhishek Bachchan''s acting in particular.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','83','https://www.netflix.com/title/81144147','2022-04-15','day','2022-04-15','day','I watched this movie based on a Netflix home page recommendation of a few days ago. I found it fairly well-done despite not having a lot of interest in cricket.');
+  ('Netflix','Single video (such as movie)',false,'Hindi','83','https://www.netflix.com/title/81144147','2022-04-15','day','2022-04-15','day','I watched this movie based on a Netflix home page recommendation of a few days ago. I found it fairly well-done despite not having a lot of interest in cricket.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','You: Season 1','https://www.netflix.com/title/80211991','2022-05-14','day','2022-04-17','day','I watched this TV show based on past positive reviews. I found it engrossing and very well-done.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
