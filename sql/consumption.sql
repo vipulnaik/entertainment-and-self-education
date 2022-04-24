@@ -20,6 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
+  - 2022-04-23 Money Heist Season 1
  */
 
 /* MasterClass stuff */
