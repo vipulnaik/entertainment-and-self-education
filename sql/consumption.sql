@@ -20,7 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
-  - 2022-04-23 Money Heist Season 1
+  - 2022-04-27 Money Heist Part 2
  */
 
 /* MasterClass stuff */
@@ -316,7 +316,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','83','https://www.netflix.com/title/81144147','2022-04-15','day','2022-04-15','day','I watched this movie based on a Netflix home page recommendation of a few days ago. I found it fairly well-done despite not having a lot of interest in cricket.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','You: Season 1','https://www.netflix.com/title/80211991','2022-04-15','day','2022-04-17','day','I watched this TV show based on past positive reviews. I found it engrossing and very well-done.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','You: Season 2','https://www.netflix.com/title/80211991','2022-04-17','day','2022-04-18','day','I watched this season right after finishing Season 1. I found it quite enjoyable, despite having read the synopsis beforehand.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','You: Season 3','https://www.netflix.com/title/80211991','2022-04-18','day','2022-04-22','day','I watched this season right after finishing Season 2. I found it quite enjoyable, despite having read the synopsis beforehand.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','You: Season 3','https://www.netflix.com/title/80211991','2022-04-18','day','2022-04-22','day','I watched this season right after finishing Season 2. I found it quite enjoyable, despite having read the synopsis beforehand.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 1','https://www.netflix.com/title/80192098','2022-04-23','day','2022-04-27','day','I watched this based on a desire to watch a Spanish TV show to learn more Spanish, and the high ranking of this show among Spanish Netflix shows.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
