@@ -21,6 +21,7 @@ create table consumption(
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
   - 2022-05-06 Money Heist Part 5
+  - 2022-05-07 Ginny & Georgia rewatch
  */
 
 /* MasterClass stuff */
