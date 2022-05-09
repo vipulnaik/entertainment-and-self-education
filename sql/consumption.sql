@@ -21,7 +21,6 @@ create table consumption(
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
   - 2022-05-06 Money Heist Part 5
-  - 2022-05-07 Ginny & Georgia rewatch
  */
 
 /* MasterClass stuff */
@@ -473,7 +472,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 
 /* Netflix rewatches */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
-  ('Netflix','Series (such as TV show or web series)','Korean','Squid Game','https://www.netflix.com/title/81040344','2022-02-15','day','2022-02-21','day',true,'After watching and reading a lot of commentary on Squid Game''s hidden gems, I was intrigued enough to want to watch the show again with all the commentary in mind. I enjoyed the rewatch, and watched some scenes multiple times over this period.');
+  ('Netflix','Series (such as TV show or web series)','Korean','Squid Game','https://www.netflix.com/title/81040344','2022-02-15','day','2022-02-21','day',true,'After watching and reading a lot of commentary on Squid Game''s hidden gems, I was intrigued enough to want to watch the show again with all the commentary in mind. I enjoyed the rewatch, and watched some scenes multiple times over this period.'),
+  ('Netflix','Series (such as TV show or web series)','English','Ginny & Georgia: Season 1','https://www.netflix.com/title/81025696','2022-05-07','day','2022-05-08','day',true,'I was looking for something "Gilmore Girls"-like to rewatch, but since I had very recently rewatched all of Gilmore Girls, I wanted something a little different. I picked on Ginny & Georgia''s Season 1, that I had watched in 2021 and enjoyed.');
 
 /* Amazon video stuff */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
