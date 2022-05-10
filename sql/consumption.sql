@@ -20,6 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
+  - 2022-05-10 Elite
  */
 
 /* MasterClass stuff */
