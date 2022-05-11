@@ -495,7 +495,9 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Deathly Hallows - Part 1','https://www.amazon.com/gp/product/B004MPEFBE/','2014-09-30','day','2014-09-30','day','This was my second Harry Potter movie purchase from Amazon, just one day after my first.'),
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Deathly Hallows - Part 2','https://www.amazon.com/gp/product/B005UG53NS/','2014-10-01','day','2014-10-01','day','This was my third Harry Potter movie purchase from Amazon in three days.'),
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Prisoner of Azkaban','https://www.amazon.com/gp/product/B0091X8FUE/','2020-03-17','day','2020-03-17','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.'),
-  ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Order of the Phoenix','https://www.amazon.com/Harry-Potter-Phoenix-Daniel-Radcliffe/dp/B0012GE91W/','2020-08-06','day','2020-08-06','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.');
+  ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Order of the Phoenix','https://www.amazon.com/Harry-Potter-Phoenix-Daniel-Radcliffe/dp/B0012GE91W/','2020-08-06','day','2020-08-06','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.'),
+  /* Prime subscription */
+  ('Amazon Video','Single video (such as movie)','Hindi','Section 375','https://www.amazon.com/Section-375-Akshaye-Khanna/dp/B08KWRYB7J/','2022-05-10','day','2022-05-10','day','I watched this movie after reading interesting information about it online. I found it quite interestingly done, and a somewhat different (and controversial) take on a sensitive subject.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
