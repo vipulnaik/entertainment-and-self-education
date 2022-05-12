@@ -21,6 +21,7 @@ create table consumption(
   - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
+  - 2022-05-11 Mardaani 2
  */
 
 /* MasterClass stuff */
@@ -497,7 +498,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Prisoner of Azkaban','https://www.amazon.com/gp/product/B0091X8FUE/','2020-03-17','day','2020-03-17','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.'),
   ('Amazon Video','Single video (such as movie)','English','Harry Potter and the Order of the Phoenix','https://www.amazon.com/Harry-Potter-Phoenix-Daniel-Radcliffe/dp/B0012GE91W/','2020-08-06','day','2020-08-06','day','I had watched some other Harry Potter films previously, and I just decided to watch this one.'),
   /* Prime subscription */
-  ('Amazon Video','Single video (such as movie)','Hindi','Section 375','https://www.amazon.com/Section-375-Akshaye-Khanna/dp/B08KWRYB7J/','2022-05-10','day','2022-05-10','day','I watched this movie after reading interesting information about it online. I found it quite interestingly done, and a somewhat different (and controversial) take on a sensitive subject.');
+  ('Amazon Video','Single video (such as movie)','Hindi','Section 375','https://www.amazon.com/Section-375-Akshaye-Khanna/dp/B08KWRYB7J/','2022-05-10','day','2022-05-10','day','I watched this movie after reading interesting information about it online. I found it quite interestingly done, and a somewhat different (and controversial) take on a sensitive subject.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Mardaani','https://www.amazon.com/Mardaani-Rani-Mukerji/dp/B073SF4Z7Y/','2022-05-11','day','2022-05-11','day','I watched this movie after seeing it as one of the recommended Bollywood movies on Amazon Prime, after getting a Prime subscription the previous day.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
