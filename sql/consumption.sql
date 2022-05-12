@@ -22,6 +22,7 @@ create table consumption(
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
   - 2022-05-11 Mardaani 2
+  - 2022-05-12 The Marvelous Mrs. Maisel Season 1
  */
 
 /* MasterClass stuff */
