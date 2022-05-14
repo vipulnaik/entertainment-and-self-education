@@ -18,7 +18,6 @@ create table consumption(
   - 2021-05-16 Girl from Nowhere
   - 2021-10-11 Niki Nakayama Modern Japanese Cooking
   - 2021-11-30 Reply 1988
-  - 2022-03-25 Coffee Prince
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
   - 2022-05-11 Mardaani 2
@@ -450,6 +449,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Korean','The Devil Judge','https://www.viki.com/tv/37789c-the-devil-judge','2022-01-26','day','2022-02-04','day','I watched this TV show because it appeared in Viki''s list of highly rated shows. I enjoyed the plot, the acting, the music, and the lavish costumes in this show depicting a future dystopia.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Weightlifting Fairy Kim Bok-joo','https://www.viki.com/tv/32634c-weightlifting-fairy-kim-bok-joo','2022-02-05','day','2022-03-02','day','I watched this TV show after having planned to watch it for a long time given its high ratings. It was worth the watch. As it is a gentle and slow story, I watched it slowly, taking almost a month.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Hwarang: The Poet Warrior Youth','https://www.viki.com/tv/29810c-hwarang-the-poet-warrior-youth','2022-01-03','day','2022-03-20','day','I watched this TV show based on its high ratings; I had been meaning to watch it for a while. I felt that the beginning and the end were strong, though it did get a little slow some time in the middle. I think the critical review https://thefangirlverdict.com/2017/04/27/dropped-hwarang/ has valid cautionary notes about the show, but, unlike the review author, I watched the show till the end and found it worthwhile.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Coffee Prince','https://www.viki.com/tv/247c-coffee-prince','2022-03-25','day','2022-05-14','day','I watched this TV show based on its high ratings in Viki as well as general opinion on the Internet (see https://thefangirlverdict.com/2019/01/03/review-coffee-prince/ for instance) that this was one of the old classics.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
