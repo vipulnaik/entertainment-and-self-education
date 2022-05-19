@@ -20,8 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
-  - 2022-05-11 Mardaani 2
-  - 2022-05-17 The Marvelous Mrs. Maisel Season 4
+  - 2022-05-18 Raazi
  */
 
 /* MasterClass stuff */
@@ -504,7 +503,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 1','https://www.amazon.com/gp/video/detail/B0875GWS52/','2022-05-12','day','2022-05-13','day','I watched this TV show to make sure of my newly acquired Amazon Prime Video subscription, and because of positive reviews as well as it being created by the creators of Gilmore Girls, one of my favorite shows. I enjoyed the first season quite a bit; some aspects of its style were reminiscent of Gilmore Girls.'),
   ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 2','https://www.amazon.com/gp/video/detail/B0875SCRG4/','2022-05-13','day','2022-05-15','day','I watched this season right after finishing Season 1, and found it comparably enjoyable.'),
   ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 3','https://www.amazon.com/gp/video/detail/B0875H35N6/','2022-05-15','day','2022-05-17','day','I watched this season right after finishing Season 2, and found it comparably enjoyable.'),
-  ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 4','https://www.amazon.com/gp/video/detail/B09M7RCXBB/','2022-05-17','day','2022-05-18','day','I watched this season right after finishing Season 3, and found it comparably enjoyable.');
+  ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 4','https://www.amazon.com/gp/video/detail/B09M7RCXBB/','2022-05-17','day','2022-05-18','day','I watched this season right after finishing Season 3, and found it comparably enjoyable.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Mardaani 2','https://www.amazon.com/Mardaani-2-Rani-Mukerji/dp/B08KWR36LL/','2022-05-11','day','2022-05-18','day','I started watching this on 2022-05-11 right after watching Mardaani, but then paused it to watch The Marvelous Mrs. Maisel. I returned to finish watching it on 2022-05-18.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
