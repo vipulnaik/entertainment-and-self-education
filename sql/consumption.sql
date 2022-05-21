@@ -20,7 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
-  - 2022-05-20 Fanaa
+  - 2022-05-20 Batla House
  */
 
 /* MasterClass stuff */
@@ -505,7 +505,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 3','https://www.amazon.com/gp/video/detail/B0875H35N6/','2022-05-15','day','2022-05-17','day','I watched this season right after finishing Season 2, and found it comparably enjoyable.'),
   ('Amazon Video','Series (such as TV show or web series)','English','The Marvelous Mrs. Maisel: Season 4','https://www.amazon.com/gp/video/detail/B09M7RCXBB/','2022-05-17','day','2022-05-18','day','I watched this season right after finishing Season 3, and found it comparably enjoyable.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Mardaani 2','https://www.amazon.com/Mardaani-2-Rani-Mukerji/dp/B08KWR36LL/','2022-05-11','day','2022-05-18','day','I started watching this on 2022-05-11 right after watching Mardaani, but then paused it to watch The Marvelous Mrs. Maisel. I returned to finish watching it on 2022-05-18.'),
-  ('Amazon Video','Single video (such as movie)','Hindi','Raazi','https://www.amazon.com/Raazi-Alia-Bhatt/dp/B08KWRFMDD','2022-05-18','day','2022-05-19','day','I watched this based on Google Search showing this as one of the best movies on Amazon Prime Video, as well as positive critical reception according to its Wikipedia page. I found it pretty good, consistent with the positive reviews.');
+  ('Amazon Video','Single video (such as movie)','Hindi','Raazi','https://www.amazon.com/Raazi-Alia-Bhatt/dp/B08KWRFMDD','2022-05-18','day','2022-05-19','day','I watched this based on Google Search showing this as one of the best movies on Amazon Prime Video, as well as positive critical reception according to its Wikipedia page. I found it pretty good, consistent with the positive reviews.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Fanaa','https://www.amazon.com/Fanaa-Aamir-Khan/dp/B073SGR9Q3/','2022-05-20','day','2022-05-20','day','I watched this based on Google Search showing this as one of the best movies on Amazon Prime Video, as well as having heard positive things about it in the past. I found it as engaging as expected.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
