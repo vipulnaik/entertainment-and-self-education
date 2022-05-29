@@ -20,6 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
+  - 2022-05-28 Tumhari Sulu
  */
 
 /* MasterClass stuff */
@@ -509,7 +510,9 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','Hindi','Batla House','https://www.amazon.com/gp/video/detail/B08KWRQWX1/','2022-05-20','day','2022-05-21','day','I watched this based on Google Search showing this as one of the best movies on Amazon Prime Video, after confirming on Wikipedia that its critical reception was decent.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Shakuntala Devi','https://www.amazon.com/Shakuntala-Devi-Vidya-Balan/dp/B08KWQR375/','2022-05-24','day','2022-05-24','day','I watched this movie after seeing it in a list of movies available on Amazon Prime Video. I found it reasonably good, living up to my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Veer-Zaara','https://www.amazon.com/Veer-Zaara-Shah-Rukh-Khan/dp/B073SF5N15/','2022-05-25','day','2022-05-25','day','I was familiar with this movie''s plot and it was one of the movies that I had hoped to watch some day; I watched it after noticing that it is available on Amazon Prime, to which I have a subscription for a month. I found it pretty great, just as I had expected.'),
-  ('Amazon Video','Series (such as TV show or web series)','English','The Underground Railroad','https://www.amazon.com/gp/video/detail/B08XC43D8Z/','2022-05-21','day','2022-05-27','day','I watched this TV show based on it being in various lists of much-watch shows on Amazon Prime, to which I have a subscription for a month. While I found the plot and acting quite good, I had trouble following it in parts, and also clearly identifying what''s going on on screen (given the dark background). Reading the episode-level synopsis online was helpful in guiding me through the difficult-to-follow parts.');
+  ('Amazon Video','Series (such as TV show or web series)','English','The Underground Railroad','https://www.amazon.com/gp/video/detail/B08XC43D8Z/','2022-05-21','day','2022-05-27','day','I watched this TV show based on it being in various lists of much-watch shows on Amazon Prime, to which I have a subscription for a month. While I found the plot and acting quite good, I had trouble following it in parts, and also clearly identifying what''s going on on screen (given the dark background). Reading the episode-level synopsis online was helpful in guiding me through the difficult-to-follow parts.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Hichki','https://www.amazon.com/Hichki-Rani-Mukerji/dp/B08KWR1NF6/','2022-05-28','day','2022-05-28','day','I watched this movie based on it being in the Amazon Prime video list, and past positive reviews I had read of it. I found it quite good, consistent with my expectations.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Sui Dhaaga - Made in India','https://www.amazon.com/gp/video/detail/B08KWRS8TD/','2022-05-28','day','2022-05-28','day','I watched this video based on am Aazon recommendation and positive reviews. I found it quite good, consistent with my expectations.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
