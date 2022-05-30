@@ -20,7 +20,7 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
-  - 2022-05-29 Dhoom
+  - 2022-05-29 Dhoom 2
  */
 
 /* MasterClass stuff */
@@ -514,7 +514,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','Hindi','Hichki','https://www.amazon.com/Hichki-Rani-Mukerji/dp/B08KWR1NF6/','2022-05-28','day','2022-05-28','day','I watched this movie based on it being in the Amazon Prime video list, and past positive reviews I had read of it. I found it quite good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Sui Dhaaga - Made in India','https://www.amazon.com/gp/video/detail/B08KWRS8TD/','2022-05-28','day','2022-05-28','day','I watched this video based on am Aazon recommendation and positive reviews. I found it quite good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Tumhari Sulu','https://www.amazon.com/gp/video/detail/B08KWQZQ9J/','2022-05-28','day','2022-05-28','day','I watched this based on an Amazon recommendation and the synopsis and cast (Vidya Balan). I had not read any positive reviews at the time of watching. I found it good and consistent with my expectations.'),
-  ('Amazon Video','Single video (such as movie)','Hindi','Laaga Chunari Mein Daag','https://www.amazon.com/','2022-05-29','day','2022-05-29','day','I watched this based on an Amazon recommendation and positive reviews. I found it quite good, consistent with my expectations.');
+  ('Amazon Video','Single video (such as movie)','Hindi','Laaga Chunari Mein Daag','https://www.amazon.com/Laaga-Chunari-Mein-Abhishek-Bachchan/dp/B018MRSR16/','2022-05-29','day','2022-05-29','day','I watched this based on an Amazon recommendation and positive reviews. I found it quite good, consistent with my expectations.'),
+  ('Amazon Video','Single video (such as movie)','Hindi','Dhoom','https://www.amazon.com/Dhoom-John-Abraham/dp/B073SGD631/','2022-05-29','day','2022-05-29','day','I watched this as it is one of the Bollywood classics that I had not watched, and I saw that it is available on Amazon Prime.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
