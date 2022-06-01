@@ -23,6 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl
   - 2022-05-31 Padmaavat
   - 2022-05-31 Mumbai Meri Jaan
+  - 2022-05-31 Bridgerton
  */
 
 /* MasterClass stuff */
