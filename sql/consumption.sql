@@ -20,7 +20,9 @@ create table consumption(
   - 2021-11-30 Reply 1988
   - 2022-03-25 The Untamed
   - 2022-05-10 Elite
-  - 2022-05-29 Gone Girl
+  - 2022-05-30 Gone Girl
+  - 2022-05-31 Padmaavat
+  - 2022-05-31 Mumbai Meri Jaan
  */
 
 /* MasterClass stuff */
