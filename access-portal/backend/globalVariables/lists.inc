@@ -1,6 +1,6 @@
 <?php
 
-$languages = array('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German');
+$languages = array('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian');
 
 $venues = array('Netflix','Viki','MasterClass','YouTube','ErosNow','Amazon Video','iTunes','In-flight entertainment','Movie theater','EconLib');
 
