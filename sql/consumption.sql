@@ -3,7 +3,7 @@ create table consumption(
   `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible'),
   `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
   `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','English/Thai','Taiwanese','Ukrainian'),
+  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian'),
   `item` varchar(200),
   `url` varchar(200),
   `start_date` date,
@@ -23,7 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl
   - 2022-05-31 Padmaavat
   - 2022-05-31 Mumbai Meri Jaan
-  - 2022-05-31 Bridgerton
+  - 2022-06-04 Bridgerton: Season 2
  */
 
 /* MasterClass stuff */
@@ -324,7 +324,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 2','https://www.netflix.com/title/80192098','2022-04-27','day','2022-04-29','day','I watched this right after finishing Part 1, and found it comparably enjoyable.'),
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 3','https://www.netflix.com/title/80192098','2022-04-29','day','2022-05-01','day','I watched this right after finishing Part 1, and found it comparably enjoyable.'),
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 4','https://www.netflix.com/title/80192098','2022-05-01','day','2022-05-06','day','I watched this right after finishing Part 3, and found it comparably enjoyable.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 5','https://www.netflix.com/title/80192098','2022-05-06','day','2022-05-10','day','I watched this right after finishing Part 4, and found it comparably enjoyable.');
+  ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 5','https://www.netflix.com/title/80192098','2022-05-06','day','2022-05-10','day','I watched this right after finishing Part 4, and found it comparably enjoyable.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 1','https://www.netflix.com/title/80232398','2022-05-31','day','2022-06-04','day','I watched this season based on its generally positive reviews and its popularity. I found it quite good, consistent with expectations.'),
+  ('Netflix','Single video (such as movie)',true,'Malayalam','Jana Gana Mana','https://www.netflix.com/title/81477034','2022-06-04','day','2022-06-04','day','I watched this movie based on a Netflix home page recommendation, and enjoyed it.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
