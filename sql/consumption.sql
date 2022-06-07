@@ -23,7 +23,6 @@ create table consumption(
   - 2022-05-30 Gone Girl
   - 2022-05-31 Padmaavat
   - 2022-05-31 Mumbai Meri Jaan
-  - 2022-06-04 Bridgerton: Season 2
  */
 
 /* MasterClass stuff */
@@ -326,7 +325,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 4','https://www.netflix.com/title/80192098','2022-05-01','day','2022-05-06','day','I watched this right after finishing Part 3, and found it comparably enjoyable.'),
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 5','https://www.netflix.com/title/80192098','2022-05-06','day','2022-05-10','day','I watched this right after finishing Part 4, and found it comparably enjoyable.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 1','https://www.netflix.com/title/80232398','2022-05-31','day','2022-06-04','day','I watched this season based on its generally positive reviews and its popularity. I found it quite good, consistent with expectations.'),
-  ('Netflix','Single video (such as movie)',true,'Malayalam','Jana Gana Mana','https://www.netflix.com/title/81477034','2022-06-04','day','2022-06-04','day','I watched this movie based on a Netflix home page recommendation, and enjoyed it.');
+  ('Netflix','Single video (such as movie)',true,'Malayalam','Jana Gana Mana','https://www.netflix.com/title/81477034','2022-06-04','day','2022-06-04','day','I watched this movie based on a Netflix home page recommendation, and enjoyed it.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 2','https://www.netflix.com/title/80232398','2022-06-04','day','2022-06-06','day','I watched this season right after finishing Season 1, and found it comparably good.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
