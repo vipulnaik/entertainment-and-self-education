@@ -1,29 +1,29 @@
 create table consumption(
-  `consumption_id` int(11) not null auto_increment primary key,
-  `consumption_venue` enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible'),
-  `format` enum('Series (such as TV show or web series)','Single video (such as movie)'),
-  `live_watch` boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  `primary_language` enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian'),
-  `item` varchar(200),
-  `url` varchar(200),
-  `start_date` date,
-  `start_date_precision` enum('day','month','year'),
-  `end_date` date,
-  `end_date_precision` enum('day','month','year'),
-  `rewatch` boolean default false,
-  `notes` varchar(2000)
+  consumption_id int(11) not null auto_increment primary key,
+  consumption_venue enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible','HBO'),
+  format enum('Series (such as TV show or web series)','Single video (such as movie)'),
+  live_watch boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
+  primary_language enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian'),
+  item varchar(200),
+  url varchar(200),
+  start_date date,
+  start_date_precision enum('day','month','year'),
+  end_date date,
+  end_date_precision enum('day','month','year'),
+  rewatch boolean default false,
+  notes varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 /* Notes on starts:
-  - 2021-05-16 Girl from Nowhere
-  - 2021-10-11 Niki Nakayama Modern Japanese Cooking
-  - 2021-11-30 Reply 1988
-  - 2022-03-25 The Untamed
-  - 2022-05-10 Elite
-  - 2022-05-30 Gone Girl
-  - 2022-05-31 Padmaavat
-  - 2022-05-31 Mumbai Meri Jaan
-  - 2022-06-07 Fantastic Beasts and Where To Find Them (HBO)
+  - 2021-05-16 Girl from Nowhere (Netflix)
+  - 2021-10-11 Niki Nakayama Modern Japanese Cooking (MasterClass)
+  - 2021-11-30 Reply 1988 (Viki)
+  - 2022-03-25 The Untamed (Viki)
+  - 2022-05-10 Elite (Netflix)
+  - 2022-05-30 Gone Girl (Freevee)
+  - 2022-05-31 Padmaavat (Amazon Video)
+  - 2022-05-31 Mumbai Meri Jaan (Netflix)
+  - 2022-06-08 Fantastic Beasts: The Crimes of Grindelwald (HBO)
  */
 
 /* MasterClass stuff */
@@ -524,6 +524,10 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom','https://www.amazon.com/Dhoom-John-Abraham/dp/B073SGD631/','2022-05-29','day','2022-05-29','day','I watched this as it is one of the Bollywood classics that I had not watched, and I saw that it is available on Amazon Prime. I found it reasonably good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom 2','https://www.amazon.com/Dhoom-2-Abhishek-Bachchan/dp/B095JNVB2Z/','2022-05-29','day','2022-05-29','day','I watched this right after finishing Dhoom, the preceding film in the Dhoom trilogy. I watched it as it is one of the Bollywood classics that I had not watched, and I saw that it is available on Amazon Prime. I found it reasonably good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom 3','https://www.amazon.com/gp/video/detail/B095J2W52W/','2022-05-30','day','2022-05-30','day','I watched this shortly after finishing Dhoom and Dhoom 2. I found it reasonably good, consistent with expectations, and consistent with the previous two movies in the Dhoom franchise.');
+
+/* HBO stuff */
+insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('HBO','Single video (such as movie)','English','Fantastic Beasts and Where to Find Them','https://www.hbomax.com/feature/urn:hbo:feature:GXssTNAEn61VGwwEAAABn','2022-06-07','day','2022-06-07','day','I decided to get a HBO subscription to watch some great content on HBO. The Fantastic Beasts series was not on my radar when I signed up, but after signing up I noticed it and decided to start with consuming the series. It was relatively light on plot compared with the Harry Potter canon, but had good acting and good special effects. Overall I enjoyed it.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
