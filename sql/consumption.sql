@@ -23,7 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Padmaavat (Amazon Video)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
-  - 2022-06-09 Silicon Valley: Season 1
+  - 2022-06-09 Silicon Valley: Season 2
  */
 
 /* MasterClass stuff */
@@ -529,7 +529,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('HBO','Single video (such as movie)','English','Fantastic Beasts and Where to Find Them','https://www.hbomax.com/feature/urn:hbo:feature:GXssTNAEn61VGwwEAAABn','2022-06-07','day','2022-06-07','day','I decided to get a HBO subscription to watch some great content on HBO. The Fantastic Beasts series was not on my radar when I signed up, but after signing up I noticed it and decided to start with consuming the series. It was relatively light on plot compared with the Harry Potter canon, but had good acting and good special effects. Overall I enjoyed it.'),
   ('HBO','Single video (such as movie)','English','Fantastic Beasts: The Crimes of Grindelwald','https://www.hbomax.com/feature/urn:hbo:feature:GXN3M3Q6SSMLDwgEAAAN7','2022-06-08','day','2022-06-08','day','I watched this right after watching Fantastic Beasts and Where to Find Them, the preceding movie in the series. I found it quite comparable to the preceding movie: relatively light on plot, but good acting and good special effects.'),
-  ('HBO','Single video (such as movie)','English','Fantastic Beasts: The Secrets of Dumbledore','https://www.hbo.com/movies/fantastic-beasts-the-secrets-of-dumbledore','2022-06-08','day','2022-06-09','day','I watched this right after watching Fantastic Beasts: The Crimes of Grindelwald, the preceding movie in the series. I found it quite comparable to the preceding movie: relatively light on plot, but good acting and good special effects.');
+  ('HBO','Single video (such as movie)','English','Fantastic Beasts: The Secrets of Dumbledore','https://www.hbo.com/movies/fantastic-beasts-the-secrets-of-dumbledore','2022-06-08','day','2022-06-09','day','I watched this right after watching Fantastic Beasts: The Crimes of Grindelwald, the preceding movie in the series. I found it quite comparable to the preceding movie: relatively light on plot, but good acting and good special effects.'),
+  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 1','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-09','day','Now that I finally had a HBO subscription, I watched this TV show based on several past positive recommendations both from friends and online. I found it quite good and entertaining, consistent with the positive recommendations I had heard.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
