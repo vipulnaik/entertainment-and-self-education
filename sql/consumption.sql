@@ -23,7 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Padmaavat (Amazon Video)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
-  - 2022-06-10 Silicon Valley: Season 3
+  - 2022-06-11 Silicon Valley: Season 4
  */
 
 /* MasterClass stuff */
@@ -531,7 +531,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('HBO','Single video (such as movie)','English','Fantastic Beasts: The Crimes of Grindelwald','https://www.hbomax.com/feature/urn:hbo:feature:GXN3M3Q6SSMLDwgEAAAN7','2022-06-08','day','2022-06-08','day','I watched this right after watching Fantastic Beasts and Where to Find Them, the preceding movie in the series. I found it quite comparable to the preceding movie: relatively light on plot, but good acting and good special effects.'),
   ('HBO','Single video (such as movie)','English','Fantastic Beasts: The Secrets of Dumbledore','https://www.hbo.com/movies/fantastic-beasts-the-secrets-of-dumbledore','2022-06-08','day','2022-06-09','day','I watched this right after watching Fantastic Beasts: The Crimes of Grindelwald, the preceding movie in the series. I found it quite comparable to the preceding movie: relatively light on plot, but good acting and good special effects.'),
   ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 1','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-09','day','Now that I finally had a HBO subscription, I watched this TV show based on several past positive recommendations both from friends and online. I found it quite good and entertaining, consistent with the positive recommendations I had heard.'),
-  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 2','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-10','day','I watched this season right after finishing Season 1, and found it comparably great.');
+  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 2','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-10','day','I watched this season right after finishing Season 1, and found it comparably great.'),
+  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 3','https://www.hbo.com/silicon-valley','2022-06-10','day','2022-06-11','day','I watched this season right after finishing Season 2, and found it comparably great.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
