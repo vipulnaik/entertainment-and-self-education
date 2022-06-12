@@ -23,7 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Padmaavat (Amazon Video)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
-  - 2022-06-11 Silicon Valley: Season 5
+  - 2022-06-12 Silicon Valley: Season 6
  */
 
 /* MasterClass stuff */
@@ -533,7 +533,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 1','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-09','day','Now that I finally had a HBO subscription, I watched this TV show based on several past positive recommendations both from friends and online. I found it quite good and entertaining, consistent with the positive recommendations I had heard.'),
   ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 2','https://www.hbo.com/silicon-valley','2022-06-09','day','2022-06-10','day','I watched this season right after finishing Season 1, and found it comparably great.'),
   ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 3','https://www.hbo.com/silicon-valley','2022-06-10','day','2022-06-11','day','I watched this season right after finishing Season 2, and found it comparably great.'),
-  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 4','https://www.hbo.com/silicon-valley','2022-06-11','day','2022-06-11','day','I watched this season right after finishing Season 3, and found it comparably great.');
+  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 4','https://www.hbo.com/silicon-valley','2022-06-11','day','2022-06-11','day','I watched this season right after finishing Season 3, and found it comparably great.'),
+  ('HBO','Series (such as TV show or web series)','English','Silicon Valley: Season 5','https://www.hbo.com/silicon-valley','2022-06-11','day','2022-06-12','day','I watched this season right after finishing Season 4, and found it comparably great.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
