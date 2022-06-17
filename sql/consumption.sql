@@ -24,6 +24,7 @@ create table consumption(
   - 2022-05-31 Padmaavat (Amazon Video)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-06-14 Veep Season 2 (HBO)
+  - 2022-06-16 Game of Thrones Season 1 (HBO)
  */
 
 /* MasterClass stuff */
