@@ -23,7 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-06-14 Veep Season 2 (HBO)
-  - 2022-07-12 Game of Thrones Season 5 (HBO)
+  - 2022-07-14 Game of Thrones Season 6 (HBO)
  */
 
 /* MasterClass stuff */
@@ -541,7 +541,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 1','https://www.hbo.com/game-of-thrones','2022-06-16','day','2022-06-22','day','This was a TV show I had been meaning to watch for quite some time; I was just blocked on not having a HBO subscription. I had read the corresponding book "Game of Thrones" and enjoyed it; this had been about ten years ago, so I remembered the broad outlines but not many of the details. Therefore, the season was still quite engaging and suspenseful for me.'),
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 2','https://www.hbo.com/game-of-thrones','2022-06-22','day','2022-07-01','day','I watched this season right after Season 1, and found it comparably enjoyable for similar reasons. My memory of the corresponding book was a little weaker than for Season 1.'),
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 3','https://www.hbo.com/game-of-thrones','2022-07-01','day','2022-07-08','day','I watched this season right after Season 2, and found it comparably enjoyable for similar reasons. My memory of the corresponding book was a little weaker than for Season 2 and a lot weaker than for Season 1.'),
-  ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 4','https://www.hbo.com/game-of-thrones','2022-07-08','day','2022-07-12','day','I watched this season right after Season 3, and found it comparably enjoyable for similar reasons. My memory of the corresponding book was similarly weak, and weaker than Seasons 1 and 2.');
+  ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 4','https://www.hbo.com/game-of-thrones','2022-07-08','day','2022-07-12','day','I watched this season right after Season 3, and found it comparably enjoyable for similar reasons. My memory of the corresponding book was similarly weak, and weaker than Seasons 1 and 2.'),
+  ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 5','https://www.hbo.com/game-of-thrones','2022-07-12','day','2022-07-14','day','I watched this season right after Season 4, and found it comparably enjoyable for similar reasons. I don''t recall reading the corresponding book, so I had less of an expectation of how things would turn out (though I also read separately that this season diverged quite a bit from the corresponding book, so even if I had read the book, many of the developments in this season would likely still have been surprises).');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
