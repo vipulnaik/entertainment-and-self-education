@@ -23,6 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-08-01 The Wire Season 1 (HBO)
+  - 2022-08-03 Mouse (Viki)
  */
 
 /* MasterClass stuff */
