@@ -22,7 +22,6 @@ create table consumption(
   - 2022-05-10 Elite (Netflix)
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
-  - 2022-08-01 The Wire Season 1 (HBO)
   - 2022-08-03 Mouse (Viki)
  */
 
@@ -546,7 +545,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 6','https://www.hbo.com/game-of-thrones','2022-07-14','day','2022-07-21','day','I watched this season right after finishing Season 5. Unlike previous seasons, this one does not (yet) have a corresponding book, and I was mostly in the dark about what would happen in this season. I found it quite enjoyable and felt that several threads came together in this season.'),
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 7','https://www.hbo.com/game-of-thrones','2022-07-21','day','2022-07-24','day','I watched this season right after finishing Season 6. As with Season 6, this season does not (yet) have a corresponding book, and I was mostly in the dark about what would happen in this season. I found it quite enjoyable and enjoyed the buildup to the finale.'),
   ('HBO','Series (such as TV show or web series)','English','Game of Thrones: Season 8','https://www.hbo.com/game-of-thrones','2022-07-24','day','2022-07-30','day','I watched this season right after finishing Season 7. I enjoyed it a lot. I found it a fitting end to the series, with several loose ends being tied up.'),
-  ('HBO','Series (such as TV show or web series)','English','Veep: Season 2','https://www.hbo.com/veep','2022-06-14','day','2022-08-01','day','I watched this season right after finishing Season 1. However, after getting through a little over half of it, I decided to take a break to watch Game of Thrones instead. After finishing Game of Thrones, I returned to finish this season. I found it quite fun but not addictive and an ideal show to watch during meal times without feeling compelled to continue watching beyond meal times.');
+  ('HBO','Series (such as TV show or web series)','English','Veep: Season 2','https://www.hbo.com/veep','2022-06-14','day','2022-08-01','day','I watched this season right after finishing Season 1. However, after getting through a little over half of it, I decided to take a break to watch Game of Thrones instead. After finishing Game of Thrones, I returned to finish this season. I found it quite fun but not addictive and an ideal show to watch during meal times without feeling compelled to continue watching beyond meal times.'),
+  ('HBO','Series (such as TV show or web series)','English','The Wire: Season 1','https://www.hbo.com/the-wire','2022-08-01','day','2022-08-18','day','I watched this show mainly based on positive reviews of it that I had read over the years. The show was much more of a slow burn than I had expected, but after watching a few episodes I got a better sense for why it is considered one of the best TV shows. I enjoyed the season, but may take a bit of a break before consuming other seasons, since it wasn''t engrossing enough and I''d like to sample more HBO content before switching my subscription back to Netflix.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
