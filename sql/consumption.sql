@@ -23,6 +23,7 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-08-03 Mouse (Viki)
+  - 2022-08-19 All the President's Men (HBO)
  */
 
 /* MasterClass stuff */
