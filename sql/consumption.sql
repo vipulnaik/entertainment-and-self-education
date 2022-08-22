@@ -23,6 +23,8 @@ create table consumption(
   - 2022-05-30 Gone Girl (Freevee)
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-08-03 Mouse (Viki)
+  - 2022-08-21 South Park (HBO) -- brief sampling; felt too dark and over-the-top but might revisit
+  - 2022-08-21 The Sopranos (HBO)
  */
 
 /* MasterClass stuff */
