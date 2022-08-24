@@ -25,6 +25,7 @@ create table consumption(
   - 2022-08-03 Mouse (Viki)
   - 2022-08-21 South Park (HBO) -- brief sampling; felt too dark and over-the-top but might revisit
   - 2022-08-21 The Sopranos (HBO)
+  - 2022-08-23 Casablanca (HBO)
  */
 
 /* MasterClass stuff */
