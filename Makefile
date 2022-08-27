@@ -7,7 +7,7 @@ init:
 
 .PHONY: reset
 reset:
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists consumption;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists consumption;"
 
 .PHONY: read
 read:
