@@ -7,11 +7,13 @@ init:
 
 .PHONY: reset
 reset:
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists ongoing_consumption;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists consumption;"
 
 .PHONY: read
 read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/consumption.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/ongoing_consumption.sql
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
