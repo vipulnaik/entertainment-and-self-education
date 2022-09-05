@@ -8,6 +8,8 @@ print "\n";
 print '<table id="myTableOngoingConsumptionList" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Item</th>';
+print '<th>Format</th>';
+print '<th>Primary language</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
@@ -19,6 +21,8 @@ for ($i = 0; $i < $ongoingConsumptionListResult -> num_rows; $i++) {
   } else {
     print '<td>'.$row['item'].'</td>';
   }
+  print '<td>'.$row['format'].'</td>';
+  print '<td>'.$row['primary_language'].'</td>';
   if (isset($row['notes'])) {
     print '<td>'.cleanNotes($row['notes']).'</td>';
   }
