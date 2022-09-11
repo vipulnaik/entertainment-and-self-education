@@ -61,7 +61,7 @@ Some of the documentaries that I might be interested in:
 ## Amazon Prime Video
 
 At $8.99, it's a little cheaper than Netflix, but has poor selection
-outsid of English language stuff and Bollywood movies.
+outside of English language stuff and Bollywood movies.
 
 Blockers to resuming: I want The Marvelous Mrs. Maisel Season 5 to be
 released before I resume subscription.
