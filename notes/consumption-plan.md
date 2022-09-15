@@ -27,7 +27,6 @@ $14.99 right now, so I'm planning to leave for now.
 
 ### What I plan to consume before leaving
 
-* Westworld -- at least one season
 * The third LOTR movie
 * The Lord of the Flies
 * Life of Pi
