@@ -27,9 +27,8 @@ $14.99 right now, so I'm planning to leave for now.
 
 ### What I plan to consume before leaving
 
-* The third LOTR movie
-* The Lord of the Flies
 * Life of Pi
+* The Lord of the Flies
 * Gone with the Wind
 
 ### What I plan to consume at some point later when I return

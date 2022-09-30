@@ -27,6 +27,7 @@ create table consumption(
   - 2022-08-21 The Sopranos (HBO)
   - 2022-09-03 What we look for in early projects | Zachary R, Jonas V, Owen CB | EA Global: London 22
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
+  - 2022-09-29 Life of Pi
  */
 
 /* MasterClass stuff */
