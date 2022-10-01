@@ -27,8 +27,7 @@ $14.99 right now, so I'm planning to leave for now.
 
 ### What I plan to consume before leaving
 
-* Life of Pi
-* The Lord of the Flies
+* Lord of the Flies (in progress)
 * Gone with the Wind
 
 ### What I plan to consume at some point later when I return
@@ -70,6 +69,7 @@ Some stuff I hope to consume:
 * Gully Boy
 * Mujhse Dosti Karoge
 * Jalsa
+* The Rings of Power
 
 ## Disney+
 
@@ -86,13 +86,6 @@ Stuff I might want to watch:
 
 There's a lot I want to watch on Netflix.
 
-Stuff that's leaving by September 30 (and I'll probably miss unless I
-decide to resume my subscription early):
-
-* Catch Me If You Can
-* Taxi Driver
-* Quantico
-
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
 * The Crown Season 5 (ETA: November 2022)
@@ -105,7 +98,9 @@ on Netflix.
 
 Stuff that is ready for me to watch:
 
-* Gilmore Girls: A Year in the Life (rewatch)
+* Gilmore Girls: A Year in the Life (rewatch) -- note I might end up
+  buying this so that I can watch it any time even when not on a
+  Netflix subscription
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
