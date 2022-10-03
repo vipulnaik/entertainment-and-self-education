@@ -27,8 +27,9 @@ $14.99 right now, so I'm planning to leave for now.
 
 ### What I plan to consume before leaving
 
-* Lord of the Flies (in progress)
 * Gone with the Wind
+* Escape from Kabul
+* Four Hours at the Capitol
 
 ### What I plan to consume at some point later when I return
 
@@ -124,8 +125,12 @@ catch up more with it.
 VikiPass Standard (or Free):
 
 * Mouse
-* Reply 1988
-* The Untamed
+* Reply 1988 (in progress; also available on Netflix, but I'll
+  probably watch this on Viki when I don't have a Netflix subscription
+  active)
+* The Untamed (just started; also available on Netflix, but I'll
+  probably watch this on Viki when I don't have a Netflix subscription
+  active)
 * The Red Sleeve
 * Semantic Error
 * Boys over Flowers
@@ -136,3 +141,15 @@ VikiPass Plus:
 
 * My Love from the Star
 * Penthouse
+
+## Freevee
+
+This doesn't need a subscription, so it's ideal to watch in periods in
+between subscriptions (e.g., after letting my Netflix subscription
+expire but before restarting my HBO subscription).
+
+* Gone Girl (already started, need to finish)
+* Battle Royale
+* Battle Royale 2
+
+Check what's on Freevee (it might change over time).
