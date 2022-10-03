@@ -27,7 +27,9 @@ create table consumption(
   - 2022-08-21 The Sopranos (HBO)
   - 2022-09-03 What we look for in early projects | Zachary R, Jonas V, Owen CB | EA Global: London 22
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
-  - 2022-10-02 Escape from Kabul
+  - 2022-10-02 - 2022-10-03: Escape from Kabul (HBO)
+  - 2022-10-03 - 2022-10-03: Four Hours at the Capitol (HBO)
+  - 2022-10-03: The Inventor (HBO)
  */
 
 /* MasterClass stuff */
