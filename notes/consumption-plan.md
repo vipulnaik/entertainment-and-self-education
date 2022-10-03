@@ -151,5 +151,6 @@ expire but before restarting my HBO subscription).
 * Gone Girl (already started, need to finish)
 * Battle Royale
 * Battle Royale 2
+* 1917
 
 Check what's on Freevee (it might change over time).
