@@ -99,9 +99,6 @@ on Netflix.
 
 Stuff that is ready for me to watch:
 
-* Gilmore Girls: A Year in the Life (rewatch) -- note I might end up
-  buying this so that I can watch it any time even when not on a
-  Netflix subscription
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
