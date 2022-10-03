@@ -148,7 +148,7 @@ This doesn't need a subscription, so it's ideal to watch in periods in
 between subscriptions (e.g., after letting my Netflix subscription
 expire but before restarting my HBO subscription).
 
-* Gone Girl (already started, need to finish)
+* ~~Gone Girl (already started, need to finish)~~ no longer on Freevee
 * Battle Royale
 * Battle Royale 2
 * 1917
