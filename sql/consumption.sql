@@ -30,7 +30,8 @@ create table consumption(
   - 2022-10-02 - 2022-10-03: Escape from Kabul (HBO)
   - 2022-10-03 - 2022-10-03: Four Hours at the Capitol (HBO)
   - 2022-10-03 - 2022-10-03: The Inventor (HBO)
-  - 2022-10-03 Hostages (HBO)
+  - 2022-10-03 - 2022-10-04: Hostages (HBO)
+  - 2022-10-04 - ??: Going Clear (HBO)
  */
 
 /* MasterClass stuff */
