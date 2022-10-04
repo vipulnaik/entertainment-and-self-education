@@ -29,7 +29,8 @@ create table consumption(
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
   - 2022-10-02 - 2022-10-03: Escape from Kabul (HBO)
   - 2022-10-03 - 2022-10-03: Four Hours at the Capitol (HBO)
-  - 2022-10-03: The Inventor (HBO)
+  - 2022-10-03 - 2022-10-03: The Inventor (HBO)
+  - 2022-10-03 Hostages (HBO)
  */
 
 /* MasterClass stuff */
