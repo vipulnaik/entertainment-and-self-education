@@ -32,6 +32,7 @@ create table consumption(
   - 2022-10-03 - 2022-10-03: The Inventor (HBO)
   - 2022-10-03 - 2022-10-04: Hostages (HBO)
   - 2022-10-04 - 2022-10-04: Going Clear (HBO)
+  - 2022-10-05 Nuclear Family (HBO)
  */
 
 /* MasterClass stuff */

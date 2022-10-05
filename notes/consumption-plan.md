@@ -27,12 +27,13 @@ $14.99 right now, so I'm planning to leave for now.
 
 ### What I plan to consume before leaving
 
-* Gone with the Wind
-* Escape from Kabul
-* Four Hours at the Capitol
+* Nuclear Family (I'll try to finish it)
 
 ### What I plan to consume at some point later when I return
 
+* Gone with the Wind
+* 2001: A Space Odyssey
+* Many other documentaries
 * House of the Dragon (it's airing right now and won't finish before I
   leave; I prefer to start watching when the whole season is
   available)
