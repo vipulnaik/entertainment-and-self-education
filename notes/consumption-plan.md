@@ -1,15 +1,13 @@
 # Consumption plan
 
-Last major update: September 10, 2022.
+Last major update: October 6, 2022.
 
 ## Current plan
 
-* Let my HBO subscription finish on October 7; focus on HBO while the
-  subscription is on.
-* After the HBO subscription finishes, spend a few weeks focused on
-  VikiPass Standard consumption as well as catching up on Freevee and other
-  things.
-* Start Netflix in late October / early November.
+* After the HBO subscription finishes on October 7, spend a few weeks
+  focused on VikiPass Standard consumption as well as catching up on
+  Freevee and other things.
+* Start Netflix around mid-November or later.
 * Continue with Netflix and VikiPass Standard for a few months.
 * Maybe in 2023, switch for a while to Amazon Prime Video, PBS
   documentaries, Disney+, and HBO in turns.
@@ -18,18 +16,7 @@ I might end up starting Netflix earlier than planned.
 
 ## HBO
 
-My subscription is scheduled to expire on October 7, 2022. I had
-originally taken out a one-month subscription ($14.99) on June 7, and
-had thought of cancelling after the month was over, but HBO offered me
-three months at $7.49 so I kept the subscription. The reduced price
-ends on October 7, and I don't think the HBO subscription is worth
-$14.99 right now, so I'm planning to leave for now.
-
-### What I plan to consume before leaving
-
-* Nuclear Family (I'll try to finish it)
-
-### What I plan to consume at some point later when I return
+Some stuff I plan to consume when I resume my HBO subscription:
 
 * Gone with the Wind
 * 2001: A Space Odyssey
@@ -91,7 +78,7 @@ There's a lot I want to watch on Netflix.
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
 * The Crown Season 5 (ETA: November 2022)
-* Ginny & Georgia Season 2 (ETA: October 2022 to January 2023)
+* Ginny & Georgia Season 2 (ETA: November 2022 to January 2023)
 * Bridgerton Season 3 (probably mid-late 2023)
 * Squid Game Season 2 (probably mid-late 2023)
 
