@@ -20,13 +20,14 @@ create table consumption(
   - 2021-11-30 Reply 1988 (Viki)
   - 2022-03-25 The Untamed (Viki)
   - 2022-05-10 Elite (Netflix)
-  - 2022-05-30 Gone Girl (Freevee)
+  - 2022-05-30 Gone Girl (Freevee) -- it's no longer on Freevee so I may never finish it
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-08-03 Mouse (Viki)
   - 2022-08-21 South Park (HBO) -- brief sampling; felt too dark and over-the-top but might revisit
   - 2022-08-21 The Sopranos (HBO)
   - 2022-09-03 What we look for in early projects | Zachary R, Jonas V, Owen CB | EA Global: London 22
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
+  - 2022-10-07 Battle Royale (Freevee)
  */
 
 /* MasterClass stuff */
