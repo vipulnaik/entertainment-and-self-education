@@ -27,7 +27,7 @@ create table consumption(
   - 2022-08-21 The Sopranos (HBO)
   - 2022-09-03 What we look for in early projects | Zachary R, Jonas V, Owen CB | EA Global: London 22
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
-  - 2022-10-07 Battle Royale (Freevee)
+  - 2022-10-08 Battle Royale II: Requiem (Freevee)
  */
 
 /* MasterClass stuff */
@@ -528,7 +528,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom','https://www.amazon.com/Dhoom-John-Abraham/dp/B073SGD631/','2022-05-29','day','2022-05-29','day','I watched this as it is one of the Bollywood classics that I had not watched, and I saw that it is available on Amazon Prime. I found it reasonably good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom 2','https://www.amazon.com/Dhoom-2-Abhishek-Bachchan/dp/B095JNVB2Z/','2022-05-29','day','2022-05-29','day','I watched this right after finishing Dhoom, the preceding film in the Dhoom trilogy. I watched it as it is one of the Bollywood classics that I had not watched, and I saw that it is available on Amazon Prime. I found it reasonably good, consistent with my expectations.'),
   ('Amazon Video','Single video (such as movie)','Hindi','Dhoom 3','https://www.amazon.com/gp/video/detail/B095J2W52W/','2022-05-30','day','2022-05-30','day','I watched this shortly after finishing Dhoom and Dhoom 2. I found it reasonably good, consistent with expectations, and consistent with the previous two movies in the Dhoom franchise.'),
-  ('Amazon Video','Single video (such as movie)','Hindi','Padmaavat','https://www.amazon.com/Padmaavat-Deepika-Padukone/dp/B08KWQP6LZ','2022-05-31','day','2022-06-28','day','I started watching this after Dhoom 3, then took a break and my Amazon Prime subscription expired. Later, I got a one-week subscription to Prime and used the opportunity to finish watching the movie. I found the movie well-produced and well-acted though I wasn''t a big fan of its message.');
+  ('Amazon Video','Single video (such as movie)','Hindi','Padmaavat','https://www.amazon.com/Padmaavat-Deepika-Padukone/dp/B08KWQP6LZ','2022-05-31','day','2022-06-28','day','I started watching this after Dhoom 3, then took a break and my Amazon Prime subscription expired. Later, I got a one-week subscription to Prime and used the opportunity to finish watching the movie. I found the movie well-produced and well-acted though I wasn''t a big fan of its message.'),
+  ('Amazon Video','Single video (such as movie)','English','Battle Royale','https://www.amazon.com/Battle-Royale-Tatsuya-Fujiwara/dp/B09VKYS13P','2022-10-07','day','2022-10-08','day','I picked this movie to watch after browsing through the list of movies available for free with ads on Amazon (i.e., on Freevee). I had heard positive things about the movie, including some of its thematic similarities with Squid Game. The version on Freevee was English-dubbed rather than the original Japanese. I found it quite engaging, although being much shorter it didn''t have the level of depth and development that Squid Game had.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
