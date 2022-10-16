@@ -109,7 +109,6 @@ catch up more with it.
 
 VikiPass Standard (or Free):
 
-* Mouse
 * Reply 1988 (in progress; also available on Netflix, but I'll
   probably watch this on Viki when I don't have a Netflix subscription
   active)
