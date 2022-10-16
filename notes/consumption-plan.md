@@ -36,13 +36,15 @@ for a stretch of between 1 and 3 months.
 
 Some of the documentaries that I might be interested in:
 
-* Civil War by Ken Burns and Lynn Novick
+* The Civil War by Ken Burns
 * The War by Ken Burns and Lynn Novick
 * The Roosevelts - An Intimate History by Ken Burns
 * Woodstock: Three Days that Defined a Generation by Barak Goodman
 * American Experience: Clinton
 * American Experience: The Chinese Exclusion Act
 * Cancer: The Emperor of All Maladies
+* Elusive Justice: The Search for Nazi War Criminals
+* New York by Ric Burns and Ken Burns
 
 ## Amazon Prime Video
 
