@@ -136,7 +136,7 @@ between subscriptions (e.g., after letting my Netflix subscription
 expire but before restarting my HBO subscription).
 
 * ~~Gone Girl (already started, need to finish)~~ no longer on Freevee
-* 1917
 * Hara-kiri: Death of a Samurai (2012 version is available on Freevee)
+* High School
 
 Check what's on Freevee (it might change over time).
