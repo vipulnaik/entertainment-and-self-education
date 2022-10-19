@@ -79,6 +79,7 @@ There's a lot I want to watch on Netflix.
 
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
+* You Season 4 (ETA: February 10, 2023 and March 10, 2023)
 * The Crown Season 5 (ETA: November 2022)
 * Ginny & Georgia Season 2 (ETA: November 2022 to January 2023)
 * Bridgerton Season 3 (probably mid-late 2023)
