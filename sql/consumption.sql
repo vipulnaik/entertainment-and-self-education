@@ -28,6 +28,7 @@ create table consumption(
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
+  - 2022-10-19 High School Season 1 (Freevee)
  */
 
 /* MasterClass stuff */
