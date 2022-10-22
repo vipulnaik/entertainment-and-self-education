@@ -128,6 +128,10 @@ VikiPass Plus:
 
 * My Love from the Star
 * Penthouse
+* The Law Cafe
+* Tracer (seasons 1 and 2)
+* Bad Prosecutor
+* Come and Hug Me
 
 ## Freevee
 
