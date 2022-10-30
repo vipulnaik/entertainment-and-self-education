@@ -29,7 +29,6 @@ create table consumption(
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-10-19 High School Season 1 (Freevee)
-  - 2022-10-22 Mother (rewatch) (Viki)
  */
 
 /* MasterClass stuff */
@@ -483,7 +482,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('Viki','Series (such as TV show or web series)','Korean','While You Were Sleeping','https://www.viki.com/tv/33538c-while-you-were-sleeping','2020-07-13','day','2020-07-18','day',true,'After finishing a rewatch of Pinocchio, I decided to watch While You Were Sleeping, also written by Park Hye-ryun and with Lee Jong-suk as the male lead.'),
   ('Viki','Series (such as TV show or web series)','Korean','Mother','https://www.viki.com/tv/35736c-mother','2020-07-18','day','2020-07-25','day',true,'Mother is one of the most highly rated dramas I have ever watched. The acting and production values are among the best I''ve seen. I had first watched it in 2018 shortly after it came out; I decided to rewatch it on a whim.'),
   ('Viki','Series (such as TV show or web series)','Korean','W','https://www.viki.com/tv/30854c-w','2021-01-23','day','2021-01-29','day',true,'I started rewatching this after being reminded of it when its main theme was recommended to me on YouTube.'),
-  ('Viki','Series (such as TV show or web series)','Korean','I Hear Your Voice','https://www.viki.com/tv/12147c-i-hear-your-voice','2022-01-02','day','2022-01-09','day',true,'Having already rewatched two of Park Hye-Ryun''s dramas starring Lee Jong-suk (Pinocchio and While You Were Sleeping) I decided to rewatch I Hear Your Voice, the earliest drama in the series. I enjoyed it and continued to find the review https://thefangirlverdict.com/2013/10/11/review-i-hear-your-voice/ spot-on.');
+  ('Viki','Series (such as TV show or web series)','Korean','I Hear Your Voice','https://www.viki.com/tv/12147c-i-hear-your-voice','2022-01-02','day','2022-01-09','day',true,'Having already rewatched two of Park Hye-Ryun''s dramas starring Lee Jong-suk (Pinocchio and While You Were Sleeping) I decided to rewatch I Hear Your Voice, the earliest drama in the series. I enjoyed it and continued to find the review https://thefangirlverdict.com/2013/10/11/review-i-hear-your-voice/ spot-on.'),
+  ('Viki','Series (such as TV show or web series)','Korean','Mother','https://www.viki.com/tv/35736c-mother','2022-10-22','day','2022-10-29','day',true,'This was my third time watching Mother, a Korean drama that I continue to consider one of the finest dramas with great acting and a very touching storyline. I enjoyed the rewatch.');
 
 /* Netflix rewatches */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
