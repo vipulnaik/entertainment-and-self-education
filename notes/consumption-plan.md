@@ -115,10 +115,10 @@ VikiPass Standard (or Free):
 * Reply 1988 (in progress; also available on Netflix, but I'll
   probably watch this on Viki when I don't have a Netflix subscription
   active)
-* The Untamed (just started; also available on Netflix, but I'll
+* The Untamed (in progress; also available on Netflix, but I'll
   probably watch this on Viki when I don't have a Netflix subscription
   active)
-* The Red Sleeve
+* The Red Sleeve (in progress)
 * Semantic Error
 * Boys over Flowers
 * Jirisan
@@ -139,8 +139,7 @@ This doesn't need a subscription, so it's ideal to watch in periods in
 between subscriptions (e.g., after letting my Netflix subscription
 expire but before restarting my HBO subscription).
 
-* ~~Gone Girl (already started, need to finish)~~ no longer on Freevee
+* High School (in progress)
 * Hara-kiri: Death of a Samurai (2012 version is available on Freevee)
-* High School
 
 Check what's on Freevee (it might change over time).
