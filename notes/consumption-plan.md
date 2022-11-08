@@ -139,7 +139,6 @@ This doesn't need a subscription, so it's ideal to watch in periods in
 between subscriptions (e.g., after letting my Netflix subscription
 expire but before restarting my HBO subscription).
 
-* High School (in progress)
 * Hara-kiri: Death of a Samurai (2012 version is available on Freevee)
 
 Check what's on Freevee (it might change over time).
