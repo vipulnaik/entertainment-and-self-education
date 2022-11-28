@@ -56,7 +56,9 @@ released before I resume subscription.
 
 Some stuff I hope to consume:
 
-* The Marvelous Mrs. Maisel
+* The Marvelous Mrs. Maisel (awaiting new season)
+* The Hunger Games (four movies)
+* Sita Ramam
 * Gully Boy
 * Mujhse Dosti Karoge
 * Jalsa
