@@ -29,6 +29,7 @@ create table consumption(
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-11-05 The Red Sleeve (Viki)
+  - 2022-11-27 The Hunger Games (Amazon Prime)
  */
 
 /* MasterClass stuff */
