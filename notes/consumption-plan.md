@@ -48,8 +48,22 @@ Some of the documentaries that I might be interested in:
 
 ## Amazon Prime Video
 
-At $8.99, it's a little cheaper than Netflix, but has poor selection
-outside of English language stuff and Bollywood movies.
+As of late November, I activated Amazon Prime Video as part of a trial
+subscription of Amazon Prime to avail of some other discounts.
+
+These are the things I'm planning to consume (some or all of) in this
+round:
+
+* The Hunger Games (four movies; in progress)
+* Sita Ramam
+* Gully Boy
+* Mujhse Dosti Karoge
+* Jalsa
+* The Rings of Power
+
+I might also activate Amazon Prime Video again later. At $8.99, it's a
+little cheaper than Netflix, but has poor selection outside of English
+language stuff and Bollywood movies.
 
 Blockers to resuming: I want The Marvelous Mrs. Maisel Season 5 to be
 released before I resume subscription.
@@ -57,12 +71,6 @@ released before I resume subscription.
 Some stuff I hope to consume:
 
 * The Marvelous Mrs. Maisel (awaiting new season)
-* The Hunger Games (four movies)
-* Sita Ramam
-* Gully Boy
-* Mujhse Dosti Karoge
-* Jalsa
-* The Rings of Power
 
 ## Disney+
 
@@ -100,7 +108,7 @@ Stuff that is ready for me to watch:
 * Extraordinary Attorney Woo
 * It's Okay to not be Okay
 * Hometown Cha Cha Cha
-* Romance is Bonus Book
+* Romance is a Bonus Book
 * The Rational Life
 
 (probably a lot more)
