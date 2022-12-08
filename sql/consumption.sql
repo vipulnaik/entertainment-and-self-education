@@ -29,7 +29,7 @@ create table consumption(
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-11-05 The Red Sleeve (Viki)
-  - 2022-12-07 The Hunger Games: Mockingjay Part 1 (Amazon Prime Video)
+  - 2022-12-08 The Hunger Games: Mockingjay Part 2 (Amazon Prime Video)
  */
 
 /* MasterClass stuff */
@@ -538,7 +538,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Single video (such as movie)',false,'English','1917','https://www.amazon.com/gp/video/detail/B082MRPSBV/','2022-10-16','day','2022-10-18','day','I watched this movie because it was a highly recommended movie available for free with ads on Amazon (i.e., on Freevee), and I was on the lookout for Freevee content as I don''t have an active Netflix or HBO subscription right now. Even though the plot is straightforward, I found it fairly well-executed and a pleasure to watch.'),
   ('Amazon Video','Series (such as TV show or web series)',true,'English','High School','https://www.amazon.com/Fix-You-Up/dp/B0B7CHPJJT/','2022-10-19','day','2022-11-07','day','I watched this TV show based on an Amazon recommendation as well as positive reviews such as https://decider.com/2022/10/14/high-school-freevee-review/ (the verdict of this being "stream it").'),
   ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games','https://www.amazon.com/Hunger-Games-Jennifer-Lawrence/dp/B008602KQI','2022-11-27','day','2022-11-30','day','After I activated the Amazon Prime free trial for delivery reasons, I checked to see what stuff is available on Amazon Prime Video; I noticed the Hunger Games movies so decided to watch them. I started with the first movie. I found it fairly well-executed and worth watching, even though I''ve watched other stuff in the broad genre (Battle Royale and Squid Game).'),
-  ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games: Catching Fire','https://www.amazon.com/Hunger-Games-Catching-Fire/dp/B00I2TV3NO','2022-12-02','day','2022-12-04','day','I watched this movie right after watching the previous movie in the Hunger Games series (The Hunger Games). I found this movie quite well-executed and also enjoyed the progression of the storyline.');
+  ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games: Catching Fire','https://www.amazon.com/Hunger-Games-Catching-Fire/dp/B00I2TV3NO','2022-12-02','day','2022-12-04','day','I watched this movie right after watching the previous movie in the Hunger Games series (The Hunger Games). I found this movie quite well-executed and also enjoyed the progression of the storyline.'),
+  ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games: Mockingjay Part 1','https://www.amazon.com/Hunger-Games-Mockingjay-Part/dp/B00T6UD7BY','2022-12-07','day','2022-12-08','day','I watched this movie after finishing the previous movie (The Hunger Games: Catching Fire) in the Hunger Games series, with a gap of a few days in between. I found this movie quite well-executed and also enjoyed the progression of the storyline.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
