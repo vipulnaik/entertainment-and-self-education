@@ -54,7 +54,6 @@ subscription of Amazon Prime to avail of some other discounts.
 These are the things I'm planning to consume (some or all of) in this
 round:
 
-* The Hunger Games (four movies; in progress)
 * Sita Ramam
 * Gully Boy
 * Mujhse Dosti Karoge
