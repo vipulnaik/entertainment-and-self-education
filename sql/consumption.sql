@@ -29,7 +29,6 @@ create table consumption(
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-11-05 The Red Sleeve (Viki)
-  - 2022-12-10 Jalsa (Amazon Prime Video)
  */
 
 /* MasterClass stuff */
@@ -542,7 +541,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games: Mockingjay Part 1','https://www.amazon.com/Hunger-Games-Mockingjay-Part/dp/B00T6UD7BY','2022-12-07','day','2022-12-08','day','I watched this movie after finishing the previous movie (The Hunger Games: Catching Fire) in the Hunger Games series, with a gap of a few days in between. I found this movie quite well-executed and also enjoyed the progression of the storyline.'),
   ('Amazon Video','Single video (such as movie)',false,'English','The Hunger Games: Mockingjay Part 2','https://www.amazon.com/Hunger-Games-Mockingjay-Part/dp/B0186DGA92','2022-12-08','day','2022-12-09','day','I watched this movie immediately after finishing the previous movie (The Hunger Games: Catching Fire) in the Hunger Games series. I found this movie quite well-executed and a fitting end to the series. I felt that the groundwork laid in the previous movies came to fruition in this movie.'),
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Runway 34','https://www.amazon.com/Runway-34-Angira-Dhar/dp/B09ZYX2MN2','2022-12-10','day','2022-12-10','day','I watched this movie out of a desire to watch some movies while I still have my Amazon Prime subscription. I picked this movie out of various Amazon Prime movies available, mostly based on its description on the Amazon site. I found the movie pretty good and enjoyed its twists and turns.'),
-  ('Amazon Video','Single video (such as movie)',false,'Hindi','Newton','https://www.amazon.com/Newton-Rajkummar-Rao/dp/B077MHZYDL','2022-12-10','day','2022-12-10','day','I watched this movie out of a desire to watch some movies while I still have my Amazon Prime subscription. I picked this movie out of various Amazon Prime movies available, mostly based on its high ratings and critical acclaim. I liked the slow-burning, understated, and comedically delivered social commentary in the movie.');
+  ('Amazon Video','Single video (such as movie)',false,'Hindi','Newton','https://www.amazon.com/Newton-Rajkummar-Rao/dp/B077MHZYDL','2022-12-10','day','2022-12-10','day','I watched this movie out of a desire to watch some movies while I still have my Amazon Prime subscription. I picked this movie out of various Amazon Prime movies available, mostly based on its high ratings and critical acclaim. I liked the slow-burning, understated, and comedically delivered social commentary in the movie.'),
+  ('Amazon Video','Single video (such as movie)',false,'Hindi','Jalsa','https://www.amazon.com/Jalsa-Vidya-Balan/dp/B09SGXLPBY','2022-12-10','day','2022-12-11','day','I watched this movie based on a past Amazon Prime recommendation (from many months ago). I picked this movie based on its high ratings and critical acclaim. I enjoyed the movie, particularly the twist at the end.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values

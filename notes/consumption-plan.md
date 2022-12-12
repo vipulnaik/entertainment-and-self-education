@@ -57,7 +57,6 @@ round:
 * Sita Ramam
 * Gully Boy
 * Mujhse Dosti Karoge
-* Jalsa
 * The Rings of Power
 
 I might also activate Amazon Prime Video again later. At $8.99, it's a
