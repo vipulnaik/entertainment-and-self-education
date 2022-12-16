@@ -30,6 +30,7 @@ create table consumption(
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-11-05 The Red Sleeve (Viki)
   - 2022-12-13 Reborn Rich (Viki)
+  - 2022-12-15 Khakee: The Bihar Chapter (Netflix)
  */
 
 /* MasterClass stuff */
