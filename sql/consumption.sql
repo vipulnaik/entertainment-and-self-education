@@ -30,7 +30,8 @@ create table consumption(
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-11-05 The Red Sleeve (Viki)
   - 2022-12-13 Reborn Rich (Viki)
-  - 2022-12-15 Khakee: The Bihar Chapter (Netflix)
+  - 2022-12-17 The Crown: Season 5 (Netflix)
+  - 2022-12-17 EXtraordinary Attorney Woo (Netflix)
  */
 
 /* MasterClass stuff */
@@ -334,7 +335,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Spanish','Money Heist: Part 5','https://www.netflix.com/title/80192098','2022-05-06','day','2022-05-10','day','I watched this right after finishing Part 4, and found it comparably enjoyable.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 1','https://www.netflix.com/title/80232398','2022-05-31','day','2022-06-04','day','I watched this season based on its generally positive reviews and its popularity. I found it quite good, consistent with expectations.'),
   ('Netflix','Single video (such as movie)',true,'Malayalam','Jana Gana Mana','https://www.netflix.com/title/81477034','2022-06-04','day','2022-06-04','day','I watched this movie based on a Netflix home page recommendation, and enjoyed it.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 2','https://www.netflix.com/title/80232398','2022-06-04','day','2022-06-06','day','I watched this season right after finishing Season 1, and found it comparably good.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 2','https://www.netflix.com/title/80232398','2022-06-04','day','2022-06-06','day','I watched this season right after finishing Season 1, and found it comparably good.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Hindi','Khakee: The Bihar Chapter','https://www.netflix.com/title/81290872','2022-12-15','day','2022-12-17','day','I watched this TV show after resuming my Netflix subscription, based on a home page recommendation as well as positive reviews on the Internet. I found the series well-placed and well-executed, consistent with the reviews, and I really enjoyed watching it.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
