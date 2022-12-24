@@ -32,6 +32,7 @@ create table consumption(
   - 2022-12-13 Reborn Rich (Viki)
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-17 Extraordinary Attorney Woo (Netflix)
+  - 2022-12-23 Gully Boy (Amazon Prime Video)
  */
 
 /* MasterClass stuff */
