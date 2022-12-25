@@ -12,7 +12,7 @@ create table consumption(
   end_date_precision enum('day','month','year'),
   rewatch boolean default false,
   notes varchar(2000)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_sv_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4;
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere (Netflix)
