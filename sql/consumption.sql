@@ -32,7 +32,7 @@ create table consumption(
   - 2022-12-13 Reborn Rich (Viki)
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-17 Extraordinary Attorney Woo (Netflix)
-  - 2022-12-23 Gully Boy (Amazon Prime Video)
+  - 2022-12-24 Hindi Medium (Amazon Prime Video)
  */
 
 /* MasterClass stuff */
@@ -548,7 +548,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Runway 34','https://www.amazon.com/Runway-34-Angira-Dhar/dp/B09ZYX2MN2','2022-12-10','day','2022-12-10','day','I watched this movie out of a desire to watch some movies while I still have my Amazon Prime subscription. I picked this movie out of various Amazon Prime movies available, mostly based on its description on the Amazon site. I found the movie pretty good and enjoyed its twists and turns.'),
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Newton','https://www.amazon.com/Newton-Rajkummar-Rao/dp/B077MHZYDL','2022-12-10','day','2022-12-10','day','I watched this movie out of a desire to watch some movies while I still have my Amazon Prime subscription. I picked this movie out of various Amazon Prime movies available, mostly based on its high ratings and critical acclaim. I liked the slow-burning, understated, and comedically delivered social commentary in the movie.'),
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Jalsa','https://www.amazon.com/Jalsa-Vidya-Balan/dp/B09SGXLPBY','2022-12-10','day','2022-12-11','day','I watched this movie based on a past Amazon Prime recommendation (from many months ago). I picked this movie based on its high ratings and critical acclaim. I enjoyed the movie, particularly the twist at the end.'),
-  ('Amazon Video','Single video (such as movie)',false,'Hindi','Udaan','https://www.amazon.com/Udaan-Suriya/dp/B091F8R348','2022-12-22','day','2022-12-22','day','I watched this movie (the Hindi-dubbed version of Tamil film Soorarai Pottru, a movie loosely based on the founding of India''s low-cost airline Air Deccan) after it showed up in Amazon Prime search results while I was looking for something else. I found the topic interesting enough to watch it even though it wasn''t what I initially intended to watch. Although the movie was well-executed and pleasant to watch, it didn''t feel like the historically on-point portrayal that I had been hoping for.');
+  ('Amazon Video','Single video (such as movie)',false,'Hindi','Udaan','https://www.amazon.com/Udaan-Suriya/dp/B091F8R348','2022-12-22','day','2022-12-22','day','I watched this movie (the Hindi-dubbed version of Tamil film Soorarai Pottru, a movie loosely based on the founding of India''s low-cost airline Air Deccan) after it showed up in Amazon Prime search results while I was looking for something else. I found the topic interesting enough to watch it even though it wasn''t what I initially intended to watch. Although the movie was well-executed and pleasant to watch, it didn''t feel like the historically on-point portrayal that I had been hoping for.'),
+  ('Amazon Video','Single video (such as movie)',false,'Hindi','Gully Boy','https://www.amazon.com/Gully-Boy-Ranveer-Singh/dp/B08KWQBT16','2022-12-23','day','2022-12-24','day','This movie had been in my list of movies to watch for a while from a few months ago; I had been planning to watch it once I had an Amazon Prime subscription. I found the movie quite well-done and fun to watch, though it didn''t quite resonate with me to the extent that I had hoped for given the rave reviews the movie had received.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values

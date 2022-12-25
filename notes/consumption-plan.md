@@ -55,7 +55,6 @@ These are the things I'm planning to consume (some or all of) in this
 round:
 
 * Sita Ramam
-* Gully Boy
 * Mujhse Dosti Karoge
 * The Rings of Power
 
