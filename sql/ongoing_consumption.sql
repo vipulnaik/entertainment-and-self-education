@@ -1,11 +1,11 @@
 create table ongoing_consumption(
-  ongoing_consumption_id int(11) not null auto_increment primary key,
+  ongoing_consumption_id int not null auto_increment primary key,
   format enum('Series (such as TV show or web series)','Single video (such as movie)','YouTube channel','Podcast'),
   primary_language enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian'),
   item varchar(200),
   url varchar(200),
   notes varchar(2000)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_sv_0900_ai_ci;
 
 insert into ongoing_consumption(format, primary_language, item, url, notes) values
   ('Series (such as TV show or web series)','English','Gilmore Girls','https://www.amazon.com/gp/video/detail/B002DEI4NG/','Starting around 2020 or 2021, I''ve been rewatching Gilmore Girls (seasons 1 through 7, as well as A Year in the life) off and on. I have done both systematic start-to-end rewatches and random watching of specific episodes that I like. I find Gilmore Girls relaxing to watch. I usually don''t watch it during meals, but often watch it when doing somewhat boring and not-fully-engaging work, to provide a little additional stimulation without being distracting (because I know the storyline very well). I own all seasons but not A Year in the Life. So I can watch anything from seasons 1 through 7 whenever I wish, but for A Year in the Life I can only watch it when I''m subscribed to Netflix.'),

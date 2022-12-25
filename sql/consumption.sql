@@ -1,5 +1,5 @@
 create table consumption(
-  consumption_id int(11) not null auto_increment primary key,
+  consumption_id int not null auto_increment primary key,
   consumption_venue enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible','HBO'),
   format enum('Series (such as TV show or web series)','Single video (such as movie)'),
   live_watch boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
@@ -12,7 +12,7 @@ create table consumption(
   end_date_precision enum('day','month','year'),
   rewatch boolean default false,
   notes varchar(2000)
-) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_sv_0900_ai_ci;
 
 /* Notes on starts:
   - 2021-05-16 Girl from Nowhere (Netflix)
