@@ -32,7 +32,6 @@ create table consumption(
   - 2022-12-13 Reborn Rich (Viki)
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-17 Extraordinary Attorney Woo (Netflix)
-  - 2022-12-24 Made in Heaven (Amazon Prime Video)
  */
 
 /* MasterClass stuff */
@@ -550,7 +549,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Jalsa','https://www.amazon.com/Jalsa-Vidya-Balan/dp/B09SGXLPBY','2022-12-10','day','2022-12-11','day','I watched this movie based on a past Amazon Prime recommendation (from many months ago). I picked this movie based on its high ratings and critical acclaim. I enjoyed the movie, particularly the twist at the end.'),
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Udaan','https://www.amazon.com/Udaan-Suriya/dp/B091F8R348','2022-12-22','day','2022-12-22','day','I watched this movie (the Hindi-dubbed version of Tamil film Soorarai Pottru, a movie loosely based on the founding of India''s low-cost airline Air Deccan) after it showed up in Amazon Prime search results while I was looking for something else. I found the topic interesting enough to watch it even though it wasn''t what I initially intended to watch. Although the movie was well-executed and pleasant to watch, it didn''t feel like the historically on-point portrayal that I had been hoping for.'),
   ('Amazon Video','Single video (such as movie)',false,'Hindi','Gully Boy','https://www.amazon.com/Gully-Boy-Ranveer-Singh/dp/B08KWQBT16','2022-12-23','day','2022-12-24','day','This movie had been in my list of movies to watch for a while from a few months ago; I had been planning to watch it once I had an Amazon Prime subscription. I found the movie quite well-done and fun to watch, though it didn''t quite resonate with me to the extent that I had hoped for given the rave reviews the movie had received.'),
-  ('Amazon Video','Single video (such as movie)',false,'Hindi','Hindi Medium','https://www.amazon.com/Hindi-Medium-Saket-Chaudhary/dp/B073FQ8TDN','2022-12-24','day','2022-12-24','day','I watched this movie after seeing it listed on Amazon Prime as well as based on positive recommendations online. While I enjoyed many parts of the movie, the end (and the "moral of the story") didn''t really click with me.');
+  ('Amazon Video','Single video (such as movie)',false,'Hindi','Hindi Medium','https://www.amazon.com/Hindi-Medium-Saket-Chaudhary/dp/B073FQ8TDN','2022-12-24','day','2022-12-24','day','I watched this movie after seeing it listed on Amazon Prime as well as based on positive recommendations online. While I enjoyed many parts of the movie, the end (and the "moral of the story") didn''t really click with me.'),
+  ('Amazon Video','Single video (such as movie)',false,'English/Hindi','Made in Heaven','https://www.amazon.com/The-Great-Escape/dp/B086HWQJV7','2022-12-24','day','2022-12-26','day','I watched this Amazon Prime TV series after seeing it in the Amazon Prime recommendations and reading positive reviews (I also have a positive impression of movies made by its director Zoya Akhtar). I enjoyed the show quite a bit, consistent with the positive reviews. I felt it was one of the first Indian TV shows I''d watched that was comparable to good Korean TV shows in terms of the way each episode explored a particular range of issues.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values

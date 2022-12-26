@@ -1,18 +1,12 @@
 # Consumption plan
 
-Last major update: October 6, 2022.
+Last major update: December 26, 2022
 
 ## Current plan
 
-* After the HBO subscription finishes on October 7, spend a few weeks
-  focused on VikiPass Standard consumption as well as catching up on
-  Freevee and other things.
-* Start Netflix around mid-November or later.
 * Continue with Netflix and VikiPass Standard for a few months.
 * Maybe in 2023, switch for a while to Amazon Prime Video, PBS
   documentaries, Disney+, and HBO in turns.
-
-I might end up starting Netflix earlier than planned.
 
 ## HBO
 
@@ -48,26 +42,20 @@ Some of the documentaries that I might be interested in:
 
 ## Amazon Prime Video
 
-As of late November, I activated Amazon Prime Video as part of a trial
-subscription of Amazon Prime to avail of some other discounts.
-
-These are the things I'm planning to consume (some or all of) in this
-round:
-
-* Sita Ramam
-* Mujhse Dosti Karoge
-* The Rings of Power
-
-I might also activate Amazon Prime Video again later. At $8.99, it's a
+I might activate Amazon Prime Video again later. At $8.99, it's a
 little cheaper than Netflix, but has poor selection outside of English
 language stuff and Bollywood movies.
 
-Blockers to resuming: I want The Marvelous Mrs. Maisel Season 5 to be
-released before I resume subscription.
+Blockers to resuming: I want The Marvelous Mrs. Maisel Season 5 and
+Made In Heaven Season 2 to be released before I resume subscription.
 
 Some stuff I hope to consume:
 
 * The Marvelous Mrs. Maisel (awaiting new season)
+* Made in Heaven (awaiting new season)
+* Sita Ramam
+* Mujhse Dosti Karoge
+* The Rings of Power
 
 ## Disney+
 
@@ -87,7 +75,6 @@ There's a lot I want to watch on Netflix.
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
 * You Season 4 (ETA: February 10, 2023 and March 10, 2023)
-* The Crown Season 5 (ETA: November 2022)
 * Ginny & Georgia Season 2 (ETA: November 2022 to January 2023)
 * Bridgerton Season 3 (probably mid-late 2023)
 * Squid Game Season 2 (probably mid-late 2023)
@@ -97,6 +84,7 @@ on Netflix.
 
 Stuff that is ready for me to watch:
 
+* The Crown Season 5
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
@@ -107,6 +95,10 @@ Stuff that is ready for me to watch:
 * Hometown Cha Cha Cha
 * Romance is a Bonus Book
 * The Rational Life
+* Alice in Borderland
+* Goodbye
+* Money Heist Korea
+* Delhi Crime Season 2
 
 (probably a lot more)
 
