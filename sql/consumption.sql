@@ -28,7 +28,7 @@ create table consumption(
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
-  - 2022-11-05 The Red Sleeve (Viki)
+  - 2022-11-05 to 2022-12-27 The Red Sleeve (Viki)
   - 2022-12-13 Reborn Rich (Viki)
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-17 Extraordinary Attorney Woo (Netflix)
