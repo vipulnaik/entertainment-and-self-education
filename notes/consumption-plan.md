@@ -117,7 +117,6 @@ VikiPass Standard (or Free):
 * The Untamed (in progress; also available on Netflix, but I'll
   probably watch this on Viki when I don't have a Netflix subscription
   active)
-* The Red Sleeve (in progress)
 * Semantic Error
 * Boys over Flowers
 * Jirisan
