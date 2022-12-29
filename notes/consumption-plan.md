@@ -84,13 +84,12 @@ on Netflix.
 
 Stuff that is ready for me to watch:
 
-* The Crown Season 5
+* The Crown Season 5 (in progress)
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
 * The Manifest
 * Hospital Playlist
-* Extraordinary Attorney Woo
 * It's Okay to not be Okay
 * Hometown Cha Cha Cha
 * Romance is a Bonus Book
