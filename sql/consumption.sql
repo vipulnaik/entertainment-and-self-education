@@ -32,7 +32,6 @@ create table consumption(
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-29 It's Okay to Not Be Okay (Netflix)
   - 2022-12-30 Darlings (Netflix)
-  - 2022-12-31 Major (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -338,7 +337,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',true,'Malayalam','Jana Gana Mana','https://www.netflix.com/title/81477034','2022-06-04','day','2022-06-04','day','I watched this movie based on a Netflix home page recommendation, and enjoyed it.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Bridgerton: Season 2','https://www.netflix.com/title/80232398','2022-06-04','day','2022-06-06','day','I watched this season right after finishing Season 1, and found it comparably good.'),
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Khakee: The Bihar Chapter','https://www.netflix.com/title/81290872','2022-12-15','day','2022-12-17','day','I watched this TV show after resuming my Netflix subscription, based on a home page recommendation as well as positive reviews on the Internet. I found the series well-placed and well-executed, consistent with the reviews, and I really enjoyed watching it.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','Extraordinary Attorney Woo','https://www.netflix.com/title/81518991','2022-12-17','day','2022-12-29','day','I watched this TV show based on a friend recommendation as well as a positive review at https://thefangirlverdict.com/2022/09/25/review-extraordinary-attorney-woo/ (though I did not read the review in its entirety prior to watching). I enjoyed the show quite a bit, and broadly agree with many of the sentiments expressed in the review.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Extraordinary Attorney Woo','https://www.netflix.com/title/81518991','2022-12-17','day','2022-12-29','day','I watched this TV show based on a friend recommendation as well as a positive review at https://thefangirlverdict.com/2022/09/25/review-extraordinary-attorney-woo/ (though I did not read the review in its entirety prior to watching). I enjoyed the show quite a bit, and broadly agree with many of the sentiments expressed in the review.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Major','https://www.netflix.com/title/81242574','2022-12-31','day','2023-01-03','day','I watched this movie based on a Netflix home page recommendation, positive reviews, and a reasonably interesting premise. I enjoyed it to a reasonable extent, for reasons overlapping with many of the positive reviews.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
