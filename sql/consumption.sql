@@ -32,6 +32,7 @@ create table consumption(
   - 2022-12-17 The Crown: Season 5 (Netflix)
   - 2022-12-29 It's Okay to Not Be Okay (Netflix)
   - 2022-12-30 Darlings (Netflix)
+  - 2023-01-04 Single's Inferno (Netflix)
  */
 
 /* MasterClass stuff */
