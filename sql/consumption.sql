@@ -35,6 +35,7 @@ create table consumption(
   - 2023-01-04 Single's Inferno (Netflix)
   - 2023-01-07 The Glory (Netflix)
   - 2023-01-08 Change Days (Netflix)
+  - 2023-01-10 - 2023-01-10: Don (Netflix)
  */
 
 /* MasterClass stuff */
