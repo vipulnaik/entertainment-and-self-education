@@ -35,7 +35,6 @@ create table consumption(
   - 2023-01-04 Single's Inferno (Netflix)
   - 2023-01-07 The Glory (Netflix)
   - 2023-01-08 Change Days (Netflix)
-  - 2023-01-10 - 2023-01-10: Don (Netflix)
  */
 
 /* MasterClass stuff */
@@ -344,7 +343,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Extraordinary Attorney Woo','https://www.netflix.com/title/81518991','2022-12-17','day','2022-12-29','day','I watched this TV show based on a friend recommendation as well as a positive review at https://thefangirlverdict.com/2022/09/25/review-extraordinary-attorney-woo/ (though I did not read the review in its entirety prior to watching). I enjoyed the show quite a bit, and broadly agree with many of the sentiments expressed in the review.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Major','https://www.netflix.com/title/81242574','2022-12-31','day','2023-01-03','day','I watched this movie based on a Netflix home page recommendation, positive reviews, and a reasonably interesting premise. I enjoyed it to a reasonable extent, for reasons overlapping with many of the positive reviews.'),
   ('Netflix','Single video (such as movie)',true,'Tamil','Gatta Kusthi','https://www.netflix.com/title/81615045','2023-01-03','day','2023-01-04','day','I watched this movie based on a Netflix home page recommendation. I enjoyed it to a reasonable extent.'),
-  ('Netflix','Series (such as TV show or web series)',true,'English','Ginny & Georgia: Season 2','https://www.netflix.com/title/81025696','2023-01-05','day','2023-01-07','day','I had been waiting for the release of Season 2 for a while, since I had really enjoyed Season 1. So I started watching Season 2 as soon as it was released on Netflix. I enjoyed it quite a bit; it seemed to maintain the general style of Season 1, while also being fresh in several ways.');
+  ('Netflix','Series (such as TV show or web series)',true,'English','Ginny & Georgia: Season 2','https://www.netflix.com/title/81025696','2023-01-05','day','2023-01-07','day','I had been waiting for the release of Season 2 for a while, since I had really enjoyed Season 1. So I started watching Season 2 as soon as it was released on Netflix. I enjoyed it quite a bit; it seemed to maintain the general style of Season 1, while also being fresh in several ways.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Don','https://www.netflix.com/title/70059026','2023-01-10','day','2023-01-10','day','I watched this movie based on a Netflix home page recommendation, and the movie being on the list of movies I planned to watch at some point. I enjoyed the movie and the (not entirely unpredictable) plot twists, even though I had already read a plot summary so I had prior knowledge of the plot twists.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Don 2','https://www.netflix.com/title/70224999','2023-01-11','day','2023-01-11','day','I watched this movie right after watching the previous movie in the franchise (Don). I enjoyed the movie and the (not entirely unpredictable) plot twists, even though I had already read a plot summary so I had prior knowledge of the plot twists.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
