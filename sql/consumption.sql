@@ -35,7 +35,7 @@ create table consumption(
   - 2023-01-04 Single's Inferno (Netflix)
   - 2023-01-07 The Glory (Netflix)
   - 2023-01-08 Change Days (Netflix)
-  - 2023-01-21 Swades (Netflix)
+  - 2023-01-22 The Rational Life (Chinese) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -349,7 +349,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Don 2','https://www.netflix.com/title/70224999','2023-01-11','day','2023-01-11','day','I watched this movie right after watching the previous movie in the franchise (Don). I enjoyed the movie and the (not entirely unpredictable) plot twists, even though I had already read a plot summary so I had prior knowledge of the plot twists.'),
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Trial by Fire','https://www.netflix.com/title/81224775','2023-01-12','day','2023-01-20','day','I watched this show about the Uphaar cinema fire tragedy based on a Netflix home page recommendation; I found the premise interesting and decided to watch it. I found the show engaging, well-executed, and worth the watch.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Dhokha: Round D Corner','https://www.netflix.com/title/81514144','2023-01-20','day','2023-01-20','day','I watched this movie based on a Netflix home page recommendation. I found it reasonably well-executed; although I had predicted some of the twists at the end, there were other twists I had not predicted, so I still felt some surprise and satisfaction at the end.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','Lakshya','https://www.netflix.com/title/70001237','2023-01-21','day','2023-01-21','day','I watched this 2004 movie set in the Kargil war based on a previous Netflix home page recommendation. I enjoyed the movie and found it fairly well-done.');
+  ('Netflix','Single video (such as movie)',false,'Hindi','Lakshya','https://www.netflix.com/title/70001237','2023-01-21','day','2023-01-21','day','I watched this 2004 movie set in the Kargil war based on a previous Netflix home page recommendation. I enjoyed the movie and found it fairly well-done.'),
+  ('Netflix','Single video (such as movie)',false,'Hindi','Swades','https://www.netflix.com/title/70019491','2023-01-21','day','2023-01-22','day','I watched this movie after seeing it recommended as a related movie when searching for Lakshya, and decided to watch it based on positive reviews. I suspected that I may not like the movie for being overly jingoistic and simplistic, but after watching the movie I found it to be reasonably nuanced and well-balanced. Overall, I enjoyed the way the movie explored various perspectives.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
