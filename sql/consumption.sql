@@ -33,7 +33,6 @@ create table consumption(
   - 2022-12-29 It's Okay to Not Be Okay (Netflix)
   - 2022-12-30 Darlings (Netflix)
   - 2023-01-04 Single's Inferno (Netflix)
-  - 2023-01-07 - 2023-01-24 The Glory Season 1 (Netflix)
   - 2023-01-08 Change Days (Netflix)
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
   - 2023-01-24 Awaken (Netflix)
@@ -351,7 +350,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'Hindi','Trial by Fire','https://www.netflix.com/title/81224775','2023-01-12','day','2023-01-20','day','I watched this show about the Uphaar cinema fire tragedy based on a Netflix home page recommendation; I found the premise interesting and decided to watch it. I found the show engaging, well-executed, and worth the watch.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Dhokha: Round D Corner','https://www.netflix.com/title/81514144','2023-01-20','day','2023-01-20','day','I watched this movie based on a Netflix home page recommendation. I found it reasonably well-executed; although I had predicted some of the twists at the end, there were other twists I had not predicted, so I still felt some surprise and satisfaction at the end.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Lakshya','https://www.netflix.com/title/70001237','2023-01-21','day','2023-01-21','day','I watched this 2004 movie set in the Kargil war based on a previous Netflix home page recommendation. I enjoyed the movie and found it fairly well-done.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','Swades','https://www.netflix.com/title/70019491','2023-01-21','day','2023-01-22','day','I watched this movie after seeing it recommended as a related movie when searching for Lakshya, and decided to watch it based on positive reviews. I suspected that I may not like the movie for being overly jingoistic and simplistic, but after watching the movie I found it to be reasonably nuanced and well-balanced. Overall, I enjoyed the way the movie explored various perspectives.');
+  ('Netflix','Single video (such as movie)',false,'Hindi','Swades','https://www.netflix.com/title/70019491','2023-01-21','day','2023-01-22','day','I watched this movie after seeing it recommended as a related movie when searching for Lakshya, and decided to watch it based on positive reviews. I suspected that I may not like the movie for being overly jingoistic and simplistic, but after watching the movie I found it to be reasonably nuanced and well-balanced. Overall, I enjoyed the way the movie explored various perspectives.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Korean','The Glory','https://www.netflix.com/title/81519223','2023-01-07','day','2023-01-24','day','I watched this series after seeing it recommended for me on the Netflix home page and reading positive reviews. I found it to be fairly good; it matched up pretty closely with my expectations and did not surprise me much either positively or negatively. I await the release of Part 2, slated for March 2023.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
