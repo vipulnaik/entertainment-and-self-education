@@ -33,9 +33,10 @@ create table consumption(
   - 2022-12-29 It's Okay to Not Be Okay (Netflix)
   - 2022-12-30 Darlings (Netflix)
   - 2023-01-04 Single's Inferno (Netflix)
-  - 2023-01-07 The Glory (Netflix)
+  - 2023-01-07 - 2023-01-24 The Glory Season 1 (Netflix)
   - 2023-01-08 Change Days (Netflix)
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
+  - 2023-01-24 Awaken (Netflix)
  */
 
 /* MasterClass stuff */
