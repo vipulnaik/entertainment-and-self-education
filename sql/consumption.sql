@@ -36,6 +36,7 @@ create table consumption(
   - 2023-01-08 Change Days (Netflix)
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
   - 2023-01-24 Awaken (Netflix)
+  - 2023-01-28 Bombay (Netflix)
  */
 
 /* MasterClass stuff */
