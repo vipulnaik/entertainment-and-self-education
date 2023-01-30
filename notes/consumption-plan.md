@@ -53,9 +53,14 @@ Some stuff I hope to consume:
 
 * The Marvelous Mrs. Maisel (awaiting new season)
 * Made in Heaven (awaiting new season)
+* Mind the Malhotras
 * Sita Ramam
 * Mujhse Dosti Karoge
 * The Rings of Power
+* Darr
+* Ek Tha Tiger
+* Tiger Zinda Hai
+* War
 
 ## Disney+
 
@@ -82,24 +87,44 @@ Stuff that is not yet on Netflix, that I expect will get on it in the next sever
 All the above are Netflix originals so they won't leave once they are
 on Netflix.
 
-Stuff that is ready for me to watch:
+Stuff that is ready for me to watch, that I have not yet started:
 
-* The Crown Season 5 (in progress)
+English (US or UK):
+
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
 * The Manifest
+* Wednesday
+* Dahmer
+
+Korean:
+
 * Hospital Playlist
-* It's Okay to not be Okay
 * Hometown Cha Cha Cha
 * Romance is a Bonus Book
-* The Rational Life
-* Alice in Borderland
-* Goodbye
 * Money Heist Korea
-* Delhi Crime Season 2
 
-(probably a lot more)
+(probably many others)
+
+Japanese:
+
+* Alice in Borderland
+
+Indian (Hindi and other languages):
+
+* Goodbye
+* Delhi Crime Season 2
+* Race 2
+* Baaghi
+* Gangubai Kathiawadi
+* Sooryavanshi
+* Dil Se...
+* 3 Idiots
+* The White Tiger
+* Kantara
+* RRR
+* Lal Singh Chaddha
 
 ## Viki
 
