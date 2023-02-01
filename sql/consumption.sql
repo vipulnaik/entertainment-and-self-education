@@ -37,7 +37,8 @@ create table consumption(
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
   - 2023-01-24 Awaken (Netflix)
   - 2023-01-28 Bombay (Netflix)
-  - 2023-01-31 She (Netflix)
+  - 2023-01-31 - 2023-01-31 She Season 1 (Netflix)
+  - 2023-01-31 She Season 2 (Netflix)
  */
 
 /* MasterClass stuff */
