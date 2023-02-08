@@ -61,6 +61,7 @@ Some stuff I hope to consume:
 * Ek Tha Tiger
 * Tiger Zinda Hai
 * War
+* Panchayat
 
 ## Disney+
 
@@ -125,6 +126,9 @@ Indian (Hindi and other languages):
 * Kantara
 * RRR
 * Lal Singh Chaddha
+* Happy New Year
+* Zero
+* Jab Harry Met Sejal
 
 ## Viki
 
