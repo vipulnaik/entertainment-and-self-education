@@ -41,6 +41,7 @@ create table consumption(
   - 2023-01-31 - 2023-02-02 She Season 2 (Netflix)
   - 2023-02-05 - 2023-02-06 The Accidental Prime Minister (YouTube)
   - 2023-02-05 - 2023-02-06 Pakistan's Economic Crisis https://www.youtube.com/watch?v=pMn7jA0DwKY
+  - 2023-02-09 Mandela (Tamil) (Netflix)
  */
 
 /* MasterClass stuff */
