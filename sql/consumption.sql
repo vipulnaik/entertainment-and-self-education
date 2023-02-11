@@ -42,6 +42,7 @@ create table consumption(
   - 2023-02-05 - 2023-02-06 The Accidental Prime Minister (YouTube)
   - 2023-02-05 - 2023-02-06 Pakistan's Economic Crisis https://www.youtube.com/watch?v=pMn7jA0DwKY
   - 2023-02-09 Mandela (Tamil) (Netflix)
+  - 2023-02-11 Sivaji: The Boss (Tamil) (Netflix)
  */
 
 /* MasterClass stuff */
