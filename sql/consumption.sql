@@ -43,7 +43,8 @@ create table consumption(
   - 2023-02-05 - 2023-02-06 Pakistan's Economic Crisis https://www.youtube.com/watch?v=pMn7jA0DwKY
   - 2023-02-09 Mandela (Tamil) (Netflix)
   - 2023-02-11 Sivaji: The Boss (Tamil) (Netflix)
-  - 2023-02-14 The Romantics (English) (Netflix)
+  - 2023-02-14 - 2023-02-15 The Romantics (English) (Netflix)
+  - 2023-02-15 Lagaan (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
