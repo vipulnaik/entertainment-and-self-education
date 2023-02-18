@@ -44,7 +44,7 @@ create table consumption(
   - 2023-02-09 Mandela (Tamil) (Netflix)
   - 2023-02-11 Sivaji: The Boss (Tamil) (Netflix)
   - 2023-02-14 - 2023-02-15 The Romantics (English) (Netflix)
-  - 2023-02-15 Lagaan (Hindi) (Netflix)
+  - 2023-02-15 - 2023-02-17 Lagaan (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
