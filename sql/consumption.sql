@@ -48,6 +48,7 @@ create table consumption(
   - 2023-01 - 2023-02-17 Kuch Kuch Hota Hai (Hindi) (Netflix)
   - 2023-02-19 - 2023-02-19 Duplicate (Hindi) (Netflix)
   - 2023-02-22 - 2023-02-22 Dostana (Hindi) (Netflix)
+  - 2023-02-23 Jeans (Tamil) (Netflix)
  */
 
 /* MasterClass stuff */
