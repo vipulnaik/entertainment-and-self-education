@@ -108,6 +108,11 @@ Korean:
 
 (probably many others)
 
+Chinese:
+
+* Find Yourself
+* Boss & Me
+
 Japanese:
 
 * Alice in Borderland
@@ -129,6 +134,9 @@ Indian (Hindi and other languages):
 * Happy New Year
 * Zero
 * Jab Harry Met Sejal
+* Fida
+* Rang De Basanti
+* Kabir Singh
 
 ## Viki
 
