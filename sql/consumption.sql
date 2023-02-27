@@ -51,6 +51,7 @@ create table consumption(
   - 2023-02-23 Jeans (Tamil) (Netflix)
   - 2023-02-25 The Legend of Bhagat Singh (Hindi) (Netflix)
   - 2023-02-26 Anjaam (Hindi) (Netflix)
+  - 2019-05-23 - 2023-02-27 We Are Family (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -200,7 +201,6 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Heroine','https://www.netflix.com/title/70229044','2019-05-12','day','2019-05-12','day','I was looking for Bollywood movies to watch and I picked this Netflix recommendation.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','7 Khoon Maaf','https://www.netflix.com/title/70139075','2019-05-12','day','2019-05-12','day','The movie is about a woman with seven husbands. I think I watched the first three husbands and then skimmed through or skipped some of the rest.'),
   ('Netflix','Single video (such as movie)',true,'English','Extremely Wicked, Shockingly Evil and Vile','https://www.netflix.com/title/81028570','2019-05-12','day','2019-05-12','day','I watched a large part of this movie (not all of it) shortly after its release. This is a biographical crime movie on the crimes of Ted Bundy.'),
-  /* We Are Family 2019-05-23 watched only part of it */
   ('Netflix','Series (such as TV show or web series)',false,'English','Inside the World''s Toughest Prisons: Season 3','https://www.netflix.com/title/80116922','2019-06-01','day','2019-06-02','day','I chanced across this documentary series and watvhed a few episodes. I would later create the Wikipedia page https://en.wikipedia.org/wiki/Inside_the_World%27s_Toughest_Prisons'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Inside the World''s Toughest Prisons: Season 2','https://www.netflix.com/title/80116922','2019-06-01','day','2019-06-02','day','While watching Season 3, I watched parts of Season 2 for comparison. The two seasons have similar format but different anchors (Raphael Rowe for Season 3, Paul Connolly for Season 2).'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Hitler''s Circle of Evil','https://www.netflix.com/title/80138915','2019-06-02','day','2019-06-04','day','After getting interested in documentaries, I searched for many to watch, and ultimately settled on this one. I found it an engaging documentary, unlike many others that it was hard to concentrate on. I learned quite a bit about Nazi Germany.'),
