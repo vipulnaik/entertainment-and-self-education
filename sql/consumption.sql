@@ -50,6 +50,7 @@ create table consumption(
   - 2023-02-22 - 2023-02-22 Dostana (Hindi) (Netflix)
   - 2023-02-23 Jeans (Tamil) (Netflix)
   - 2023-02-25 The Legend of Bhagat Singh (Hindi) (Netflix)
+  - 2023-02-26 Anjaam (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
