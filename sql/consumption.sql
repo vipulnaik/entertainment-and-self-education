@@ -53,6 +53,7 @@ create table consumption(
   - 2023-02-26 Anjaam (Hindi) (Netflix)
   - 2019-05-23 - 2023-02-27 We Are Family (Hindi) (Netflix)
   - 2023-02-28 Return to Space (English) (Netflix)
+  - 2023-03-03 Money Heist Korea: Joint Economic Area (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
