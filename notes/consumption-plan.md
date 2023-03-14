@@ -51,17 +51,25 @@ Made In Heaven Season 2 to be released before I resume subscription.
 
 Some stuff I hope to consume:
 
+Web series:
+
 * The Marvelous Mrs. Maisel (awaiting new season)
 * Made in Heaven (awaiting new season)
 * Mind the Malhotras
+* Paatal Lok
+* Panchayat
+* The Rings of Power
+
+Movies:
+
+* Rab Ne Bana Di Jodi
+* Jab Tak Hai Jaan
 * Sita Ramam
 * Mujhse Dosti Karoge
-* The Rings of Power
 * Darr
 * Ek Tha Tiger
 * Tiger Zinda Hai
 * War
-* Panchayat
 
 ## Disney+
 
