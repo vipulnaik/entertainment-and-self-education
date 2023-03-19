@@ -54,7 +54,8 @@ create table consumption(
   - 2019-05-23 - 2023-02-27 We Are Family (Hindi) (Netflix)
   - 2023-02-28 Return to Space (English) (Netflix)
   - 2023-03-03 - 2023-03-17 Money Heist Korea: Joint Economic Area (Korean) (Netflix)
-  - 2023-03-17 The Glory Part 2
+  - 2023-03-17 The Glory Part 2 (Netflix)
+  - 2023-03-18 Rab Ne Bana Di Jodi (Amazon Prime)
  */
 
 /* MasterClass stuff */
