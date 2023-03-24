@@ -56,7 +56,7 @@ create table consumption(
   - 2023-03-03 - 2023-03-17 Money Heist Korea: Joint Economic Area (Korean) (Netflix)
   - 2023-03-17 The Glory Part 2 (Netflix)
   - 2023-03-18 - 2023-03-19 Rab Ne Bana Di Jodi (Amazon Prime)
-  - 2023-03-19 Paatal Lok (Amazon Prime)
+  - 2023-03-19 - 2023-03-24 Paatal Lok (Amazon Prime)
  */
 
 /* MasterClass stuff */
