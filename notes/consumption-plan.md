@@ -67,6 +67,8 @@ Movies:
 * Ek Tha Tiger
 * Tiger Zinda Hai
 * War
+* Lamhe
+* Drishyam 2
 
 ## Disney+
 
