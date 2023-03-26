@@ -58,7 +58,7 @@ create table consumption(
   - 2023-03-18 - 2023-03-19 Rab Ne Bana Di Jodi (Amazon Prime)
   - 2023-03-19 - 2023-03-24 Paatal Lok (Amazon Prime)
   - 2023-03-24 - 2023-03-24 Darr (Amazon Prime)
-  - 2023-03-25 Fida (Netflix)
+  - 2023-03-25 - 2023-03-25 Fida (Netflix)
  */
 
 /* MasterClass stuff */
