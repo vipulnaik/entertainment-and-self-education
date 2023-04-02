@@ -67,6 +67,7 @@ Movies:
 * Ek Tha Tiger
 * Tiger Zinda Hai
 * War
+* Pathaan
 * Lamhe
 * Drishyam 2
 
