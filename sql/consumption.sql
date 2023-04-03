@@ -59,6 +59,7 @@ create table consumption(
   - 2023-03-19 - 2023-03-24 Paatal Lok (Amazon Prime)
   - 2023-03-24 - 2023-03-24 Darr (Amazon Prime)
   - 2023-03-25 - 2023-03-25 Fida (Netflix)
+  - 2023-04-02 - 2023-04-02 Pathaan (Amazon Prime)
  */
 
 /* MasterClass stuff */
