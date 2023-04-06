@@ -60,7 +60,7 @@ create table consumption(
   - 2023-03-24 - 2023-03-24 Darr (Amazon Prime)
   - 2023-03-25 - 2023-03-25 Fida (Netflix)
   - 2023-04-02 - 2023-04-02 Pathaan (Amazon Prime)
-  - 2023-04-03 Panchayat (Amazon Prime)
+  - 2023-04-03 - 2023-04-05 Panchayat Season 1 (Amazon Prime)
  */
 
 /* MasterClass stuff */
