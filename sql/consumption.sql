@@ -62,6 +62,7 @@ create table consumption(
   - 2023-04-02 - 2023-04-02 Pathaan (Amazon Prime)
   - 2023-04-03 - 2023-04-05 Panchayat Season 1 (Amazon Prime)
   - 2023-04-06 - 2023-04-09 Panchayat Season 2 (Amazon Prime)
+  - 2023-04-09 Sardar Udham (Amazon Prime)
  */
 
 /* MasterClass stuff */
