@@ -63,6 +63,7 @@ create table consumption(
   - 2023-04-03 - 2023-04-05 Panchayat Season 1 (Amazon Prime)
   - 2023-04-06 - 2023-04-09 Panchayat Season 2 (Amazon Prime)
   - 2023-04-09 - 2023-04-16 Sardar Udham (Amazon Prime)
+  - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
  */
 
 /* MasterClass stuff */
