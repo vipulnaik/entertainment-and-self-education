@@ -65,6 +65,7 @@ create table consumption(
   - 2023-04-09 - 2023-04-16 Sardar Udham (Amazon Prime)
   - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
   - 2023-04-19 - 2023-04-21 Sultan (Amazon Prime)
+  - 2023-04-23 Jubilee Season 1 (Amazon Prime)
  */
 
 /* MasterClass stuff */
