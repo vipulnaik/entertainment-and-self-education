@@ -1,6 +1,6 @@
 # Consumption plan
 
-Last major update: December 26, 2022
+Last major update: April 30, 2023
 
 ## Current plan
 
@@ -53,10 +53,10 @@ Some stuff I hope to consume:
 
 Web series:
 
-* The Marvelous Mrs. Maisel (awaiting new season)
 * Made in Heaven (awaiting new season)
-* Mind the Malhotras
-* Panchayat
+* Panchayat (awaiting new season)
+* The Family Man
+* Mirzapur
 * The Rings of Power
 
 Movies:
@@ -67,7 +67,6 @@ Movies:
 * Ek Tha Tiger
 * Tiger Zinda Hai
 * War
-* Pathaan
 * Lamhe
 * Drishyam 2
 
@@ -112,7 +111,6 @@ Korean:
 * Hospital Playlist
 * Hometown Cha Cha Cha
 * Romance is a Bonus Book
-* Money Heist Korea
 
 (probably many others)
 
