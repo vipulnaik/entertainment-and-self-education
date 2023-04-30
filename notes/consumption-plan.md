@@ -42,13 +42,6 @@ Some of the documentaries that I might be interested in:
 
 ## Amazon Prime Video
 
-I might activate Amazon Prime Video again later. At $8.99, it's a
-little cheaper than Netflix, but has poor selection outside of English
-language stuff and Bollywood movies.
-
-Blockers to resuming: I want The Marvelous Mrs. Maisel Season 5 and
-Made In Heaven Season 2 to be released before I resume subscription.
-
 Some stuff I hope to consume:
 
 Web series:
