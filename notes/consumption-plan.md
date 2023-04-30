@@ -80,8 +80,6 @@ There's a lot I want to watch on Netflix.
 
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
-* You Season 4 (ETA: February 10, 2023 and March 10, 2023)
-* Ginny & Georgia Season 2 (ETA: November 2022 to January 2023)
 * Bridgerton Season 3 (probably mid-late 2023)
 * Squid Game Season 2 (probably mid-late 2023)
 
@@ -92,6 +90,7 @@ Stuff that is ready for me to watch, that I have not yet started:
 
 English (US or UK):
 
+* You Season 4
 * Inventing Anna
 * Breaking Bad
 * Stranger Things
