@@ -35,8 +35,6 @@ create table consumption(
   - 2023-01-08 Change Days (Netflix)
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
   - 2023-01-24 Awaken (Netflix)
-  - 2023-02-05 - 2023-02-06 The Accidental Prime Minister (YouTube)
-  - 2023-02-05 - 2023-02-06 Pakistan's Economic Crisis https://www.youtube.com/watch?v=pMn7jA0DwKY
   - 2023-02-11 Sivaji: The Boss (Tamil) (Netflix)
   - 2023-02-23 Jeans (Tamil) (Netflix)
   - 2023-02-28 Return to Space (English) (Netflix)
@@ -640,7 +638,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('YouTube','Single video (such as movie)','Hindi','Pyaar Impossible','https://www.youtube.com/watch?v=0lsTWqapl8o','2012-08-08','month','2012-08-12','month','I rented this movie from YouTube on 2012-08-08 and the rental expired on 2012-08-12. I do not remember exactly when I watched it.'),
-  ('YouTube','Single video (such as movie)','Hindi','Befikre','https://www.youtube.com/watch?v=_TGsB_Cwo4I','2018-04-24','month','2018-04-30','month','I rented this movie from YouTube on 2018-04-24 and the rental expired on 2018-05-24. I believe I watched the movie within a few days of renting it.');
+  ('YouTube','Single video (such as movie)','Hindi','Befikre','https://www.youtube.com/watch?v=_TGsB_Cwo4I','2018-04-24','month','2018-04-30','month','I rented this movie from YouTube on 2018-04-24 and the rental expired on 2018-05-24. I believe I watched the movie within a few days of renting it.'),
+  ('YouTube','Single video (such as movie)','Hindi','The Accidental Prime Minister','https://www.youtube.com/watch?v=H7JqAM8_Qeo','2023-02-05','day','2023-02-06','day','I watched this movie on YouTube for free with ads (this movie has been put up by its production company on YouTube to watch free with ads). The movie, starring Anupam Kher and Akshaye Khanna, is about prime minister Manmohan Singh''s tenure. I found it quite interesting and it led me to read more about the events of that period.');
 
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
@@ -705,7 +704,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','English','The Ultimate Squid Game Behind The Scenes Moments','https://www.youtube.com/watch?v=aLqAqWH15xE','2022-02-19','day','2022-02-19','day','I watched this after watching several other videos related to Squid Game. I found it pretty interesting.'),
   ('YouTube','Single video (such as movie)','English','Confronting my Productivity Guru - Tiago Forte','https://www.youtube.com/watch?v=ggLHkAq6JLY','2022-09-03','day','2022-09-04','day','I watched this deep dive interview of Tiago Forte by Ali Abdaal after a shorter video by Ali Abdaal where he talked about Tiago Forte''s productivity system. I found this deep dive interview interesting; Forte''s life journey that led him to productivity was somewhat interesting to me. I don''t think some of the creativity-related ideas are that relevant to me, partly because I already take extensive notes of things in various forms (such as in working-drafts as well as various private repos) but I might revisit some of these ideas at a later date.'),
   ('YouTube','Single video (such as movie)','English','Presenting big ideas & complex data to the public | Edouard, Hannah, Abie | EA Global: London 22','https://www.youtube.com/watch?v=if0gyWXrDvk','2022-09-04','day','2022-09-05','day','I watched this video as part of a general effort to catch up with EA Global. In the video, two people from the Our World in Data (OWID) talked about OWID''s work related to the COVID-19 pandemic, as well as the relationship between OWID and various parts of EA. I found it quite interesting.'),
-  ('YouTube','Single video (such as movie)','English','Lessons From Selling Morning Brew For $75 Million At 28 - Alex Lieberman','https://www.youtube.com/watch?v=4U6Nu5-nhXs','2022-09-10','day','2022-09-10','day','I watched this deep dive interview video by Ali Abdaal after seeing it recommended by Ali Abdaal in another video of his. I found it moderately interesting, including the parts about what motivates people at work and how to deal with procrastination.');
+  ('YouTube','Single video (such as movie)','English','Lessons From Selling Morning Brew For $75 Million At 28 - Alex Lieberman','https://www.youtube.com/watch?v=4U6Nu5-nhXs','2022-09-10','day','2022-09-10','day','I watched this deep dive interview video by Ali Abdaal after seeing it recommended by Ali Abdaal in another video of his. I found it moderately interesting, including the parts about what motivates people at work and how to deal with procrastination.'),
+  ('YouTube','Single video (such as movie)','English','Pakistan''s Economic Crisis','https://www.youtube.com/watch?v=pMn7jA0DwKY','2023-02-05','day','2023-02-06','day','I watched this video after Shekhar Gupta referenced it in one of his videos for The Print. I found this video, that featured Atif Mian and Miftah Ismail, fairly informative and interesting.');
 
 /* YouTube news and recent video consumption */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
