@@ -138,11 +138,6 @@ Indian (Hindi and other languages):
 
 ## Viki
 
-I currently have a Viki Pass Standard. I have been prioritizing HBO
-consumption over Viki consumption but might spend a few weeks in
-between my HBO subscription ending and resuming Netflix, in order to
-catch up more with it.
-
 VikiPass Standard (or Free):
 
 * Reply 1988 (in progress; also available on Netflix, but I'll
