@@ -150,10 +150,14 @@ VikiPass Standard (or Free):
 * Boys over Flowers
 * Jirisan
 * Strong Woman Do Bong Soon
+* My Love from the Star
+* Lighter and Princess (Chinese)
+* (There's also many other Chinese historical dramas that may be worth
+  watching, but no individual one stands out yet; let me think about
+  this after finishing The Untamed)
 
 VikiPass Plus:
 
-* My Love from the Star
 * Penthouse
 * The Law Cafe
 * Tracer (seasons 1 and 2)
