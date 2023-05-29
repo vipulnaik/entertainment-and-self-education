@@ -38,7 +38,8 @@ create table consumption(
   - 2023-02-23 Jeans (Tamil) (Netflix)
   - 2023-02-28 Return to Space (English) (Netflix)
   - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
-  - 2023-05-25 Dr. Romantic (rewatch) (Viki)
+  - 2023-05-25 - 2023-05-28 Dr. Romantic (rewatch) (Viki)
+  - 2023-05-28 Dr. Romantic 2 (rewatch) (Viki)
   - 2023-05-27 Modi: Journey of a Common Man (ErosNow)
  */
 
