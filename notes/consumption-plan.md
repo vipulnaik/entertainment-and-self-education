@@ -15,9 +15,7 @@ Some stuff I plan to consume when I resume my HBO subscription:
 * Gone with the Wind
 * 2001: A Space Odyssey
 * Many other documentaries
-* House of the Dragon (it's airing right now and won't finish before I
-  leave; I prefer to start watching when the whole season is
-  available)
+* House of the Dragon
 * More seasons of: The Wire, Westworld, Veep, The Big Bang Theory
 * The Sopranos -- maybe finish Season 1
 * The West Wing (maybe)
@@ -151,6 +149,13 @@ VikiPass Standard (or Free):
 * Jirisan
 * Strong Woman Do Bong Soon
 * My Love from the Star
+* Just Between Lovers
+* That Winter, The Wind Blows
+* The Penthouse
+* The Penthouse 2
+* The Penthouse 3
+* Winter Sonata
+* An Incurable Case of Love (Japanese)
 * Lighter and Princess (Chinese)
 * (There's also many other Chinese historical dramas that may be worth
   watching, but no individual one stands out yet; let me think about
@@ -163,6 +168,7 @@ VikiPass Plus:
 * Tracer (seasons 1 and 2)
 * Bad Prosecutor
 * Come and Hug Me
+* Taxi Driver 2
 
 ## Freevee
 
