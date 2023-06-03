@@ -40,6 +40,7 @@ create table consumption(
   - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
   - 2023-05-27 Modi: Journey of a Common Man (ErosNow)
   - 2023-06-01 Dr. Romantic 3 (Disney Plus)
+  - 2023-06-03 The Handmaid's Tale (Hulu)
  */
 
 /* MasterClass stuff */
