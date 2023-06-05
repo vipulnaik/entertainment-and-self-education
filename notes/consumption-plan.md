@@ -63,14 +63,25 @@ Movies:
 
 ## Disney+
 
-I have to figure out whether I want the bundle along with Hulu, or
-just Disney+.
+Subscribed as of 2023-06-01 onward.
 
 Stuff I might want to watch:
 
-* The Handmaid's Tale (Hulu or Disney+ bundle)
+Disney+:
+
 * Star Wars (Disney+)
-* Simpsons (Hulu or Disney+ bundle)
+* Glee
+* American Born Chinese
+
+Hulu:
+
+* Lincoln
+* The Great
+* ER
+* New Girl
+* Modern Family
+* Friends
+* The Office
 
 ## Netflix
 
