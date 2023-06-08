@@ -83,6 +83,8 @@ Hulu:
 * Friends
 * The Office
 * The Dropout
+* BigMouth
+* This Is Us
 
 ## Netflix
 
