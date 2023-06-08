@@ -40,8 +40,8 @@ create table consumption(
   - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
   - 2023-05-27 Modi: Journey of a Common Man (ErosNow)
   - 2023-06-01 Dr. Romantic 3 (Disney Plus)
-  - 2023-06-03 The Handmaid's Tale (Hulu)
   - 2023-06-04 An Incurable Case of Love (Japanese) (Viki)
+  - 2023-06-07 Big Mouth (Hulu)
  */
 
 /* MasterClass stuff */
@@ -640,6 +640,10 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('HBO','Series (such as TV show or web series)',true,'English','Hostages','https://www.hbo.com/hostages','2022-10-03','day','2022-10-04','day','I watched this documentary about the Iran hostage crisis (and more broadly about relations between the United States and Iran) as part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This particular documentary had been advertised on the HBO home page in the recent past, and I had also seen a trailer for it when watching Escape from Kabul. I found the documentary very well-done and informative about a lot of historical events.'),
   ('HBO','Single video (such as movie)',false,'English','Going Clear: Scientology and the Prison of Belief','https://www.hbomax.com/feature/urn:hbo:feature:GVU2megjxOY7DwvwIAUwm','2022-10-04','day','2022-10-04','day','I watched this documentary about scientology and its founder L. Ron Hubbard as part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This documentary was included in a list of recommended documentaries on another documentary. I found the documentary fairly well-done, though not too directly relevant to my life. I later noticed that this documentary was directed by the same person (Alex Gibney) who had directed two documentaries I had watched before (on WikiLeaks and Theranos).'),
   ('HBO','Series (such as TV show or web series)',false,'English','Nuclear Family','https://www.hbo.com/nuclear-family','2022-10-05','day','2022-10-06','day','I watched this documentary about a lesbian couple with kids and the court case brought about by the biological father. This was part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This documentary was included in a list of recommended documentaries on another documentary. I found the documentary very well-done and informative both about the personal conflicts involved and the historical context of the story.');
+
+/* Hulu stuff */
+insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Hulu','Series (such as TV show or web series)',false,'English','The Handmaid''s Tale','https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f','2023-06-03','day','2023-06-07','day','The Handmaid''s Tale is one of Hulu''s most critically acclaimed TV shows and it had been on my list of shows to watch once I got a Hulu subscription. I started watching it as soon as I got to the point in Dr. Romantic 3 where I was done watching the already released episodes. The first season of the show lived up to my expectations; however, it was also disturbing enough that it influenced some of my dreams in a negative way and I needed to take a break for a couple of days before I felt comfortable finishing the first season.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
