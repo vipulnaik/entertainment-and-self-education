@@ -43,6 +43,7 @@ create table consumption(
   - 2023-06-04 An Incurable Case of Love (Japanese) (Viki)
   - 2023-06-07 Big Mouth (Hulu)
   - 2023-06-09 ER (Hulu)
+  - 2023-06-10 This Is Us (Hulu)
  */
 
 /* MasterClass stuff */
