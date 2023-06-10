@@ -42,6 +42,7 @@ create table consumption(
   - 2023-06-01 Dr. Romantic 3 (Disney Plus)
   - 2023-06-04 An Incurable Case of Love (Japanese) (Viki)
   - 2023-06-07 Big Mouth (Hulu)
+  - 2023-06-09 ER (Hulu)
  */
 
 /* MasterClass stuff */
