@@ -44,6 +44,7 @@ create table consumption(
   - 2023-06-07 Big Mouth (Hulu)
   - 2023-06-09 ER (Hulu)
   - 2023-06-10 This Is Us (Hulu)
+  - 2023-06-10 The Handmaid's Tale Season 2 (Hulu)
  */
 
 /* MasterClass stuff */
