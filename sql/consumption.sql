@@ -46,7 +46,7 @@ create table consumption(
   - 2023-06-10 This Is Us (Hulu)
   - 2023-06-10 The Handmaid's Tale Season 2 (Hulu)
   - 2023-06-11 The Waiting Room (Hulu)
-  - 2023-06-11 Panic 9-1-1 Season 1 (Hulu)
+  - 2023-06-11 - 2023-06-12 Panic 9-1-1 Season 1 (Hulu)
  */
 
 /* MasterClass stuff */
