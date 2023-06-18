@@ -39,7 +39,6 @@ create table consumption(
   - 2023-02-28 Return to Space (English) (Netflix)
   - 2023-04-16 The Marvelous Mrs. Maisel Season 5 (Amazon Prime)
   - 2023-05-27 Modi: Journey of a Common Man (ErosNow)
-  - 2023-06-01 Dr. Romantic 3 (Disney Plus)
   - 2023-06-04 An Incurable Case of Love (Japanese) (Viki)
   - 2023-06-07 Big Mouth (Hulu)
   - 2023-06-09 ER (Hulu)
@@ -645,6 +644,10 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('HBO','Series (such as TV show or web series)',true,'English','Hostages','https://www.hbo.com/hostages','2022-10-03','day','2022-10-04','day','I watched this documentary about the Iran hostage crisis (and more broadly about relations between the United States and Iran) as part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This particular documentary had been advertised on the HBO home page in the recent past, and I had also seen a trailer for it when watching Escape from Kabul. I found the documentary very well-done and informative about a lot of historical events.'),
   ('HBO','Single video (such as movie)',false,'English','Going Clear: Scientology and the Prison of Belief','https://www.hbomax.com/feature/urn:hbo:feature:GVU2megjxOY7DwvwIAUwm','2022-10-04','day','2022-10-04','day','I watched this documentary about scientology and its founder L. Ron Hubbard as part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This documentary was included in a list of recommended documentaries on another documentary. I found the documentary fairly well-done, though not too directly relevant to my life. I later noticed that this documentary was directed by the same person (Alex Gibney) who had directed two documentaries I had watched before (on WikiLeaks and Theranos).'),
   ('HBO','Series (such as TV show or web series)',false,'English','Nuclear Family','https://www.hbo.com/nuclear-family','2022-10-05','day','2022-10-06','day','I watched this documentary about a lesbian couple with kids and the court case brought about by the biological father. This was part of my efforts to watch documentaries before the end of my HBO subscription in a few days. This documentary was included in a list of recommended documentaries on another documentary. I found the documentary very well-done and informative both about the personal conflicts involved and the historical context of the story.');
+
+/* Disney Plus stuff */
+insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('Disney Plus','Series (such as TV show or web series)',true,'Korean','Dr. Romantic 3 (Romantic Doctor Kim 3)','https://www.disneyplus.com/series/dr-romantic/1gQuM5OPs4TV','2023-06-01','day','2023-06-17','day','I watched this after finishing a rewatch of Dr. Romantic 2. The show was still airing when I started watching, so I watched up to Episode 12 and then watched the other episodes as they came out. I found this season a good sequel to the previous season (Dr. Romantic 2) and was happy to see that most of the cast from Season 2 continued into Season 3, and that there was progress in the overall storyline since the previous season. Overall, I enjoyed it for similar reasons as I enjoyed the first two seasons.');
 
 /* Hulu stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
