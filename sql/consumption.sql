@@ -46,6 +46,7 @@ create table consumption(
   - 2023-06-10 The Handmaid's Tale Season 2 (Hulu)
   - 2023-06-11 The Waiting Room (Hulu)
   - 2023-06-12 Nightwatch (Hulu)
+  - 2023-06-18 Panic 9-1-1 Season 2 (Hulu)
  */
 
 /* MasterClass stuff */
