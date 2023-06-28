@@ -43,11 +43,11 @@ create table consumption(
   - 2023-06-07 Big Mouth (Hulu)
   - 2023-06-09 ER (Hulu)
   - 2023-06-10 This Is Us (Hulu)
-  - 2023-06-10 The Handmaid's Tale Season 2 (Hulu)
   - 2023-06-11 The Waiting Room (Hulu)
   - 2023-06-12 Nightwatch (Hulu)
   - 2023-06-18 Panic 9-1-1 Season 2 (Hulu)
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
+  - 2023-06-27 The Handmaid's Tale Season 3 (Hulu)
  */
 
 /* MasterClass stuff */
@@ -654,7 +654,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
 /* Hulu stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('Hulu','Series (such as TV show or web series)',false,'English','The Handmaid''s Tale: Season 1','https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f','2023-06-03','day','2023-06-07','day','The Handmaid''s Tale is one of Hulu''s most critically acclaimed TV shows and it had been on my list of shows to watch once I got a Hulu subscription. I started watching it as soon as I got to the point in Dr. Romantic 3 where I was done watching the already released episodes. The first season of the show lived up to my expectations; however, it was also disturbing enough that it influenced some of my dreams in a negative way and I needed to take a break for a couple of days before I felt comfortable finishing the first season.'),
-  ('Hulu','Series (such as TV show or web series)',false,'English','Panic 9-1-1: Season 1','https://www.disneyplus.com/video/521d7722-f8dc-4bab-b033-92e793df9aa8','2023-06-11','day','2023-06-12','day','I watched this TV show based on a recommendation by Hulu, likely because I had started watching the "ER" TV show. Season 1 is just three episodes; I found them very chilling and interesting to listen to. Among the aspects I found interesting: (1) how much happens over a relatively short time period in these kinds of situations, (2) how often people panic and keep repeating themselves even in these situations where time is of the essence for communicating information. At the same time, I don''t expect these to be representative of the typical 9-1-1 emergency calls, that are probably generally less serious.');
+  ('Hulu','Series (such as TV show or web series)',false,'English','Panic 9-1-1: Season 1','https://www.disneyplus.com/video/521d7722-f8dc-4bab-b033-92e793df9aa8','2023-06-11','day','2023-06-12','day','I watched this TV show based on a recommendation by Hulu, likely because I had started watching the "ER" TV show. Season 1 is just three episodes; I found them very chilling and interesting to listen to. Among the aspects I found interesting: (1) how much happens over a relatively short time period in these kinds of situations, (2) how often people panic and keep repeating themselves even in these situations where time is of the essence for communicating information. At the same time, I don''t expect these to be representative of the typical 9-1-1 emergency calls, that are probably generally less serious.'),
+  ('Hulu','Series (such as TV show or web series)',false,'English','The Handmaid''s Tale: Season 2','https://www.hulu.com/series/the-handmaids-tale-565d8976-9d26-4e63-866c-40f8a137ce5f','2023-06-10','day','2023-06-27','day','I started this season a few days after finishing Season 1; I had found Season 1 very good, but also a bit heavy, hence the slight break. Even after starting, I did not initially get too deep into the season, and switched to watching other things. Later in the month of June, I got drawn into the season again, and finished watching it. As with Season 1, I found it great but heavy. I was engaged with the series'' exploration of several themes, and the way Season 2 built upon Season 1 and dug deeper in a few areas.');
 
 /* YouTube movies */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
