@@ -47,7 +47,7 @@ create table consumption(
   - 2023-06-12 Nightwatch (Hulu)
   - 2023-06-18 Panic 9-1-1 Season 2 (Hulu)
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
-  - 2023-07-11 The Handmaid's Tale Season 5 (Hulu)
+  - 2023-07-11 - 2023-07-13 The Handmaid's Tale Season 5 (Hulu)
  */
 
 /* MasterClass stuff */
