@@ -47,6 +47,7 @@ create table consumption(
   - 2023-06-18 Panic 9-1-1 Season 2 (Hulu)
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
   - 2023-07-24 This Is Us: Season 2 (Hulu)
+  - 2023-07-27 One Dollar Lawyer (Hulu)
  */
 
 /* MasterClass stuff */
