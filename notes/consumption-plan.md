@@ -1,6 +1,6 @@
 # Consumption plan
 
-Last major update: April 30, 2023
+Last major update: July 29, 2023
 
 ## Current plan
 
@@ -83,8 +83,8 @@ Hulu:
 * Friends
 * The Office
 * The Dropout
-* BigMouth
-* This Is Us
+* Tiny Beautiful Things
+* The Bear
 
 ## Netflix
 
@@ -152,12 +152,6 @@ Indian (Hindi and other languages):
 
 VikiPass Standard (or Free):
 
-* Reply 1988 (in progress; also available on Netflix, but I'll
-  probably watch this on Viki when I don't have a Netflix subscription
-  active)
-* The Untamed (in progress; also available on Netflix, but I'll
-  probably watch this on Viki when I don't have a Netflix subscription
-  active)
 * Semantic Error
 * Boys over Flowers
 * Jirisan
@@ -191,5 +185,8 @@ between subscriptions (e.g., after letting my Netflix subscription
 expire but before restarting my HBO subscription).
 
 * Hara-kiri: Death of a Samurai (2012 version is available on Freevee)
+* Judy Justice (in progress)
+* The Good Wife
 
-Check what's on Freevee (it might change over time).
+Availability on Freevee changes often, so check what's available when
+starting to watch.
