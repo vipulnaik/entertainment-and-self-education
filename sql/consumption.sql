@@ -48,7 +48,7 @@ create table consumption(
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
   - 2023-07-24 This Is Us: Season 2 (Hulu)
   - 2023-07-27 One Dollar Lawyer (Hulu)
-  - 2023-07-28 May It Please The Court (Hulu)
+  - 2023-07-28 - 2023-08-06 May It Please The Court (Hulu)
  */
 
 /* MasterClass stuff */
