@@ -47,6 +47,7 @@ create table consumption(
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
   - 2023-07-24 This Is Us: Season 2 (Hulu)
   - 2023-07-27 One Dollar Lawyer (Hulu)
+  - 2023-08-11 The Trial (Hindi) (Hulu)
  */
 
 /* MasterClass stuff */
