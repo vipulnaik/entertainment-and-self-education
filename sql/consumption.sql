@@ -51,6 +51,7 @@ create table consumption(
   - 2023-08-12 - 2023-08-15 The Good Wife Season 1 (Amazon Video: Freevee)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
+  - 2023-08-16 Brahmastra: Part One - Shiva (Hulu)
  */
 
 /* MasterClass stuff */
