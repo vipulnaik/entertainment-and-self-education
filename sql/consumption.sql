@@ -48,8 +48,9 @@ create table consumption(
   - 2023-07-24 This Is Us: Season 2 (Hulu)
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-11 The Trial (Hindi) (Hulu)
-  - 2023-08-12 The Good Wife (Amazon Video: Freevee)
+  - 2023-08-12 - 2023-08-15 The Good Wife Season 1 (Amazon Video: Freevee)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
+  - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
  */
 
 /* MasterClass stuff */
