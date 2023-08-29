@@ -50,7 +50,8 @@ create table consumption(
   - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
   - 2023-08-16 The First Responders (Hulu)
   - 2023-08-20 Silent (Japanese) (Viki)
-  - 2023-08-26 This Is Us: Season 4 (Hulu)
+  - 2023-08-26 - 2023-08-28 This Is Us: Season 4 (Hulu)
+  - 2023-08-28 This Is Us: Season 5 (Hulu)
  */
 
 /* MasterClass stuff */
