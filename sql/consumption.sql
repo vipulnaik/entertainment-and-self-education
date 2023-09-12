@@ -45,7 +45,7 @@ create table consumption(
   - 2023-06-18 Panic 9-1-1 Season 2 (Hulu)
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
   - 2023-07-27 One Dollar Lawyer (Hulu)
-  - 2023-08-11 The Trial (Hindi) (Hulu)
+  - 2023-08-11 - 2023-09-11 The Trial (Hindi) (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
   - 2023-08-16 The First Responders (Hulu)
