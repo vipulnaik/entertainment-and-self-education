@@ -80,8 +80,6 @@ Hulu:
 * ER
 * New Girl
 * Modern Family
-* Friends
-* The Office
 * The Dropout
 * Tiny Beautiful Things
 * The Bear
