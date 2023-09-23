@@ -48,7 +48,7 @@ create table consumption(
   - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
   - 2023-08-20 Silent (Japanese) (Viki)
   - 2023-09-18 The First Responders: Season 2 (Hulu)
-  - 2023-09-22 Made in Heaven: Season 2 (Amazon Prime)
+  - 2023-09-22 - 2023-09-22 (finished in 1 day) Made in Heaven: Season 2 (Amazon Prime)
  */
 
 /* MasterClass stuff */
