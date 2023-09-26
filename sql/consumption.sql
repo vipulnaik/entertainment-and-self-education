@@ -49,7 +49,7 @@ create table consumption(
   - 2023-08-20 Silent (Japanese) (Viki)
   - 2023-09-18 The First Responders: Season 2 (Hulu)
   - 2023-09-23 - 2023-09-23 (single day) The Family Man: Season 1 (Amazon Prime)
-  - 2023-09-23 The Family Man: Season 2 (Amazon Prime)
+  - 2023-09-23 - 2023-09-25 The Family Man: Season 2 (Amazon Prime)
  */
 
 /* MasterClass stuff */
