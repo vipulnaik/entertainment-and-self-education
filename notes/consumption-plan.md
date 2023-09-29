@@ -1,12 +1,12 @@
 # Consumption plan
 
-Last major update: July 29, 2023
+Last major update: September 29, 2023
 
 ## Current plan
 
-* Continue with Netflix and VikiPass Standard for a few months.
-* Maybe in 2023, switch for a while to Amazon Prime Video, PBS
-  documentaries, Disney+, and HBO in turns.
+* After Disney Plus ends with end of September, take a break from paid
+  subscriptions other than Viki for a few weeks.
+* Start Netflix after that and run it along with Viki.
 
 ## HBO
 
@@ -44,9 +44,9 @@ Some stuff I hope to consume:
 
 Web series:
 
-* Made in Heaven (awaiting new season)
 * Panchayat (awaiting new season)
-* The Family Man
+* The Family Man (awaiting new season)
+* Guilty Minds
 * Mirzapur
 * The Rings of Power
 
@@ -77,7 +77,6 @@ Hulu:
 
 * Lincoln
 * The Great
-* ER
 * New Girl
 * Modern Family
 * The Dropout
