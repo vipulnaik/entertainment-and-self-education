@@ -45,8 +45,9 @@ create table consumption(
   - 2023-06-20 Koffee with Karan Season 1 (Hulu)
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
-  - 2023-08-15 The Good Wife Season 2 (Amazon Video: Freevee)
+  - 2023-08-15 - 2023-10-05 The Good Wife Season 2 (Amazon Video: Freevee)
   - 2023-08-20 Silent (Japanese) (Viki)
+  - 2023-10-05 The Good Wife Season 3 (Amazon Video: Freevee)
  */
 
 /* MasterClass stuff */
