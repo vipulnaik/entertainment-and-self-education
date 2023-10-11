@@ -24,7 +24,6 @@ create table consumption(
   - 2022-05-31 Mumbai Meri Jaan (Netflix)
   - 2022-08-21 South Park (HBO) -- brief sampling; felt too dark and over-the-top but might revisit
   - 2022-08-21 The Sopranos (HBO)
-  - 2022-09-03 What we look for in early projects | Zachary R, Jonas V, Owen CB | EA Global: London 22
   - 2022-09-09 The Big Bang Theory Season 2 (HBO) -- paused early on in episode 1, may not resume
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
@@ -46,7 +45,6 @@ create table consumption(
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-08-20 Silent (Japanese) (Viki)
-  - 2023-10-07 - 2023-10-09 The Good Wife Season 4 (Amazon Video: Freevee)
   - 2023-10-09 The Good Wife Season 5 (Amazon Video: Freevee)
  */
 
@@ -614,7 +612,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','The Family Man: Season 1','https://www.amazon.com/gp/video/detail/B086HVWQF8/','2023-09-23','day','2023-09-23','day','I had heard positive things about this TV show and even watched a CineDesi interview with Manoj Bajpayee https://www.youtube.com/watch?v=UCYPHbyngAM where the show had been briefly discussed, so I had been intending to watch this TV show the next time I got an Amazon Prime subscription. So, after I got a one-week subscription as it was the cheapest way of getting an item delivered, I watched it. I enjoyed the season quite a bit, particularly the interplay between the protagonist being really good at his job when he was doing it, and being an ordinary and somewhat ineffectual person in the rest of his life. Having been cooped up at home and fatigued of document reorganization, I watched The Family Man all day while working on my computer and finished Season 1 within a single day.'),
   ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','The Family Man: Season 2','https://www.amazon.com/gp/video/detail/B08TKJWP4C/','2023-09-23','day','2023-09-25','day','I started watching this season right after finishing Season 1. I enjoyed it about as much as Season 1; however, it took a little longer as I had to made outside trips on Sunday and then had to work on Monday. Nonetheless, I still finished it in two days. This season ahad a significant amount of conversation in Tamil and English in addition to Hindi (its main language), so it also helped me refresh some of my Tamil knowledge.'),
   ('Amazon Video','Series (such as TV show or web series)',false,'English','The Good Wife: Season 2','https://www.amazon.com/gp/video/detail/B005MLOKXA/','2023-08-15','day','2023-10-05','day','I started watching this season on Amazon Video (Freevee) right after finishing Season 1, but decided to pause it in order to focus on other content, primarily content from Hulu as I was subscribed to Hulu at the time, and The Good Wife was on Freevee so I could watch it later without a subscription. Later in October, after cancelling my Hulu subscription, I returned to this season and finished it quickly. I found this season pretty good and comparable with Season 1.'),
-  ('Amazon Video','Series (such as TV show or web series)',false,'English','The Good Wife: Season 3','https://www.amazon.com/gp/video/detail/B005PK57IK/','2023-10-05','day','2023-10-07','day','I started watching this season on Amazon Video (Freevee) right after finishing Season 2. Since I was doing some relatively boring work, I watched this on the side while working, and so I was able to finish this season within three calendar days. I found this season pretty good and comparable with the first two seasons.');
+  ('Amazon Video','Series (such as TV show or web series)',false,'English','The Good Wife: Season 3','https://www.amazon.com/gp/video/detail/B005PK57IK/','2023-10-05','day','2023-10-07','day','I started watching this season on Amazon Video (Freevee) right after finishing Season 2. Since I was doing some relatively boring work, I watched this on the side while working, and so I was able to finish this season within three calendar days. I found this season pretty good and comparable with the first two seasons.'),
+  ('Amazon Video','Series (such as TV show or web series)',false,'English','The Good Wife: Season 4','https://www.amazon.com/gp/video/detail/B009JZSC9S/','2023-10-07','day','2023-10-09','day','I started watching this season on Amazon Video (Freevee) right after finishing Season 3. Since I was doing some relatively boring work, I watched this on the side while working, and so I was able to finish this season within three calendar days. I found this season pretty good and comparable with the first three seasons.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
