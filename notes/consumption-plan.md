@@ -160,7 +160,6 @@ VikiPass Standard (or Free):
 * The Penthouse 2
 * The Penthouse 3
 * Winter Sonata
-* An Incurable Case of Love (Japanese)
 * Lighter and Princess (Chinese)
 * (There's also many other Chinese historical dramas that may be worth
   watching, but no individual one stands out yet; let me think about
@@ -178,12 +177,9 @@ VikiPass Plus:
 ## Freevee
 
 This doesn't need a subscription, so it's ideal to watch in periods in
-between subscriptions (e.g., after letting my Netflix subscription
-expire but before restarting my HBO subscription).
+between subscriptions.
 
 * Hara-kiri: Death of a Samurai (2012 version is available on Freevee)
-* Judy Justice (in progress)
-* The Good Wife
 
 Availability on Freevee changes often, so check what's available when
 starting to watch.
