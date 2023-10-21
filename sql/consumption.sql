@@ -45,7 +45,8 @@ create table consumption(
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-08-20 Silent (Japanese) (Viki)
-  - 2023-10-13 The Good Wife Season 6 (Amazon Video: Freevee)
+  - 2023-10-13 - 2023-10-21 The Good Wife Season 6 (Amazon Video: Freevee)
+  - 2023-10-21 The Good Wife Season 7 (Amazon Video: Freevee)
  */
 
 /* MasterClass stuff */
