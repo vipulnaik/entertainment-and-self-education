@@ -48,6 +48,7 @@ create table consumption(
   - 2023-10-21 The Good Wife Season 7 (Amazon Video: Freevee)
   - 2023-10-21 If You Wish Upon Me (Viki)
   - 2023-10-27 Suspicious Partner (Viki)
+  - 2023-10-29 99.9 Criminal Lawyer (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
