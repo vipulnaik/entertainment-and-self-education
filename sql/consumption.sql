@@ -47,7 +47,7 @@ create table consumption(
   - 2023-08-20 Silent (Japanese) (Viki)
   - 2023-10-21 If You Wish Upon Me (Viki)
   - 2023-10-27 Suspicious Partner (Viki)
-  - 2023-10-29 99.9 Criminal Lawyer (Japanese) (Viki)
+  - 2023-11-04 Mr. Bride (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
@@ -511,6 +511,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',true,'Korean','Reborn Rich','https://www.viki.com/tv/38899c-reborn-rich','2022-12-13','day','2023-05-12','day','I started watching this TV show in mid-December, while it was still airing, but put it on pause after watching a part of Episode 1, as I was pausing my Viki subscription. I returned to finish the show when I resumed my Viki subscription in May 2023. I enjoyed the show quite a bit, after adjusting my viewing lens to not expect everything to be logically perfect. The review https://thefangirlverdict.com/2023/01/02/review-reborn-rich/ (that I read parts of while watching the show, though it wasn''t available when I first started the show) does a good job of highlighting the show''s strengths and weaknesses and the right viewing lens with which to enjoy the show.'),
   /* 2023 */
   ('Viki','Series (such as TV show or web series)',false,'Japanese','An Incurable Case of Love','https://www.viki.com/tv/38087c-an-incurable-case-of-love','2023-06-04','day','2023-08-20','day','I started watching this TV show mainly in order to get more exposure to the Japanese language in order to get better at it. I picked this show as a light-hearted and highly-rated show that would be easy to follow and help me improve my understanding of the language. The show largely met my expectations. I watched it slowly while being focused on watching other shows, so it ended up taking over two months to finish.'),
+  ('Viki','Series (such as TV show or web series)',false,'Japanese','99.9 Criminal Lawyer','https://www.viki.com/tv/40149c-999-criminal-lawyer','2023-10-29','day','2023-11-04','day','I started watching this TV show after seeing it advertised on the Viki homepage; I was interested in watching more Japanese-language TV shows, and this particular show (legal stuff) seemed like the kind of stuff that could engage me enough for me to watch it quickly and understand the language. I enjoyed the TV show, and it was also good for my efforts to learn Japanese: I was able to pick a fair amount of Japanese vocabulary thanks to my prior familiarity with legal concepts, having watched many law dramas, particularly Korean ones.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
