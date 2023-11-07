@@ -48,6 +48,7 @@ create table consumption(
   - 2023-10-21 If You Wish Upon Me (Viki)
   - 2023-10-27 Suspicious Partner (Viki)
   - 2023-11-04 Mr. Bride (Japanese) (Viki)
+  - 2023-11-07 Kushi (Kannada) (Netflix)
  */
 
 /* MasterClass stuff */
