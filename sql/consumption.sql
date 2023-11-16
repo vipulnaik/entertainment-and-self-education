@@ -51,7 +51,7 @@ create table consumption(
   - 2023-11-07 Kushi (Kannada) (Netflix)
   - 2023-11-07 Jawan (Extended Cut) (Netflix)
   - 2023-11-09 - 2023-11-09 Irugapatru (Kannada audio) (Netflix)
-  - 2023-11-09 Burn the House Down (Japanese) (Netflix)
+  - 2023-11-09 - 2023-11-15 Burn the House Down (Japanese) (Netflix)
   - 2023-11-09 Doona! (Korean) (Netflix)
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
  */
