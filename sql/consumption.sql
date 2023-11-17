@@ -52,6 +52,8 @@ create table consumption(
   - 2023-11-07 Jawan (Extended Cut) (Netflix)
   - 2023-11-09 Doona! (Korean) (Netflix)
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
+  - 2023-11-15 Alice in Borderland (Japanese) (Netflix)
+  - 2023-11-15 Suits (English) (Netflix)
  */
 
 /* MasterClass stuff */
