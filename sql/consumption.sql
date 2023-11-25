@@ -54,6 +54,7 @@ create table consumption(
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
   - 2023-11-18 Suits: Season 2 (English) (Netflix)
   - 2023-11-24 Squid Game: The Challenge (Netflix)
+  - 2023-11-24 Trillion Game (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
