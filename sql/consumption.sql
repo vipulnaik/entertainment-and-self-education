@@ -49,7 +49,6 @@ create table consumption(
   - 2023-10-27 Suspicious Partner (Viki)
   - 2023-11-04 Mr. Bride (Japanese) (Viki)
   - 2023-11-07 Kushi (Kannada) (Netflix)
-  - 2023-11-07 Jawan (Extended Cut) (Netflix)
   - 2023-11-09 Doona! (Korean) (Netflix)
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
   - 2023-11-24 Squid Game: The Challenge (Netflix)
@@ -389,7 +388,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Japanese','Burn the House Down','https://www.netflix.com/title/81511743','2023-11-09','day','2023-11-15','day','I found this TV show while searching for the best Japanese shows on Netflix (my goal was to improve my Japanese). I started watching it shortly after renewing my Netflix subscription. Overall, I found it a very interesting show, and my only complaint about it is that some pieces felt unrealistic, but that might be expected given the manga origins of the show.'),
   ('Netflix','Series (such as TV show or web series)',false,'English','Suits: Season 1','https://www.netflix.com/title/70195800','2023-11-15','day','2023-11-18','day','I had heard of this show as a comparable show to The Good Wife when reading reviews of the latter. So, when I saw the show advertised on the Netflix homepage. Since I had enjoyed The Good Wife quite a bit, I decided to give this show a try. I enjoyed it quite a bit. Despite many similarities with The Good Wife, the show had a very different flavor; for instance, it involved a lot less of the courtroom and a lot less of the politics/law nexus.'),
   ('Netflix','Series (such as TV show or web series)',false,'Japanese','Alice in Borderland: Season 1','https://www.netflix.com/title/80200575','2023-11-15','day','2023-11-24','day','I had noted this as a TV show to watch several months ago, when it was shown to me as a Netflix homepage recommendation. After renewing my Netflix subscription, I picked this TV show up as part of my efforts to learn Japanese. I enjoyed the TV show quite a bit: it lived up to my expectations.'),
-  ('Netflix','Series (such as TV show or web series)',false,'English','Suits: Season 2','https://www.netflix.com/title/70195800','2023-11-18','day','2023-11-25','day','I started watching this season shortly after finishing Season 1. I found it comparably good, though the novely wore off a little bit so my viewing speed slowed down a little bit compared to Season 1.');
+  ('Netflix','Series (such as TV show or web series)',false,'English','Suits: Season 2','https://www.netflix.com/title/70195800','2023-11-18','day','2023-11-25','day','I started watching this season shortly after finishing Season 1. I found it comparably good, though the novely wore off a little bit so my viewing speed slowed down a little bit compared to Season 1.'),
+  ('Netflix','Single video (such as movie)',true,'Hindi','Jawan: Extended Cut','https://www.netflix.com/title/81493411','2023-11-07','day','2023-11-25','day','I had heard that this movie did very well, so when I saw it was available upon renewing my Netflix subscription, I started watching it. However, I wasn''t too engaged by it so I watched it in bits and pieces over the next few weeks. Overall, while I can see that aspects of the movie appealed enough to make it a superhit, I was not personally engaged by it.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
