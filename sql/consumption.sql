@@ -50,9 +50,9 @@ create table consumption(
   - 2023-11-07 Kushi (Kannada) (Netflix)
   - 2023-11-09 Doona! (Korean) (Netflix)
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
-  - 2023-11-24 Squid Game: The Challenge (Netflix)
+  - 2023-11-24 - 2023-12-07 Squid Game: The Challenge (Netflix)
   - 2023-11-24 Trillion Game (Japanese) (Netflix)
-  - 2023-12-01 Kaala Paani (Hindi) (Netflix)
+  - 2023-12-01 - 2023-12-06 Kaala Paani (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
