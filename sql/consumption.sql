@@ -51,6 +51,7 @@ create table consumption(
   - 2023-11-09 Doona! (Korean) (Netflix)
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
   - 2023-11-24 Trillion Game (Japanese) (Netflix)
+  - 2023-12-08 A Small Light (English, mostly) (Netflix)
  */
 
 /* MasterClass stuff */
