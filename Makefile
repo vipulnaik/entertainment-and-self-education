@@ -39,7 +39,7 @@ clean_table_sorting:
 	rm -f access-portal/asc.gif
 	rm -f access-portal/desc.gif
 
-	.PHONY: fetch_anchorjs
+.PHONY: fetch_anchorjs
 fetch_anchorjs:
 	curl -Lo access-portal/anchor.min.js \
 		'https://raw.githubusercontent.com/bryanbraun/anchorjs/master/anchor.min.js'
