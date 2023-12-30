@@ -46,7 +46,6 @@ Web series:
 
 * Panchayat (awaiting new season)
 * The Family Man (awaiting new season)
-* Guilty Minds
 * Mirzapur
 * The Rings of Power
 
