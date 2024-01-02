@@ -53,6 +53,7 @@ create table consumption(
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-01-01 Mirzapur Season 1 (Hindi) (Amazon Video)
+  - 2024-01-02 Criminal Justice (Hindi) (Hulu)
  */
 
 /* MasterClass stuff */
