@@ -44,10 +44,15 @@ Some stuff I hope to consume:
 
 Web series:
 
-* Panchayat (awaiting new season)
-* The Family Man (awaiting new season)
-* Mirzapur
 * The Rings of Power
+* Farzi
+* Mumbai Diaries
+
+Web series awaiting new season:
+
+* The Family Man
+* Mirzapur
+* Panchayat
 
 Movies:
 
