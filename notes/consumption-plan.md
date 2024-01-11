@@ -45,7 +45,6 @@ Some stuff I hope to consume:
 Web series:
 
 * The Rings of Power
-* Farzi
 * Mumbai Diaries
 
 Web series awaiting new season:
@@ -53,6 +52,7 @@ Web series awaiting new season:
 * The Family Man
 * Mirzapur
 * Panchayat
+* Farzi
 
 Movies:
 
