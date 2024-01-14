@@ -52,6 +52,7 @@ create table consumption(
   - 2023-11-24 Trillion Game (Japanese) (Netflix)
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
+  - 2024-01-13 Drishyam 2 (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
