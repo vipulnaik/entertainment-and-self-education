@@ -53,7 +53,7 @@ create table consumption(
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-01-20-2024-01-20 Fan (Hindi) (Amazon Prime)
-  - 2024-01-22 Jab Tak Hai Jaan (Hindi) (Amazon Prime)
+  - 2024-01-22-2024-01-22 Jab Tak Hai Jaan (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
