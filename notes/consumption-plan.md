@@ -55,7 +55,6 @@ Web series awaiting new season:
 
 Movies:
 
-* Jab Tak Hai Jaan
 * Sita Ramam
 * Mujhse Dosti Karoge
 * Ek Tha Tiger
