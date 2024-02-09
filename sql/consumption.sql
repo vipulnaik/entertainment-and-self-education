@@ -47,6 +47,7 @@ create table consumption(
   - 2023-11-14 Doctor Cha (Korean) (Netflix)
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
+  - 2024-02-08-2024-02-08 Sajini Shinde Ka Viral Video (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
