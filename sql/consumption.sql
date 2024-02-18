@@ -48,6 +48,7 @@ create table consumption(
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
+  - 2024-02-18 Why Didn't I Tell You a Million Times? (Viki)
  */
 
 /* MasterClass stuff */
