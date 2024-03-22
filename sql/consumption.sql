@@ -49,6 +49,7 @@ create table consumption(
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
+  - 2024-03-21 Hi Nanna (Kannada) (Netflix)
  */
 
 /* MasterClass stuff */
