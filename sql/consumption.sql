@@ -44,12 +44,13 @@ create table consumption(
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-10-21 If You Wish Upon Me (Viki)
-  - 2023-11-14 Doctor Cha (Korean) (Netflix)
+  - 2023-11-14 - 2024-03-23 Doctor Cha (Korean) (Netflix)
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
+  - 2024-03-23 - 2024-03-23 Murder Mubarak (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
