@@ -51,6 +51,8 @@ create table consumption(
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-03-23 - 2024-03-23 Murder Mubarak (Hindi) (Netflix)
+  - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
+  - 2024-03-23 Doctor Slump (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
