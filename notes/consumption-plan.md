@@ -138,7 +138,6 @@ Indian (Hindi and other languages):
 * The White Tiger
 * Kantara
 * RRR
-* Lal Singh Chaddha
 * Happy New Year
 * Zero
 * Jab Harry Met Sejal
