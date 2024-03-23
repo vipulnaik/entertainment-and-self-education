@@ -50,6 +50,7 @@ create table consumption(
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
+  - 2024-03-22 Laal Singh Chaddha (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
