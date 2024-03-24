@@ -44,13 +44,11 @@ create table consumption(
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-10-21 If You Wish Upon Me (Viki)
-  - 2023-11-14 - 2024-03-23 Doctor Cha (Korean) (Netflix)
   - 2023-12-08 A Small Light (English, mostly) (Hulu)
   - 2023-12-16 L.A. Law (English) (Hulu)
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
-  - 2024-03-23 - 2024-03-23 Murder Mubarak (Hindi) (Netflix)
   - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
   - 2024-03-23 Doctor Slump (Korean) (Netflix)
  */
@@ -398,7 +396,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Doona!','https://www.netflix.com/title/81595046','2023-11-09','day','2024-02-08','day','I saw this TV show recommended on the Netflix homepage, and reading its synopsis got me interested, so I started watching it. The show was a combination of relaxed and emotionally intense, so it took me some time to get through it, and I didn''t finish it prior to pausing my Netflix subscription in December. I picked it up again shortly after resuming my subscription. Overall, I found the show surprisingly good; it had a surrealistic feeling to it that was both disconcerting and appealing.'),
   ('Netflix','Single video (such as movie)',false,'Hindi','Sajini Shinde Ka Viral Video','https://www.netflix.com/title/81572876','2024-02-08','day','2024-02-08','day','I saw this movie in the Netflix homepage recommendations, and saw that it had an interesting topic and positive reviews online, so I decided to watch it. It was a decent watch. I liked that it covered its social topics with a light hand (without being preachy), and the plot was interesting enough to keep me watching.'),
   ('Netflix','Series (such as TV show or web series)',true,'Japanese','Fermat''s Cuisine','https://www.netflix.com/title/81721422','2024-02-09','day','2024-02-10','day','I was looking for Japanese TV shows to watch and I saw this show recommended by Netflix on its homepage. After reading positive reviews, I picked this show up as I expected it to be a relatively light and watchable show with a sufficiently simple setup that would allow me to pick up more Japanese. The show turned out to be a good fit in the way I had hoped, and it helped improve my Japanese vocabulary quite a bit. Despite the show being light (and way over the top!), I was hooked, so I binge-watched the show, finishing it within two days.'),
-  ('Netflix','Single video (such as movie)',false,'Hindi','Laal Singh Chaddha','https://www.netflix.com/title/81318083','2024-03-22','day','2024-03-23','day','This movie had been on my watchlist for a while, and I finally decided to watch it. It was a decent watch, covering a personal journey and weaving together a bunch of historical events on the side. I found it a nice watch but not particularly compelling.');
+  ('Netflix','Single video (such as movie)',false,'Hindi','Laal Singh Chaddha','https://www.netflix.com/title/81318083','2024-03-22','day','2024-03-23','day','This movie had been on my watchlist for a while, and I finally decided to watch it. It was a decent watch, covering a personal journey and weaving together a bunch of historical events on the side. I found it a nice watch but not particularly compelling.'),
+  ('Netflix','Single video (such as movie)',true,'Hindi','Murder Mubarak','https://www.netflix.com/title/81572875','2024-03-23','day','2024-03-23','day','I had seen this movie in the Netflix list for the last few days, and when it was featured prominently on the homepage I decided on a whim to watch it after checking that its reviews were decent. It was, as expected, a decent watch.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Doctor Cha','https://www.netflix.com/title/81682438','2023-11-14','day','2024-03-23','day','I started watching this TV show based on positive recommendations such as https://thefangirlverdict.com/2023/07/09/review-doctor-cha/ as well as Netflix promotion of the show. I found it decent but not super-engaging, so I watched it on the backburner until I paused my Netflix subscription in December; later, I watched more of it when I resumed my Netflix subscription. Overall, I enjoyed the show and I agree with the linked reviewthat says: "What the show lacks in terms of nuance and elegance, it more than makes up for, with heart."');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
