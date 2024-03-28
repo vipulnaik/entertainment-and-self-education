@@ -51,7 +51,7 @@ create table consumption(
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
   - 2024-03-23 Doctor Slump (Korean) (Netflix)
-  - 2024-03-27 Laakhon Mein Ek: Season 2 (Hindi) (Amazon Prime)
+  - 2024-03-27-2024-03-28 Laakhon Mein Ek: Season 2 (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
