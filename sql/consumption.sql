@@ -50,7 +50,6 @@ create table consumption(
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
   - 2024-03-23 Doctor Slump (Korean) (Netflix)
-  - 2024-03-29 Suits: Season 3 (English) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -399,7 +398,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Single video (such as movie)',false,'Hindi','Laal Singh Chaddha','https://www.netflix.com/title/81318083','2024-03-22','day','2024-03-23','day','This movie had been on my watchlist for a while, and I finally decided to watch it. It was a decent watch, covering a personal journey and weaving together a bunch of historical events on the side. I found it a nice watch but not particularly compelling.'),
   ('Netflix','Single video (such as movie)',true,'Hindi','Murder Mubarak','https://www.netflix.com/title/81572875','2024-03-23','day','2024-03-23','day','I had seen this movie in the Netflix list for the last few days, and when it was featured prominently on the homepage I decided on a whim to watch it after checking that its reviews were decent. It was, as expected, a decent watch.'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Doctor Cha','https://www.netflix.com/title/81682438','2023-11-14','day','2024-03-23','day','I started watching this TV show based on positive recommendations such as https://thefangirlverdict.com/2023/07/09/review-doctor-cha/ as well as Netflix promotion of the show. I found it decent but not super-engaging, so I watched it on the backburner until I paused my Netflix subscription in December; later, I watched more of it when I resumed my Netflix subscription. Overall, I enjoyed the show and I agree with the linked reviewthat says: "What the show lacks in terms of nuance and elegance, it more than makes up for, with heart."'),
-  ('Netflix','Series (such as TV show or web series)',true,'Hindi','Maamla Legal Hai','https://www.netflix.com/title/81480217','2024-03-29','day','2024-04-06','day','I watched this web series on a whim after seeing it recommended on the Netflix homepage and seeing that it has positive reviews. The web series was quirky and lighthearted and I enjoyed watching it.');
+  ('Netflix','Series (such as TV show or web series)',true,'Hindi','Maamla Legal Hai','https://www.netflix.com/title/81480217','2024-03-29','day','2024-04-06','day','I watched this web series on a whim after seeing it recommended on the Netflix homepage and seeing that it has positive reviews. The web series was quirky and lighthearted and I enjoyed watching it.'),
+  ('Netflix','Series (such as TV show or web series)',false,'English','Suits: Season 3','https://www.netflix.com/title/70195800','2024-03-29','day','2024-04-09','day','I had watched the first two seasons of Suits a few months prior, and wanted to continue watching it gradually (I didn''t want to finish it all at once so that I could continue getting the joy of watching it over a long period of time). I decided to pick it up on a whim in late March and finished it in a little under two weeks, even though I was mainly focused on watching other TV shows. I found it engaging and enjoyable as usual, with nothing too surprising in either the positive or the negative direction.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
