@@ -50,6 +50,7 @@ create table consumption(
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
   - 2024-03-23 Doctor Slump (Korean) (Netflix)
+  - 2024-04-11 Shogun (Japanese with some English) (Hulu)
  */
 
 /* MasterClass stuff */
