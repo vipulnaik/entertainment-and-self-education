@@ -48,7 +48,7 @@ create table consumption(
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
-  - 2024-03-23 Doctor Slump (Korean) (Netflix)
+  - 2024-03-23-2024-04-18 Doctor Slump (Korean) (Netflix)
   - 2024-04-11 Shogun (Japanese with some English) (Hulu)
   - 2024-04-14 ER: Season 2 (English) (Hulu)
  */
