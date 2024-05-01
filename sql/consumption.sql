@@ -51,7 +51,6 @@ create table consumption(
   - 2024-04-11 Shogun (Japanese with some English) (Hulu)
   - 2024-04-14 ER: Season 2 (English) (Hulu)
   - 2024-04-18 Flex X Cop (Korean) (Hulu)
-  - 2024-04-20-2024-04-30 Eye Love You (Japanese/Korean) (Viki)
   - 2024-04-24 ER: Season 3 (English) (Hulu) (started before finishing Season 2 due to playback issues with Season 2 Episode 22)
  */
 
@@ -542,6 +541,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Japanese','Silent','https://www.viki.com/tv/38836c-silent','2023-08-20','day','2024-02-06','day','I found this show on Viki while looking for good Japanese shows to watch. I enjoyed it a lot. It was a little heavy and hard to watch at times, which is why it took me some time to get through to the end. But the heaviness was rewarding to get through. There was also a technical reason the nature of the show made it hard to watch: as a lot of the conversations were carried out through sign language (as the main character is deaf) which requires me to be looking at the screen more carefully so as not to miss subtitles and subtle cues. This meant it was harder watch it when multiplexing with other things, or to look away from the screen for a few seconds (something I have started being able to do with Japanese shows thanks to picking up a little bit of Japanese).'),
   /* 2024 */
   ('Viki','Series (such as TV show or web series)',false,'Japanese','Why Didn''t I Tell You a Million Times?','https://www.viki.com/tv/40280c-why-didnt-i-tell-you-a-million-times','2024-02-18','day','2024-02-24','day','Due to limitations on streaming services while in India, I picked up this TV show that I was still able to access in India. I found it quite engaging and enjoyed watching it.'),
+  ('Viki','Series (such as TV show or web series)',true,'Japanese','Eye Love You','https://www.viki.com/tv/40494c-eye-love-you','2024-04-20','day','2024-04-30','day','I noticed that this show, that I had previously seen advertised on Netflix, was also being shown and advertised on the Viki homepage, so I decided to give it a try. This was a great show. I enjoyed the juxtaposition of Japanese and Korean in the show (which also helped improve my Japanese vocabulary and helped me calibrate my relative knowledge of Japanese and Korean), as well as the acting and the background music. I prioritized watching the show in order to finish it before the pause of my Viki subscription.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
