@@ -51,7 +51,7 @@ create table consumption(
   - 2024-04-11 Shogun (Japanese with some English) (Hulu)
   - 2024-04-14 ER: Season 2 (English) (Hulu)
   - 2024-04-18 Flex X Cop (Korean) (Hulu)
-  - 2024-04-20 Eye Love You (Japanese/Korean) (Viki)
+  - 2024-04-20-2024-04-30 Eye Love You (Japanese/Korean) (Viki)
   - 2024-04-24 ER: Season 3 (English) (Hulu) (started before finishing Season 2 due to playback issues with Season 2 Episode 22)
  */
 
