@@ -46,5 +46,6 @@ include ("backend/ongoingConsumptionList.inc");
 include ("backend/consumptionList.inc");
 
 include_once('anchorjs.inc');
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>
