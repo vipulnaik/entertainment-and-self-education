@@ -20,7 +20,7 @@ print '<h3>Entertainment and self-education portal for Vipul Naik</h3>';
          <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
          <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
          <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
-</span><!-- blank space to prevent cumulative layout shift --></p>
+</span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
 
 <?php
 include_once('preamble.inc');
