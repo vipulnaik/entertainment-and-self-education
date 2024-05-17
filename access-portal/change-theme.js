@@ -1,5 +1,5 @@
 // License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
-// Modified from https://github.com/riceissa/issarice.com/blob/master/static/change-theme.js
+// Source: https://github.com/riceissa/issarice.com/blob/master/static/change-theme.js
 
 // We use a self-executing anonymous function to create a separate namespace
 // called change_theme. This way any functions we define here won't affect
