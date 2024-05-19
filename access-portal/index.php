@@ -12,6 +12,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 include_once("backend/globalVariables/passwordFile.inc");
 print "<body>\n";
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print '<h3>Entertainment and self-education portal for Vipul Naik</h3>';
 ?>
@@ -28,7 +29,6 @@ print '<h4>Table of contents</h4>';
 print '<ul>';
 print '<li><a href="#consumptionSummaryByPrimaryLanguageAndFormat">Consumption summary by primary language and format</a></li>';
 print '<li><a href="#consumptionSummaryByConsumptionVenueAndFormat">Consumption summary by consumption venue and format</a></li>';
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '<li><a href="#consumptionSummaryByConsumptionVenuePrimaryLanguageAndFormat">Consumption summary by consumption venue, primary language, and format</a></li>';
 print '<li><a href="#consumptionSummaryByStartYearAndFormat">Consumption summary by start year and format</a></li>';
 print '<li><a href="#consumptionSummaryByConsumptionVenueStartYearAndFormat">Consumption summary by consumption venue, start year, and format</a></li>';
@@ -47,6 +47,5 @@ include ("backend/ongoingConsumptionList.inc");
 include ("backend/consumptionList.inc");
 
 include_once('anchorjs.inc');
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>
