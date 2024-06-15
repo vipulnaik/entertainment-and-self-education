@@ -50,6 +50,7 @@ create table consumption(
   - 2024-04-11 Shogun (Japanese with some English) (Hulu)
   - 2024-04-14 ER: Season 2 (English) (Hulu)
   - 2024-05-21 ER: Season 5 (English) (Hulu)
+  - 2024-06-15 Revenge of Others (Korean) (Hulu)
  */
 
 /* MasterClass stuff */
