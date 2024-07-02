@@ -52,7 +52,8 @@ create table consumption(
   - 2024-05-21 ER: Season 5 (English) (Hulu)
   - 2024-06-19 Why Her? (Korean) (Hulu)
   - 2024-06-28 Mansion 24 (Kannada) (Hulu) (stopped after some parts seemed over-the-top and I read negative reviews)
-  - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it didn't have subtitles)
+  - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it did not have subtitles)
+  - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
  */
 
 /* MasterClass stuff */
