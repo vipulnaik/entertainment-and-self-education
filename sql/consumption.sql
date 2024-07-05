@@ -54,6 +54,7 @@ create table consumption(
   - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it did not have subtitles)
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
   - 2024-07-03 Moving (Korean) (Hulu)
+  - 2024-07-04 House of the Owl (Japanese) (Hulu)
  */
 
 /* MasterClass stuff */
