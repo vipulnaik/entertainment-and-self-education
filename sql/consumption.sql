@@ -55,6 +55,7 @@ create table consumption(
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
   - 2024-07-03 Moving (Korean) (Hulu)
   - 2024-07-04 House of the Owl (Japanese) (Hulu)
+  - 2024-07-05 ER: Season 6 (English) (Hulu)
  */
 
 /* MasterClass stuff */
