@@ -55,6 +55,7 @@ create table consumption(
   - 2024-07-04 House of the Owl (Japanese) (Hulu)
   - 2024-07-05 ER: Season 6 (English) (Hulu)
   - 2024-07-29 The Bear: Season 3 (Hulu)
+  - 2024-07-30 Betrayal: Season 1 (Hulu)
  */
 
 /* MasterClass stuff */
