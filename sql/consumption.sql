@@ -54,7 +54,8 @@ create table consumption(
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
   - 2024-07-04 House of the Owl (Japanese) (Hulu)
   - 2024-07-05 ER: Season 6 (English) (Hulu)
-  - 2024-07-30 Betrayal: Season 1 (Hulu)
+  - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
+  - 2024-08-08 WeWork: or The Making and Breaking of a $47 Billion Unicorn (English) (Hulu)
  */
 
 /* MasterClass stuff */
