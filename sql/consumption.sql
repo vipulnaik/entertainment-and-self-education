@@ -54,6 +54,7 @@ create table consumption(
   - 2024-07-04 House of the Owl (Japanese) (Hulu)
   - 2024-07-05 ER: Season 6 (English) (Hulu)
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
+  - 2024-08-18 The Good Doctor: Season 1 (English) (Hulu)
  */
 
 /* MasterClass stuff */
