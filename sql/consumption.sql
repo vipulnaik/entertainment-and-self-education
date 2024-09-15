@@ -55,6 +55,7 @@ create table consumption(
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
   - 2024-09-02 Revenant (Korean) (Hulu)
   - 2024-09-03 The Good Doctor: Season 4 (English) (Hulu)
+  - 2024-09-15 Atom's Last Shot (Japanese) (Hulu)
  */
 
 /* MasterClass stuff */
