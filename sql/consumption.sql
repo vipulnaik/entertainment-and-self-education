@@ -53,7 +53,7 @@ create table consumption(
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
   - 2024-07-05 ER: Season 6 (English) (Hulu)
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
-  - 2024-09-02 Revenant (Korean) (Hulu)
+  - 2024-09-02-2024-10-02 Revenant (Korean) (Hulu)
   - 2024-09-15 Atom's Last Shot (Japanese) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
  */
