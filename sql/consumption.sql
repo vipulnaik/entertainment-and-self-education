@@ -55,6 +55,7 @@ create table consumption(
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
   - 2024-09-15 Atom's Last Shot (Japanese) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
+  - 2024-10-04 Wonderful World (Korean) (Hulu)
  */
 
 /* MasterClass stuff */
