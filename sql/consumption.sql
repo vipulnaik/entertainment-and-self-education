@@ -56,6 +56,7 @@ create table consumption(
   - 2024-09-15 Atom's Last Shot (Japanese) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
   - 2024-10-04 Wonderful World (Korean) (Hulu)
+  - 2024-11-08 Aspirant: Season 1 (Hindi) (Amazon Video, but I might switch to YouTube for Season 1 and come back for Season 2 whenever I next resume my Amazon Prime subscription)
  */
 
 /* MasterClass stuff */
