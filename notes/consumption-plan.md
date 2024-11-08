@@ -44,14 +44,16 @@ Some stuff I hope to consume:
 
 Web series:
 
+* Aspirants
+* Big Girls Don't Cry
 * The Rings of Power
 * Mirzapur Season 3
-* Panchayat Season 3
 
 Web series awaiting new season:
 
-* The Family Man
-* Farzi
+* The Family Man (awaiting Season 3)
+* Farzi (awaiting Season 2)
+* Panchayat (awaiting Season 4)
 
 Movies:
 
