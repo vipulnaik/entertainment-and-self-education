@@ -122,10 +122,6 @@ Chinese:
 * Find Yourself
 * Boss & Me
 
-Japanese:
-
-* Alice in Borderland
-
 Indian (Hindi and other languages):
 
 * Goodbye
