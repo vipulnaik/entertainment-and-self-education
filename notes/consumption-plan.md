@@ -113,7 +113,6 @@ Korean:
 
 * Hospital Playlist
 * Hometown Cha Cha Cha
-* Romance is a Bonus Book
 
 (probably many others)
 
