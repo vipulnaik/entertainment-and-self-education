@@ -92,7 +92,7 @@ There's a lot I want to watch on Netflix.
 
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
-* Squid Game Season 2 (probably mid-late 2023)
+* Squid Game Season 2 (releasing December 26, 2024)
 
 All the above are Netflix originals so they won't leave once they are
 on Netflix.
