@@ -59,6 +59,8 @@ create table consumption(
   - 2024-11-08 Big Girls Don't Cry (English/Hindi) (Amazon Video through Prime Subscription -- got to Episode 6 but couldn't complete before the end of the week of Amazon Prime subscription)
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
+  - 2024-11-21 After School Doctor (Japanese) (Netflix)
+  - 2024-11-21 Goodbye (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
