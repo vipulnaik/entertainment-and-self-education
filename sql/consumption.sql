@@ -61,6 +61,7 @@ create table consumption(
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
   - 2024-11-21 Goodbye (Hindi) (Netflix)
+  - 2024-11-23 How to Get Rich (English) (Netflix)
  */
 
 /* MasterClass stuff */
