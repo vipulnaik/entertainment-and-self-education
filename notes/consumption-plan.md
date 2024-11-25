@@ -124,7 +124,6 @@ Chinese:
 
 Indian (Hindi and other languages):
 
-* Goodbye
 * Delhi Crime Season 2
 * Race 2
 * Baaghi
