@@ -101,7 +101,6 @@ Stuff that is ready for me to watch, that I have not yet started:
 
 English (US or UK):
 
-* Bridgerton Season 3
 * You Season 4
 * Inventing Anna
 * Breaking Bad
