@@ -60,7 +60,7 @@ create table consumption(
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
-  - 2024-11-23 How to Get Rich (English) (Netflix)
+  - 2024-11-23 - 2024-12-02 How to Get Rich (English) (Netflix)
   - 2024-11-25 Suits: Season 4 (English) (Netflix)
  */
 
