@@ -62,6 +62,7 @@ create table consumption(
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
   - 2024-12-04 Amaran (Kannada) (Netflix)
   - 2024-12-07 OKURA-Cold Case Investigation (Japanese) (Netflix)
+  - 2024-12-26 Squid Game: Season 2 (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
