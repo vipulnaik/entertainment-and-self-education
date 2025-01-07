@@ -46,7 +46,6 @@ create table consumption(
   - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
-  - 2024-03-23 Divorce Attorney Shin (Korean) (Netflix)
   - 2024-04-11 Shogun (Japanese with some English) (Hulu)
   - 2024-06-28 Mansion 24 (Kannada) (Hulu) (stopped after some parts seemed over-the-top and I read negative reviews)
   - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it did not have subtitles)
@@ -62,6 +61,7 @@ create table consumption(
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
   - 2024-12-04 Amaran (Kannada) (Netflix)
   - 2024-12-07 OKURA-Cold Case Investigation (Japanese) (Netflix)
+  - 2025-01-06 Invisible (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -420,7 +420,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'English','Suits: Season 4','https://www.netflix.com/title/70195800','2024-11-25','day','2024-12-05','day','I had watched and enjoyed the first three seasons, and had found the show very good at providing light entertainment, and my plan was to watch the seasons gradually over time to spread out this light entertainment. Now that it was around 7 months since Season 3, I picked up and watched Season 4. While I initially planned to go slow, I got quite hooked to the show toward the end and ended up finishing it fairly quickly. Overall, I think this season continues the trend of providing good light entertainment.'),
   ('Netflix','Series (such as TV show or web series)',false,'Hindi','IC 814: The Kandahar Hijack','https://www.netflix.com/title/81265803','2024-12-22','day','2024-12-24','day','I saw this web series advertised on the Netflix homepage, and based on positive reviews and an intriguing snippet, I decided to watch it. I was hooked to the show, and ended up finishing it in just three days, which is unusual for me these days. Overall, I found it pretty good.'),
   ('Netflix','Series (such as TV show or web series)',true,'Korean','Squid Game: Season 2','https://www.netflix.com/title/81040344','2024-12-26','day','2024-12-27','day','Having watched Season 1 a while back, and having heard in the news that Season 2 was scheduled to be released on 2024-12-26, I was ready to watch Season 2 the day it landed on Netflix. While I was fairly hooked to the season, I was still able to keep the watching of it mostly to meals, with a bit of multiplexing outside meals. Overall, I enjoyed it. I do feel it has less of the deep scenes of Season 1 (where the character development could be felt more clearly) but more moving parts in its plot; it would have been difficult to just mimic Season 1 again given the movement of the narrative arc. I''ll be interested in seeing how Season 3 ties up the loose ends.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Japanese','Anti-Hero','https://www.netflix.com/title/81766260','2024-12-28','day','2025-01-05','day','I saw this show recommended to me on the Netflix home page. I watched this show as part of my general effort to learn Japanese. In the past, I''ve found that legal shows are pretty good for picking up vocabulary, and this show proved to be good for that purpose. Overall, though a stretch at times, the show was pretty riveting and a pleasure to watch.');
+  ('Netflix','Series (such as TV show or web series)',false,'Japanese','Anti-Hero','https://www.netflix.com/title/81766260','2024-12-28','day','2025-01-05','day','I saw this show recommended to me on the Netflix home page. I watched this show as part of my general effort to learn Japanese. In the past, I''ve found that legal shows are pretty good for picking up vocabulary, and this show proved to be good for that purpose. Overall, though a stretch at times, the show was pretty riveting and a pleasure to watch.'),
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Divorce Attorney Shin','https://www.netflix.com/title/81671939','2024-03-23','day','2025-01-06','day','I don''t remember the exact impetus for watching the show, but I believe it was due to generally positive reviews. I got through several episodes but then paused consumption when I paused my Netflix subscription. Later, after resuming my Netflix subscription and finishing other shows I wanted to catch up with first, I finished this show. Overall, I found it a great watch, albeit it was more of a slow burn than a riveting show.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
