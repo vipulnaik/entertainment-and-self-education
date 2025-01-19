@@ -59,7 +59,6 @@ create table consumption(
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
-  - 2024-12-07 - 2025-01-18 OKURA-Cold Case Investigation (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -421,7 +420,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',false,'Japanese','Anti-Hero','https://www.netflix.com/title/81766260','2024-12-28','day','2025-01-05','day','I saw this show recommended to me on the Netflix home page. I watched this show as part of my general effort to learn Japanese. In the past, I''ve found that legal shows are pretty good for picking up vocabulary, and this show proved to be good for that purpose. Overall, though a stretch at times, the show was pretty riveting and a pleasure to watch.'),
   ('Netflix','Series (such as TV show or web series)',false,'Korean','Divorce Attorney Shin','https://www.netflix.com/title/81671939','2024-03-23','day','2025-01-06','day','I don''t remember the exact impetus for watching the show, but I believe it was due to generally positive reviews. I got through several episodes but then paused consumption when I paused my Netflix subscription. Later, after resuming my Netflix subscription and finishing other shows I wanted to catch up with first, I finished this show. Overall, I found it a great watch, albeit it was more of a slow burn than a riveting show.'),
   ('Netflix','Single video (such as movie)',true,'Kannada','Amaran (Kannada)','https://www.netflix.com/title/81728596','2024-12-04','day','2025-01-10','day','I saw this movie recommended on the Netflix home page, and started watching it as a way to continue exposing myself to Kannada. I watched it in small bits and pieces for over a month. I enjoyed the movie and it did help me review my vocabulary.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Japanese','Invisible','https://www.netflix.com/title/81649819','2025-01-06','day','2025-01-17','day','I watched this TV show based on a Netflix home page recommendation. I enjoyed it quite a bit, and it helped me improve and get more practice with Japanese vocabulary.');
+  ('Netflix','Series (such as TV show or web series)',false,'Japanese','Invisible','https://www.netflix.com/title/81649819','2025-01-06','day','2025-01-17','day','I watched this TV show based on a Netflix home page recommendation. I enjoyed it quite a bit, and it helped me improve and get more practice with Japanese vocabulary.'),
+  ('Netflix','Series (such as TV show or web series)',true,'Japanese','Okura: Cold Case Investigation','https://www.netflix.com/title/81932465','2024-12-07','day','2025-01-18','day','I started watching this TV show based on a Netflix home page recommendation. My watching was interrupted by my Netflix subscription pause, but I was so eager to finish that I resumed my Netflix subscription earlier than intended. I had to wait for the las few episodes to release on Netflix in order to finish watching it. Luckily, the last episode released on Netflix the day before the start of my next pause.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
