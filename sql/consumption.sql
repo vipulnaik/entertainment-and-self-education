@@ -59,7 +59,7 @@ create table consumption(
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
-  - 2024-12-07 OKURA-Cold Case Investigation (Japanese) (Netflix)
+  - 2024-12-07 - 2025-01-18 OKURA-Cold Case Investigation (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
