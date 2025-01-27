@@ -59,6 +59,7 @@ create table consumption(
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
   - 2025-01-25 Light Shop (Korean) (Hulu)
+  - 2025-01-26 Tomorrow, I'll Be Someone's Girlfriend (Japanese) (Hulu)
  */
 
 /* MasterClass stuff */
