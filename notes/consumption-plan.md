@@ -44,8 +44,7 @@ Some stuff I hope to consume:
 
 Web series:
 
-* Aspirants
-* Big Girls Don't Cry
+* Aspirants (Season 2, awaiting Season 3)
 * The Rings of Power
 * Mirzapur Season 3
 
@@ -65,19 +64,7 @@ Movies:
 * War
 * Lamhe
 
-## Disney+
-
-Subscribed as of 2023-06-01 onward.
-
-Stuff I might want to watch:
-
-Disney+:
-
-* Star Wars (Disney+)
-* Glee
-* American Born Chinese
-
-Hulu:
+## Hulu
 
 * Lincoln
 * The Great
@@ -92,7 +79,7 @@ There's a lot I want to watch on Netflix.
 
 Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
 
-* Squid Game Season 2 (releasing December 26, 2024)
+* Squid Game Season 3 (estimated release September 2025)
 
 All the above are Netflix originals so they won't leave once they are
 on Netflix.
