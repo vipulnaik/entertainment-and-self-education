@@ -53,7 +53,6 @@ create table consumption(
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
   - 2024-10-04 Wonderful World (Korean) (Hulu)
-  - 2024-11-08 Aspirant: Season 1 (Hindi) (Amazon Video, but will switch to YouTube to finish subscription)
   - 2024-11-08 Big Girls Don't Cry (English/Hindi) (Amazon Video through Prime Subscription -- got to Episode 6 but couldn't complete before the end of the week of Amazon Prime subscription)
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
@@ -788,6 +787,10 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
   ('YouTube','Single video (such as movie)','Hindi','Pyaar Impossible','https://www.youtube.com/watch?v=0lsTWqapl8o','2012-08-08','month','2012-08-12','month','I rented this movie from YouTube on 2012-08-08 and the rental expired on 2012-08-12. I do not remember exactly when I watched it.'),
   ('YouTube','Single video (such as movie)','Hindi','Befikre','https://www.youtube.com/watch?v=_TGsB_Cwo4I','2018-04-24','month','2018-04-30','month','I rented this movie from YouTube on 2018-04-24 and the rental expired on 2018-05-24. I believe I watched the movie within a few days of renting it.'),
   ('YouTube','Single video (such as movie)','Hindi','The Accidental Prime Minister','https://www.youtube.com/watch?v=H7JqAM8_Qeo','2023-02-05','day','2023-02-06','day','I watched this movie on YouTube for free with ads (this movie has been put up by its production company on YouTube to watch free with ads). The movie, starring Anupam Kher and Akshaye Khanna, is about prime minister Manmohan Singh''s tenure. I found it quite interesting and it led me to read more about the events of that period.');
+
+/* YouTube series */
+insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
+  ('YouTube','Series (such as TV show or web series)',false,'Hindi','Aspirants: Season 1','https://www.youtube.com/playlist?list=PLTB0eCoUXErY_KvRNKOERQtYSDPjOb8jw','2024-11-08','day','2025-01-29','day','I started watching this web series on Amazon Prime, during a 1-week subscription. However, I discovered that this season is available for free on YouTube. So I decided to focus my limited Amazon Prime time on other shows, with the intent of finishing the season on YouTube, and watching Season 2 on Amazon Prime some time later when subscribed to it. In January, after pausing my Netflix subscription and wrapping up a couple of shows on Viki and Hulu respectively, I resumed watching this season, and finished it within a few days. I found it gripping, and really enjoyed the theme song https://www.youtube.com/watch?v=EJf1x51LvMY that may have played a role in hooking me to the show.');
 
 /* YouTube videos not tied to MasterClass/Viki/Netflix */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
