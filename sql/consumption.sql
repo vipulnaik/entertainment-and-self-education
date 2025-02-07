@@ -58,7 +58,7 @@ create table consumption(
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
   - 2025-01-26 Tomorrow, I'll Be Someone's Girlfriend (Japanese) (Hulu)
-  - 2025-01-30 Aspirants: Season 2 (Hindi) (Amazon Prime)
+  - 2025-02-06 Vigilante (Korean) (Hulu)
  */
 
 /* MasterClass stuff */
@@ -684,7 +684,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Laakhon Mein Ek: Season 1','https://www.amazon.com/gp/video/detail/B076HBKJX4/','2024-03-26','day','2024-03-27','day','I had a week of Amazon Prime subscription available as I got the subscription to order some packages, so I checked what is available to watch. I saw this TV show and also saw that it had positive online reviews, so I decided to watch it. I found it reasonably good; it matched my expectations. It was a nice contrast to Kota Factory, that was about an ostensibly similar topic but addressing a very different student profile.'),
   ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Laakhon Mein Ek: Season 2','https://www.amazon.com/gp/video/detail/B07NSMYPD5/','2024-03-27','day','2024-03-28','day','I watched this right after finishing Season 1. Although the two seasons are not set in the same continuity, and are about completely different storylines, I was sufficiently engaged with the first season to try out the second. I found this season pretty well-executed and was engaged by the storyline. It showed how corruption and dysfunction can emerge in a system even when every individual seems to be operating reasonably given the constraints.'),
   /* Prime subscription for a week */
-  ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Panchayat: Season 3','https://www.amazon.com/gp/video/detail/B0CVFN6H51/','2024-11-05','day','2024-11-07','day','This season had been on the list of things I wanted to watch whenever I next renewed my Amazon Prime subscription. So, I started watching it as soon as I got a week of Amazon Prime to get a discount on a purchase. I enjoyed the season though it does take a darker turn toward the end than the past two seasons.');
+  ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Panchayat: Season 3','https://www.amazon.com/gp/video/detail/B0CVFN6H51/','2024-11-05','day','2024-11-07','day','This season had been on the list of things I wanted to watch whenever I next renewed my Amazon Prime subscription. So, I started watching it as soon as I got a week of Amazon Prime to get a discount on a purchase. I enjoyed the season though it does take a darker turn toward the end than the past two seasons.'),
+  /* Prime subscription starting 2025-01-30 */
+  ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Aspirants: Season 2','https://www.amazon.com/gp/video/detail/B0C9QM8774/','2025-01-30','day','2025-02-06','day','After finishing Season 1 on YouTube, I decided to get Amazon Prime to watch Season 2. I qualified for a free month of Amazon Prime, so I got the subscription started for free. I consumed Season 2 at a moderate pace, while also watching Light Shop on Hulu in parallel. Overall, I enjoyed the season; it was good, though in ways that were somewhat different from Season 1.');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
