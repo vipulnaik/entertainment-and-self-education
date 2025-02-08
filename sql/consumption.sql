@@ -53,7 +53,6 @@ create table consumption(
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
   - 2024-10-04 Wonderful World (Korean) (Hulu)
-  - 2024-11-08 Big Girls Don't Cry (English/Hindi) (Amazon Video through Prime Subscription -- got to Episode 6 but couldn't complete before the end of the week of Amazon Prime subscription)
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
@@ -686,7 +685,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   /* Prime subscription for a week */
   ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Panchayat: Season 3','https://www.amazon.com/gp/video/detail/B0CVFN6H51/','2024-11-05','day','2024-11-07','day','This season had been on the list of things I wanted to watch whenever I next renewed my Amazon Prime subscription. So, I started watching it as soon as I got a week of Amazon Prime to get a discount on a purchase. I enjoyed the season though it does take a darker turn toward the end than the past two seasons.'),
   /* Prime subscription starting 2025-01-30 */
-  ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Aspirants: Season 2','https://www.amazon.com/gp/video/detail/B0C9QM8774/','2025-01-30','day','2025-02-06','day','After finishing Season 1 on YouTube, I decided to get Amazon Prime to watch Season 2. I qualified for a free month of Amazon Prime, so I got the subscription started for free. I consumed Season 2 at a moderate pace, while also watching Light Shop on Hulu in parallel. Overall, I enjoyed the season; it was good, though in ways that were somewhat different from Season 1.');
+  ('Amazon Video','Series (such as TV show or web series)',false,'Hindi','Aspirants: Season 2','https://www.amazon.com/gp/video/detail/B0C9QM8774/','2025-01-30','day','2025-02-06','day','After finishing Season 1 on YouTube, I decided to get Amazon Prime to watch Season 2. I qualified for a free month of Amazon Prime, so I got the subscription started for free. I consumed Season 2 at a moderate pace, while also watching Light Shop on Hulu in parallel. Overall, I enjoyed the season; it was good, though in ways that were somewhat different from Season 1.'),
+  ('Amazon Video','Series (such as TV show or web series)',false,'English/Hindi','Big Girls Don''t Cry','https://www.amazon.com/Big-Girls-Dont-Cry-Season/dp/B0CTXS6DFD','2024-11-08','day','2025-02-07','day','I started watching this TV show when I got a 1-week subscription to Amazon Prime, after finishing Panchayat Season 3. I only got as far as Episode 6 (out of 7 episodes) when my subscription ran out. After I resumed my Amazon Prime subscription of 2025-01-30 and finished watching Aspirants Season 2, I decided to wrap up this show. Overall, I enjoyed watching the show and following the plot lines for its ensemble cast of characters, even though parts of it felt a bit forced to me (including some of the "feminist" angles).');
 
 /* HBO stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
