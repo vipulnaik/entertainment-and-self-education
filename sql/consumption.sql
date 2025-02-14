@@ -59,6 +59,8 @@ create table consumption(
   - 2025-01-26 Tomorrow, I'll Be Someone's Girlfriend (Japanese) (Hulu)
   - 2025-02-06 Vigilante (Korean) (Hulu)
   - 2025-02-08 Hostel Daze: Season 1 (Hindi) (Amazon Prime)
+  - 2025-02-13 Adamas (Korean) (Hulu)
+  - 2025-02-13 Paatal Lok: Season 2 (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
