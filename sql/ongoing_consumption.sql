@@ -7,6 +7,11 @@ create table ongoing_consumption(
   notes varchar(2000)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4;
 
+/* TODO add these after getting more insight into the channels and my watching experience of them; also update https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/health-learning-strategy.md#medical-school-curriculum-education
+  - Dr. Najeeb lectures starting 2025-01-16 with micturition reflex
+  - Medicosis starting 2025-02-20 with c-reactive protein
+ */
+
 insert into ongoing_consumption(format, primary_language, item, url, notes) values
   ('Series (such as TV show or web series)','English','Gilmore Girls','https://www.amazon.com/gp/video/detail/B002DEI4NG/','Starting around 2020 or 2021, I''ve been rewatching Gilmore Girls (seasons 1 through 7, as well as A Year in the life) off and on. I have done both systematic start-to-end rewatches and random watching of specific episodes that I like. I find Gilmore Girls relaxing to watch. I usually don''t watch it during meals, but often watch it when doing somewhat boring and not-fully-engaging work, to provide a little additional stimulation without being distracting (because I know the storyline very well). I own all seasons but not A Year in the Life. So I can watch anything from seasons 1 through 7 whenever I wish, but for A Year in the Life I can only watch it when I''m subscribed to Netflix.'),
   ('Single video (such as movie)','Hindi','Dilwale Dulhania Le Jayenge',NULL,'I bought the VCD for this in 2006 and copied it to disk around 2007, 2008, or 2009 back when I was using a Windows machine. I have watched parts of this classic movie off and on. I didn''t watch it between 2014 and 2019 after I switched to a Macbook. I loaded it up again on my Macbook at the end of 2019 and then watched it a bit in 2020. In 2022, after getting a new, bigger Macbook, I resumed watching it. It''s very familiar to me. I usually don''t watch it during meals, but often watch it when doing somewhat boring and not-fully-engaging work, to provide a little additional stimulation without being distracting (because I know the storyline very well). See https://dontcallitbollywood.com/2017/06/09/dilwale-dulhania-le-jayenge-scene-by-scene-analysis-in-exhaustive-detail-index/ (not by me) for an extensive scene-by-scene review of a large part of the movie.'),
