@@ -62,6 +62,8 @@ create table consumption(
   - 2025-02-13 Adamas (Korean) (Hulu)
   - 2025-02-17 Permanent Roommates (Hindi) (Amazon Prime)
   - 2025-02-22 Bambai Meri Jaan (Hindi) (Amazon Prime)
+  - 2025-03-09 Workin' Moms (English) (Netflix)
+  - 2025-03-09 The Trauma Code: Heroes On Call (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
