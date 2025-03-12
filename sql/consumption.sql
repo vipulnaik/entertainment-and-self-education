@@ -64,7 +64,7 @@ create table consumption(
   - 2025-02-22 Bambai Meri Jaan (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
   - 2025-03-09 The Trauma Code: Heroes On Call (Korean) (Netflix)
-  - 2025-03-11 Aaeo (Japanese) (Netflix)
+  - 2025-03-11 Aaro (Japanese) (Netflix)
   - 2025-03-11 Delhi Crime: Season 2 (Hindi) (Netflix)
  */
 
