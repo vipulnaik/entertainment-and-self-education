@@ -110,7 +110,6 @@ Chinese:
 
 Indian (Hindi and other languages):
 
-* Delhi Crime Season 2
 * Race 2
 * Baaghi
 * Gangubai Kathiawadi
