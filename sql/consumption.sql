@@ -65,6 +65,7 @@ create table consumption(
   - 2025-03-09 Workin' Moms (English) (Netflix)
   - 2025-03-11 Aaro (Japanese) (Netflix)
   - 2025-03-15 Ghost Doctor (Korean) (Netflix)
+  - 2025-03-16 Hyena (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
