@@ -66,6 +66,7 @@ create table consumption(
   - 2025-03-11-2025-03-23 Aaro (Japanese) (Netflix)
   - 2025-03-15 Ghost Doctor (Korean) (Netflix)
   - 2025-03-16 Hyena (Korean) (Netflix)
+  - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
