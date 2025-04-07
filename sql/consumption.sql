@@ -64,7 +64,7 @@ create table consumption(
   - 2025-02-22 Bambai Meri Jaan (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
   - 2025-03-11-2025-03-23 Aaro (Japanese) (Netflix)
-  - 2025-03-15 Ghost Doctor (Korean) (Netflix)
+  - 2025-03-15-2025-04-06 Ghost Doctor (Korean) (Netflix)
   - 2025-03-16 Hyena (Korean) (Netflix)
   - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
  */
