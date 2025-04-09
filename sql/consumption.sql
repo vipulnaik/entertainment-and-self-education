@@ -67,6 +67,7 @@ create table consumption(
   - 2025-03-15-2025-04-06 Ghost Doctor (Korean) (Netflix)
   - 2025-03-16 Hyena (Korean) (Netflix)
   - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
+  - 2025-04-08 The Handmaid's Tale (English) (Hulu)
  */
 
 /* MasterClass stuff */
