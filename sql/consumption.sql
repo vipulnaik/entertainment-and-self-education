@@ -69,6 +69,8 @@ create table consumption(
   - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
   - 2025-04-08 The Handmaid's Tale: Season 6 (English) (Hulu)
   - 2025-04-16-2025-05-01 Hyper Knife (Korean) (Hulu)
+  - 2025-05-10 Vadhuvu (Kannada) (Hulu)
+  - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
  */
 
 /* MasterClass stuff */
