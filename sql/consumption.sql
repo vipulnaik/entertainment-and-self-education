@@ -67,6 +67,7 @@ create table consumption(
   - 2025-04-08 The Handmaid's Tale: Season 6 (English) (Hulu)
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
+  - 2025-05-15 Mr. Queen (Korean) (Viki)
  */
 
 /* MasterClass stuff */
