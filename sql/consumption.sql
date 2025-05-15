@@ -67,7 +67,6 @@ create table consumption(
   - 2025-04-08 The Handmaid's Tale: Season 6 (English) (Hulu)
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
-  - 2025-05-15-2025-05-15 99.9 Criminal Lawyer SPECIAL 2021: New Encounters (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
@@ -589,7 +588,9 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Single video (such as movie)',false,'Korean','Train to Busan','https://www.viki.com/movies/37058c-train-to-busan','2021-08-31','day','2021-08-31','day','I picked this up as I was looking for a movie to watch with only two days left before the pausing of my Viki subscription. I selected it based on high ratings and reviews. I was hooked to the movie for the great portrayal of the very difficult situation of a zombie apocalypse. See https://thefangirlverdict.com/2022/06/10/flash-review-train-to-busan-movie/ for a thoughtful review (written long after I had watched the movie).'),
   ('Viki','Single video (such as movie)',false,'Korean','A Taxi Driver','https://www.viki.com/movies/37065c-a-taxi-driver','2021-09-01','day','2021-09-01','day','I picked this up as I was looking for a movie to watch with only one day left before the pausing of my Viki subscription. I enjoyed this fictionalized portrayal of real-life events during Korea''s 1980 Gwangju Uprising; Wikipedia explains at https://en.wikipedia.org/wiki/A_Taxi_Driver#Fictionalized_elements what elements are fictional.'),
   /* 2022 */
-  ('Viki','Single video (such as movie)',false,'Korean','Mal. Mo. E – The Secret Mission','https://www.viki.com/movies/37168c-mal-mo-e-the-secret-mission','2022-01-08','day','2022-01-09','day','I watched this movie after noticing it in Viki''s highly-rated list. It had similar vibes as other historically inspired Korean movies I had watched on Viki, such as Juror 8, The Attorney, and A Taxi Driver. Some of the Korean/Japanese conflict was reminiscent of Bridal Mask and Chicago Typewriter, though the more literary focus of this resistance made it more palatable to me.');
+  ('Viki','Single video (such as movie)',false,'Korean','Mal. Mo. E – The Secret Mission','https://www.viki.com/movies/37168c-mal-mo-e-the-secret-mission','2022-01-08','day','2022-01-09','day','I watched this movie after noticing it in Viki''s highly-rated list. It had similar vibes as other historically inspired Korean movies I had watched on Viki, such as Juror 8, The Attorney, and A Taxi Driver. Some of the Korean/Japanese conflict was reminiscent of Bridal Mask and Chicago Typewriter, though the more literary focus of this resistance made it more palatable to me.'),
+  /* 2025 */
+  ('Viki','Single video (such as movie)',false,'Japanese','99.9 Criminal Lawyer SPECIAL 2021: New Encounters','https://www.viki.com/movies/40154c-999-criminal-lawyer-special-2021-new-encounters','2025-05-15','day','2025-05-15','day','Having watched the two seasons of 99.9 Criminal Lawyer, I had intended to watch this special whenever I next got a VikiPass subscription. I ended up getting the subscription on 2025-05-15, and watched the whole movie right after getting the subscription, while multiplexing with some day job work. I enjoyed it quite a bit, but it was much shorter than the seasons so less total enjoyment.');
 
 /* Viki rewatches */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
