@@ -68,6 +68,7 @@ create table consumption(
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
   - 2025-05-15 Mr. Queen (Korean) (Viki)
+  - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
