@@ -69,6 +69,7 @@ create table consumption(
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
   - 2025-05-15 Mr. Queen (Korean) (Viki)
   - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
+  - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
  */
 
 /* MasterClass stuff */
