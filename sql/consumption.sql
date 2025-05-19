@@ -70,6 +70,7 @@ create table consumption(
   - 2025-05-15 Mr. Queen (Korean) (Viki)
   - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
+  - 2025-05-19 Study Group (Korean) (Viki)
  */
 
 /* MasterClass stuff */
