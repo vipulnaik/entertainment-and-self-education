@@ -70,7 +70,6 @@ create table consumption(
   - 2025-05-15 Mr. Queen (Korean) (Viki)
   - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
-  - 2025-05-19 Study Group (Korean) (Viki)
  */
 
 /* MasterClass stuff */
@@ -579,6 +578,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',true,'Japanese','Eye Love You','https://www.viki.com/tv/40494c-eye-love-you','2024-04-20','day','2024-04-30','day','I noticed that this show, that I had previously seen advertised on Netflix, was also being shown and advertised on the Viki homepage, so I decided to give it a try. This was a great show. I enjoyed the juxtaposition of Japanese and Korean in the show (which also helped improve my Japanese vocabulary and helped me calibrate my relative knowledge of Japanese and Korean), as well as the acting and the background music. I prioritized watching the show in order to finish it before the pause of my Viki subscription.'),
   /* 2025 */
   ('Viki','Series (such as TV show or web series)',false,'Japanese','99.9 Criminal Lawyer: Season 2','https://www.viki.com/tv/40151c-999-criminal-lawyer-season-2','2025-01-20','day','2025-01-25','day','I saw a comment in a Reddit thread about both seasons of 99.9 Criminal Lawyer being available on Viki. I had watched the first season a little over a year ago, and enjoyed it a lot; at the time, the second season had not been on Viki. On seeing that a second season was available, I went to Viki to check it out. I did not have a Viki Pass subscription at this time, and was not planning to get one ight now, but fortunately this show was available for free with ads, so I watched it. I enjoyed it about as much as Season 1.'),
+  ('Viki','Series (such as TV show or web series)',false,'Korean','Study Group','https://www.viki.com/tv/40913c-study-group','2025-05-19','day','2025-05-26','day','I had seen ads for this show from Viki on YouTube, and the review https://thefangirlverdict.com/2025/04/06/flash-review-study-group/ was positive, so I ended up watching the show shortly after getting a Viki subscription. I enjoyed the show quite a bit, though the last few episodes had a lot of violence (as the review also points out).'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
