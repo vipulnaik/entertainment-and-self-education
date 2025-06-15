@@ -70,6 +70,7 @@ create table consumption(
   - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-06-13 Criminal Justice: A Family Matter (Kannada) (Hulu)
+  - 2025-06-14 Ginny and Georgia: Season 3 (English) (Netflix)
  */
 
 /* MasterClass stuff */
