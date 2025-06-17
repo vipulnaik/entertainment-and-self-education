@@ -71,7 +71,6 @@ create table consumption(
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-06-13 Criminal Justice: A Family Matter (Kannada) (Hulu)
   - 2025-06-14 Ginny and Georgia: Season 3 (English) (Netflix)
-  - 2025-06-16 Bullet Train Explosion (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -438,7 +437,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Netflix','Series (such as TV show or web series)',true,'Korean','The Trauma Code: Heroes on Call','https://www.netflix.com/title/81677629','2025-03-09','day','2025-03-13','day','I started watching this show based on a Netflix home page recommendation. It had some of the vibes of Romantic Doctor Kim, though it was a shorter and more fast-paced show and had less overall depth. I enjoyed watching it and following along the medical cases with my improved knowledge of medicine.'),
   ('Netflix','Series (such as TV show or web series)',false,'Hindi','Delhi Crime: Season 2','https://www.netflix.com/title/81076756','2025-03-11','day','2025-03-15','day','I had enjoyed Season 1 a long time ago (in 2019). Later, I had noticed a while back that Season 2 of this show is now available, and intended to watch it at some point when subscribed to Netflix (it had been in my consumption plan since I added it in https://github.com/vipulnaik/entertainment-and-self-education/commit/d0e98945be2682aafa043879ca6efb129c3d2af3 on 2022-12-26). I ultimately started watching it after reviving my Netflix subscription in March 2025. I initially proceeded slowly with it but soon got hooked and finished most of the latter half of this short show in the evening on 2025-03-14.'),
   ('Netflix','Series (such as TV show or web series)',false,'Japanese','AARO: All-Domain Anomaly Resolution Office','https://www.netflix.com/title/81932411','2025-03-11','day','2025-03-23','day','I was looking for Japanese shows to watch to continue improving my Japanese. I had heard positive reviews of this show, so I decided to watch it. It took me a little while to get into it, but I got reasonably hooked to the show after the first few episodes. It was a short show so I ended up finishing it in about two weeks.'),
-  ('Netflix','Series (such as TV show or web series)',false,'Korean','Ghost Doctor','https://www.netflix.com/title/81587524','2025-03-15','day','2025-04-06','day','I started watching this TV show based on positive reviews. It took me a little time to get into it but after a while I was totally hooked to it. I enjoyed the latter half a lot.');
+  ('Netflix','Series (such as TV show or web series)',false,'Korean','Ghost Doctor','https://www.netflix.com/title/81587524','2025-03-15','day','2025-04-06','day','I started watching this TV show based on positive reviews. It took me a little time to get into it but after a while I was totally hooked to it. I enjoyed the latter half a lot.'),
+  ('Netflix','Single video (such as movie)',false,'Japanese','Bullet Train Explosion','https://www.netflix.com/title/81629968','2025-06-16','day','2025-06-17','day','I had watched snippets of this movie in a recent flight because another person near me watched the movie on a tablet (downloaded offline from Netflix), so I was broadly aware of its plot. When I saw the movie on the Netflix home page, I recognized it and decided to give it a watch. It was roughly as good as expected.');
 
 /* Viki stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
