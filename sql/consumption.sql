@@ -71,6 +71,7 @@ create table consumption(
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-06-13 Criminal Justice: A Family Matter (Kannada) (Hulu)
   - 2025-06-14 Ginny and Georgia: Season 3 (English) (Netflix)
+  - 2025-06-16 Bullet Train Explosion (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
