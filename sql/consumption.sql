@@ -71,6 +71,7 @@ create table consumption(
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-06-13 Criminal Justice: A Family Matter (Kannada) (Hulu)
   - 2025-06-24 Our Unwritten Seoul (Korean) (Netflix)
+  - 2025-06-27 Squid Game: Season 3 (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
