@@ -68,7 +68,7 @@ create table consumption(
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
   - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
-  - 2025-06-13 Criminal Justice: A Family Matter (Kannada) (Hulu)
+  - 2025-06-13-2025-07-03 Criminal Justice: A Family Matter (Kannada) (Hulu) (last episode watched party in Kannada but then rewatched and completed in Hindi because Kannada lacked subtitles)
   - 2025-06-24 Our Unwritten Seoul (Korean) (Netflix)
  */
 
