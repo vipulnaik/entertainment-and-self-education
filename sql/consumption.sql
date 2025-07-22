@@ -11,7 +11,10 @@ create table consumption(
   end_date date,
   end_date_precision enum('day','month','year'),
   rewatch boolean default false,
-  notes varchar(2000)
+  notes varchar(2000),
+  check(start_date <= end_date or start_date_precision != 'day' or end_date_precision != 'day'),
+  check(year(start_date) <= year(end_date)),
+  check(year(start_date) < year(end_date) or month(start_date) <= month(end_date))
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4;
 
 /* Notes on starts:
@@ -830,7 +833,7 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
   ('YouTube','Single video (such as movie)','English','Never Split the Difference: Chris Voss: Talks at Google','https://www.youtube.com/watch?v=guZa7mQV1l0','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
   ('YouTube','Single video (such as movie)','English','Master the Art of Negotiating in Business and Life: Lewis Howes','https://www.youtube.com/watch?v=pd7tjnVYMzY','2020-05-23','day','2020-05-23','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
-  ('YouTube','Single video (such as movie)','English','The Knowledge Project #27 — Chris Voss','https://www.youtube.com/watch?v=yHjUApypNsU','2020-05-24','day','2020-04-24','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
+  ('YouTube','Single video (such as movie)','English','The Knowledge Project #27 — Chris Voss','https://www.youtube.com/watch?v=yHjUApypNsU','2020-05-24','day','2020-05-24','day','YouTube related video recommendation for me after watching other Chris Voss videos'),
   ('YouTube','Single video (such as movie)','English','Conceived in Liberty, Volume 5 | Patrick Newman','https://www.youtube.com/watch?v=duzmFvKGJU0','2020-07-26','day','2020-07-26','day','YouTube video discovered via Bryan Caplan''s blog post https://www.econlib.org/rothbards-conceived-in-liberty-the-new-republic/'),
   ('YouTube','Single video (such as movie)','English','Should Libertarians Vote for Biden, Jorgensen, or Trump? A Soho Forum Debate','https://reason.com/video/should-libertarians-vote-for-biden-jorgensen-or-trump-a-soho-forum-debate/','2020-08-01','day','2020-08-01','day','A Soho Forum debate that I came across'),
   ('YouTube','Single video (such as movie)','English','Is the Criminal Justice System Racist? A Soho Forum Debate','https://reason.com/video/is-the-criminal-justice-system-racist-a-soho-forum-debate/','2020-08-01','day','2020-08-01','day','A Soho Forum debate I viewed after getting interested in Soho Forum'),
