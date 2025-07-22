@@ -52,11 +52,9 @@ Web series awaiting new season:
 
 * The Family Man (awaiting Season 3)
 * Farzi (awaiting Season 2)
-* Panchayat (awaiting Season 4)
 
 Movies:
 
-* Kantara (Kannada)
 * Sita Ramam
 * Mujhse Dosti Karoge
 * Ek Tha Tiger
