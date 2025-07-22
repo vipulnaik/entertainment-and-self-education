@@ -73,6 +73,7 @@ create table consumption(
   - 2025-07-08 Better Late Than Single (Korean) (Netflix)
   - 2025-07-16 Family by Choice (Korean) (Viki)
   - 2025-07-21 Panchayat: Season 4 (Hindi) (Amazon Prime)
+  - 2025-07-22 Diya (Kannada) (Amazon Prime)
  */
 
 /* MasterClass stuff */
