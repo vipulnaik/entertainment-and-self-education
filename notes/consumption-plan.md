@@ -44,12 +44,12 @@ Some stuff I hope to consume:
 
 Web series:
 
-* Aspirants (Season 2, awaiting Season 3)
 * The Rings of Power
 * Mirzapur Season 3
 
 Web series awaiting new season:
 
+* Aspirants (awaiting Season 3)
 * The Family Man (awaiting Season 3)
 * Farzi (awaiting Season 2)
 
