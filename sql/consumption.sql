@@ -74,6 +74,7 @@ create table consumption(
   - 2025-07-16 Family by Choice (Korean) (Viki)
   - 2025-07-22 Dia (Kannada) (Amazon Prime)
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
+  - 2025-07-27 Dahaad: Season 1 (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
