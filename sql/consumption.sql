@@ -68,7 +68,7 @@ create table consumption(
   - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
-  - 2025-05-17 Usotoki Rhetoric (Japanese) (Viki)
+  - 2025-05-17-2025-08-09 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-07-08 Better Late Than Single (Korean) (Netflix)
   - 2025-07-16 Family by Choice (Korean) (Viki)
