@@ -75,6 +75,7 @@ create table consumption(
   - 2025-07-22-2025-08-08 Dia (Kannada) (Amazon Prime)
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
   - 2025-08-02-2025-08-14 Law and the City (Korean) (Viki)
+  - 2025-08-14 Suspicious Partner (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
