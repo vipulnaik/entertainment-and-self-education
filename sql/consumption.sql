@@ -76,6 +76,7 @@ create table consumption(
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
   - 2025-08-02-2025-08-14 Law and the City (Korean) (Viki)
   - 2025-08-14 Suspicious Partner (Japanese) (Viki)
+  - 2025-08-15 Our Movie (Korean) (Hulu)
  */
 
 /* MasterClass stuff */
