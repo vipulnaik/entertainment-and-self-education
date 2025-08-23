@@ -77,6 +77,7 @@ create table consumption(
   - 2025-08-02-2025-08-14 Law and the City (Korean) (Viki)
   - 2025-08-14 Suspicious Partner (Japanese) (Viki)
   - 2025-08-15 Our Movie (Korean) (Hulu)
+  - 2025-08-22 119 Emergency Call (Japanese) (Viki)
  */
 
 /* MasterClass stuff */
