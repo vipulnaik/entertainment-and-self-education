@@ -81,6 +81,7 @@ create table consumption(
   - 2025-09-11-2025-09-13 Love Mocktail (Kannada) (Amazon Video)
   - 2025-09-13 Love Scout (Korean) (Viki)
   - 2025-09-15 Love Mocktail 2 (Kannada) (Amazon Video)
+  - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
  */
 
 /* MasterClass stuff */
