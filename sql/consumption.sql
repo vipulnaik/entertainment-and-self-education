@@ -83,6 +83,7 @@ create table consumption(
   - 2025-09-15-2025-09-23 Love Mocktail 2 (Kannada) (Amazon Video)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
   - 2025-09-24-2025-10-02 Rathnan Prapancha (Kannada) (Amazon Video)
+  - 2025-10-02 Call Me Bae (Hindi) (Amazon Video)
  */
 
 /* MasterClass stuff */
