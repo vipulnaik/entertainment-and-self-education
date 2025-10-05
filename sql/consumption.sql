@@ -79,11 +79,12 @@ create table consumption(
   - 2025-08-15 Our Movie (Korean) (Hulu)
   - 2025-08-22-2025-09-02 119 Emergency Call (Japanese) (Viki)
   - 2025-09-11-2025-09-13 Love Mocktail (Kannada) (Amazon Video)
-  - 2025-09-13 Love Scout (Korean) (Viki)
+  - 2025-09-13-2025-10-04 Love Scout (Korean) (Viki)
   - 2025-09-15-2025-09-23 Love Mocktail 2 (Kannada) (Amazon Video)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
   - 2025-09-24-2025-10-02 Rathnan Prapancha (Kannada) (Amazon Video)
   - 2025-10-02 Call Me Bae (Hindi) (Amazon Video)
+  - 2025-10-04 Second Shot At Love (Korean) (Viki)
  */
 
 /* MasterClass stuff */
