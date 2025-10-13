@@ -71,7 +71,7 @@ create table consumption(
   - 2025-05-17-2025-08-09 Usotoki Rhetoric (Japanese) (Viki)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
   - 2025-07-08 Better Late Than Single (Korean) (Netflix)
-  - 2025-07-16 Family by Choice (Korean) (Viki)
+  - 2025-07-16-2025-10-12 Family by Choice (Korean) (Viki)
   - 2025-07-22-2025-08-08 Dia (Kannada) (Amazon Prime)
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
   - 2025-08-02-2025-08-14 Law and the City (Korean) (Viki)
