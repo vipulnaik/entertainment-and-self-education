@@ -85,7 +85,7 @@ create table consumption(
   - 2025-09-24-2025-10-02 Rathnan Prapancha (Kannada) (Amazon Video)
   - 2025-10-02 Call Me Bae (Hindi) (Amazon Video)
   - 2025-10-04 Second Shot At Love (Korean) (Viki)
-  - 2025-10-06 Blue Moment (Japanese) (Viki)
+  - 2025-10-06-2025-10-16 Blue Moment (Japanese) (Viki)
   - 2025-10-13 Dum Laga Ke Haisha (Hindi) (Amazon Video)
  */
 
