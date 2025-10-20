@@ -86,7 +86,7 @@ create table consumption(
   - 2025-10-02 Call Me Bae (Hindi) (Amazon Video)
   - 2025-10-04 Second Shot At Love (Korean) (Viki)
   - 2025-10-06-2025-10-16 Blue Moment (Japanese) (Viki)
-  - 2025-10-13 Dum Laga Ke Haisha (Hindi) (Amazon Video)
+  - 2025-10-13-2025-10-19 Dum Laga Ke Haisha (Hindi) (Amazon Video)
  */
 
 /* MasterClass stuff */
