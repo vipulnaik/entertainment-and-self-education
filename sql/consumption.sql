@@ -83,7 +83,7 @@ create table consumption(
   - 2025-09-15-2025-09-23 Love Mocktail 2 (Kannada) (Amazon Video)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
   - 2025-09-24-2025-10-02 Rathnan Prapancha (Kannada) (Amazon Video)
-  - 2025-10-02 Call Me Bae (Hindi) (Amazon Video)
+  - 2025-10-02-2025-11-05 Call Me Bae (Hindi) (Amazon Video)
   - 2025-10-04 Second Shot At Love (Korean) (Viki)
   - 2025-10-06-2025-10-16 Blue Moment (Japanese) (Viki)
   - 2025-10-13-2025-10-19 Dum Laga Ke Haisha (Hindi) (Amazon Video)
