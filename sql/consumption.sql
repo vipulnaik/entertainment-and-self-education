@@ -87,7 +87,7 @@ create table consumption(
   - 2025-10-04 Second Shot At Love (Korean) (Viki)
   - 2025-10-06-2025-10-16 Blue Moment (Japanese) (Viki)
   - 2025-10-13-2025-10-19 Dum Laga Ke Haisha (Hindi) (Amazon Video)
-  - 2025-10-26 Love Birds (Kannada) (Amazon Video)
+  - 2025-10-26-2025-11-13 Love Birds (Kannada) (Amazon Video)
   - 2025-10-28-2025-10-29 Band Baaja Baaraat (Hindi) (Amazon Video)
   - 2025-11-07 D-Day (Korean) (Viki)
  */
