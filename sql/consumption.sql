@@ -93,6 +93,7 @@ create table consumption(
   - 2025-11-14 Kantara: Chapter One (Kannada) (Amazon Video)
   - 2025-11-15 Alice in Borderland: Season 3 (Japanese) (Netflix)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
+  - 2025-11-15 Beyond the Bar (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
