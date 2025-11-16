@@ -91,6 +91,8 @@ create table consumption(
   - 2025-10-28-2025-10-29 Band Baaja Baaraat (Hindi) (Amazon Video)
   - 2025-11-07 D-Day (Korean) (Viki)
   - 2025-11-14 Kantara: Chapter One (Kannada) (Amazon Video)
+  - 2025-11-15 Alice in Borderland: Season 3 (Japanese) (Netflix)
+  - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
  */
 
 /* MasterClass stuff */
