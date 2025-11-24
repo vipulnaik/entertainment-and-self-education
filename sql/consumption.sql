@@ -94,6 +94,7 @@ create table consumption(
   - 2025-11-15 Alice in Borderland: Season 3 (Japanese) (Netflix)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
   - 2025-11-15 Beyond the Bar (Korean) (Netflix)
+  - 2025-11-23 Radiation House (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
