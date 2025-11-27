@@ -95,6 +95,7 @@ create table consumption(
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
   - 2025-11-15 Beyond the Bar (Korean) (Netflix)
   - 2025-11-23 Radiation House (Japanese) (Netflix)
+  - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
  */
 
 /* MasterClass stuff */
