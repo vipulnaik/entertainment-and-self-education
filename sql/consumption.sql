@@ -93,7 +93,7 @@ create table consumption(
   - 2025-11-14 Kantara: Chapter One (Kannada) (Amazon Video)
   - 2025-11-15-2025-11-24 Alice in Borderland: Season 3 (Japanese) (Netflix)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
-  - 2025-11-15 Beyond the Bar (Korean) (Netflix)
+  - 2025-11-15-2025-12-14 Beyond the Bar (Korean) (Netflix)
   - 2025-11-23 Radiation House (Japanese) (Netflix)
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-01-2025-12-06 Delhi Crime: Season 3 (Hindi) (Netflix)
