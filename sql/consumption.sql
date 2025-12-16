@@ -97,6 +97,7 @@ create table consumption(
   - 2025-11-23 Radiation House (Japanese) (Netflix)
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-01-2025-12-06 Delhi Crime: Season 3 (Hindi) (Netflix)
+  - 2025-12-15 The Family Man: Season 3 (Hindi) (Amazon Video)
  */
 
 /* MasterClass stuff */
