@@ -99,6 +99,7 @@ create table consumption(
   - 2025-12-01-2025-12-06 Delhi Crime: Season 3 (Hindi) (Netflix)
   - 2025-12-15-2025-12-16 The Family Man: Season 3 (Hindi) (Amazon Video)
   - 2025-12-17-2025-12-18 Law (Kannada) (Amazon Video) https://www.amazon.com/gp/video/detail/0RZIG6CVM2B88UWAA5MJUIF1B2/
+  - 2025-12-19 Kavaludaari (Kannada) (Amazon Video)
  */
 
 /* MasterClass stuff */
