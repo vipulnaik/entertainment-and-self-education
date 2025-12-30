@@ -102,7 +102,7 @@ create table consumption(
   - 2025-12-19-2025-12-22 Kavaludaari (Kannada) (Amazon Video)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2025-12-25 Made in Korea (Korean) (Hulu)
-  - 2025-12-27 Aachar & Co. (Kannada) (Amazon Video)
+  - 2025-12-27-2025-12-29 Aachar & Co. (Kannada) (Amazon Video)
  */
 
 /* MasterClass stuff */
