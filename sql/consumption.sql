@@ -103,7 +103,7 @@ create table consumption(
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2025-12-25 Made in Korea (Korean) (Hulu)
   - 2025-12-27-2025-12-29 Aachar & Co. (Kannada) (Amazon Video)
-  - 2025-12-30 Laughing Buddha (Kannada) (Amazon Video)
+  - 2025-12-30-2026-01-01 Laughing Buddha (Kannada) (Amazon Video)
  */
 
 /* MasterClass stuff */
