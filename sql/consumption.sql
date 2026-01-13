@@ -52,7 +52,7 @@ create table consumption(
   - 2024-06-28 Mansion 24 (Kannada) (Hulu) (stopped after some parts seemed over-the-top and I read negative reviews)
   - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it did not have subtitles)
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
-  - 2024-07-05 ER: Season 6 (English) (Hulu)
+  - 2024-07-05-2026-01-12 ER: Season 6 (English) (Hulu)
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
   - 2024-09-23 The Good Doctor: Season 5 (Hulu)
   - 2024-10-04 Wonderful World (Korean) (Hulu)
