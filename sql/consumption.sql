@@ -72,7 +72,7 @@ create table consumption(
   - 2025-07-08 Better Late Than Single (Korean) (Netflix)
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
   - 2025-08-14 Suspicious Partner (Japanese) (Viki)
-  - 2025-08-15 Our Movie (Korean) (Hulu)
+  - 2025-08-15-2026-01-26 Our Movie (Korean) (Hulu)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
   - 2025-10-02-2025-11-05 Call Me Bae (Hindi) (Amazon Video)
   - 2025-10-04 Second Shot At Love (Korean) (Viki)
