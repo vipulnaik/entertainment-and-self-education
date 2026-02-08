@@ -74,7 +74,7 @@ create table consumption(
   - 2025-08-14 Suspicious Partner (Japanese) (Viki)
   - 2025-08-15-2026-01-26 Our Movie (Korean) (Hulu)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
-  - 2025-10-04 Second Shot At Love (Korean) (Viki)
+  - 2025-10-04-2026-02-07 Second Shot At Love (Korean) (Viki)
   - 2025-11-07 D-Day (Korean) (Viki)
   - 2025-11-14 Kantara: Chapter One (Kannada) (Amazon Video)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
