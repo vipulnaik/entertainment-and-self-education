@@ -77,6 +77,8 @@ create table consumption(
   - 2025-11-23 Radiation House (Japanese) (Netflix)
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
+  - 2026-02-01-2026-03-01 Descendants of the Sun rewatch (Viki)
+  - 2026-03-01 Pinoochio rewatch (Viki)
   - 2026-02-26 IDOL I (Korean) (Viki)
  */
 
