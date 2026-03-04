@@ -80,6 +80,7 @@ create table consumption(
   - 2026-02-01-2026-03-01 Descendants of the Sun rewatch (Viki)
   - 2026-03-01 Pinoochio rewatch (Viki)
   - 2026-02-26 IDOL I (Korean) (Viki)
+  - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
  */
 
 /* MasterClass stuff */
