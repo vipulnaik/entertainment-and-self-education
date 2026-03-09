@@ -80,6 +80,7 @@ create table consumption(
   - 2026-03-01 Pinoochio rewatch (Viki)
   - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
   - 2026-03-06 Hyper Knife rewatch (Hulu)
+  - 2026-03-08 Love Mocktail 2 rewatch (Amazon Video)
  */
 
 /* MasterClass stuff */
