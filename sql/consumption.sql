@@ -76,11 +76,11 @@ create table consumption(
   - 2025-11-23 Radiation House (Japanese) (Netflix)
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
-  - 2026-02-26 IDOL I (Korean) (Viki)
   - 2026-03-01 Pinoochio rewatch (Viki)
   - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
   - 2026-03-06 Hyper Knife rewatch (Hulu)
   - 2026-03-08 Love Mocktail 2 rewatch (Amazon Video)
+  - 2026-03-15 Kohrra (Punjabi) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -606,6 +606,8 @@ insert into consumption(consumption_venue, format, live_watch, primary_language,
   ('Viki','Series (such as TV show or web series)',false,'Japanese','Blue Moment','https://www.viki.com/tv/40538c-blue-moment','2025-10-06','day','2025-10-16','day','I saw this TV show advertised on the Viki home page, perhaps in connection with my having recently watched 119 Emergency Call, another Japanese TV show with somewhat overlapping themes and style. Given my positive experience with 119 Emergency Call, and my desire to continue learning Japanese, I decided to watch Blue Moment. I thoroughly enjoyed it, and I think it helped me with my goal of picking up more Japanese, although I didn''t pick up any clearly memorable lines from it the way I had from 119 Emergency Call.'),
   ('Viki','Series (such as TV show or web series)',false,'Korean','Second Shot at Love','https://www.viki.com/tv/41004c-second-shot-at-love','2025-10-04','day','2026-02-07','day','I became aware of this TV show based on ads for it from Viki that I saw on YouTube. I was intrigued by the show''s premise of casting a spotlight on drinking culture in Korea. I enjoyed it once I started watching it, but I lost interest in it after the initial conflicts were resolved, and proceeded slowly through the rest of the show. In early February, I decided to focus more on finishing the show as part of a general effort to wrap up loose ends of shows and reduce the spread of stuff I was watching so I felt comfortable starting new shows. The last few episodes of the show were decent, and I was happy that they avoided some of the predictable plot points that the timed comments were dreading. I particularly liked the outro that highlighted that some amount of continued vigilance was necessary to avoid slipping back into alcohol use, even a year after quitting.'),
   ('Viki','Series (such as TV show or web series)',true,'Japanese','Suspicious Partner','https://www.viki.com/tv/41091c-suspicious-partner','2025-08-14','day','2026-03-04','day','Having watched and enjoyed the original Korean drama, I started watching the Japanese adaptation not in the hope that it would be a particularly great or riveting new story, but rather as a way to improve my Japanese within the framework of a mostly-known story. The show succeeded at that purpose. I watched it gradually as a back-burner watch. Even though it was a much shorter show than the Korean original (for which it got rid of many of the plot threads) I ended up spending about 6.5 months completing it.'),
+  /* 2026 */
+  ('Viki','Series (such as TV show or web series)',true,'Korean','IDOL I','https://www.viki.com/tv/41302c-idol-i','2026-02-26','day','2026-03-15','day','After having recently wrapped up watching several dramas, I was looking for an engaging Korean drama to watch. IDOL I seemed to have a good premise and positive reviews, and it was advertised on the home page of both Viki and Netflix (my Netflix subscription was paused at the time, so I could browse shows there but not watch them). I was hooked to the show in the beginning. As with many Korean dramas I have recently watched, my pace of watching slowed down somewhat in the middle as the show settled into a more gentle rhythm, but it continued to stay relatively strong, so I still ended up finishing the show in about 18 days. The review https://thefangirlverdict.com/2026/03/09/review-idol-i/ does a good job describing the show''s strengths and weaknesses and the right viewing lens for it.'),
   /* movies */
   /* 2015 */
   ('Viki','Single video (such as movie)',false,'Hindi','Hum Aapke Hain Koun',NULL,'2015-12-19','day','2015-12-19','day','I believe I watched this in an overnight binge when first trying out Viki.'),
