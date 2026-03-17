@@ -80,6 +80,7 @@ create table consumption(
   - 2026-03-06 Hyper Knife rewatch (Hulu)
   - 2026-03-08 Love Mocktail 2 rewatch (Amazon Video)
   - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
+  - 2026-03-16 Our Unwritten Seoul rewatch (Netflix)
  */
 
 /* MasterClass stuff */
