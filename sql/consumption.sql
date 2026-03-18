@@ -81,6 +81,7 @@ create table consumption(
   - 2026-03-08 Love Mocktail 2 rewatch (Amazon Video)
   - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
   - 2026-03-16 Our Unwritten Seoul rewatch (Netflix)
+  - 2026-03-17 The Railway Men (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
