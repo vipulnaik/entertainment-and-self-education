@@ -77,10 +77,10 @@ create table consumption(
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
   - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
-  - 2026-03-16 Our Unwritten Seoul rewatch (Netflix)
   - 2026-03-17 The Railway Men (Hindi) (Netflix)
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
   - 2026-04-03 AlRawabi School for Girls: Season 2 (Arabic) (Netflix)
+  - 2026-04-03 Extraordinary Attorney Woo (rewatch / re-listen) (Netflix)
  */
 
 /* MasterClass stuff */
@@ -642,7 +642,8 @@ insert into consumption(consumption_venue, format, primary_language, item, url, 
 /* Netflix rewatches */
 insert into consumption(consumption_venue, format, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, rewatch, notes) values
   ('Netflix','Series (such as TV show or web series)','Korean','Squid Game','https://www.netflix.com/title/81040344','2022-02-15','day','2022-02-21','day',true,'After watching and reading a lot of commentary on Squid Game''s hidden gems, I was intrigued enough to want to watch the show again with all the commentary in mind. I enjoyed the rewatch, and watched some scenes multiple times over this period.'),
-  ('Netflix','Series (such as TV show or web series)','English','Ginny & Georgia: Season 1','https://www.netflix.com/title/81025696','2022-05-07','day','2022-05-08','day',true,'I was looking for something "Gilmore Girls"-like to rewatch, but since I had very recently rewatched all of Gilmore Girls, I wanted something a little different. I picked on Ginny & Georgia''s Season 1, that I had watched in 2021 and enjoyed.');
+  ('Netflix','Series (such as TV show or web series)','English','Ginny & Georgia: Season 1','https://www.netflix.com/title/81025696','2022-05-07','day','2022-05-08','day',true,'I was looking for something "Gilmore Girls"-like to rewatch, but since I had very recently rewatched all of Gilmore Girls, I wanted something a little different. I picked on Ginny & Georgia''s Season 1, that I had watched in 2021 and enjoyed.'),
+  ('Netflix','Series (such as TV show or web series)','Korean','Our Unwritten Seoul','https://www.netflix.com/title/82024804','2026-03-16','day','2026-04-03','day',true,'After resuming my Netflix subscription, and in light of the success of recent and ongoing re-listen rewatches of Korean and Kannada content on other platforms, I started a re-listen rewatch of Our Unwritten Seoul, one of the best Korean dramas I have watched. The emotionally resonant drama was fairly easy to follow via listening, and mostly provided further practice rather than vocabulary expansion, though I did pick up the Korean words for "farm" and "whistleblower", two terms that showed up in the drama way more often than they do in a typical drama ("whistleblower" had come up in Pinocchio but I hadn''t picked it up fully at the time).');
 
 /* Amazon Video stuff */
 insert into consumption(consumption_venue, format, live_watch, primary_language, item, url, start_date, start_date_precision, end_date, end_date_precision, notes) values
