@@ -80,6 +80,7 @@ create table consumption(
   - 2026-03-16 Our Unwritten Seoul rewatch (Netflix)
   - 2026-03-17 The Railway Men (Hindi) (Netflix)
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
+  - 2026-04-03 AlRawabi School for Girls: Season 2 (Arabic) (Netflix)
  */
 
 /* MasterClass stuff */
