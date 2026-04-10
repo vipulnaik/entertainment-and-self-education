@@ -80,6 +80,7 @@ create table consumption(
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
   - 2026-04-03 Extraordinary Attorney Woo (rewatch / re-listen) (Netflix)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
+  - 2026-04-09 The Diplomat (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
