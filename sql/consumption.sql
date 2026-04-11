@@ -78,7 +78,7 @@ create table consumption(
   - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
   - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
-  - 2026-04-03 Extraordinary Attorney Woo (rewatch / re-listen) (Netflix)
+  - 2026-04-03-2026-04-11 (past midnight from 2026-04-10) Extraordinary Attorney Woo (rewatch / re-listen) (Netflix)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
  */
 
