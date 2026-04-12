@@ -79,6 +79,7 @@ create table consumption(
   - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
+  - 2026-04-11 Start-Up (rewatch / re-listen) (Netflix)
  */
 
 /* MasterClass stuff */
