@@ -80,6 +80,7 @@ create table consumption(
   - 2026-03-31 Radiation House: Season 2 (Japanese) (Netflix)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
   - 2026-04-11 Start-Up (rewatch / re-listen) (Netflix) review https://meicchisblog.ninja/2021/08/29/start-up/
+  - 2026-04-11 Maamla Legal Hai: Season 2 (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
