@@ -1,6 +1,6 @@
 <?php
 
-$languages = array('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian');
+$languages = array('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian','Telugu','Punjabi');
 
 $venues = array('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible','HBO','Disney Plus','Hulu');
 

@@ -3,7 +3,7 @@ create table consumption(
   consumption_venue enum('Netflix','Viki','MasterClass','Google Books','Kindle Books','YouTube','PDF download','EconLib','Mercatus','Amazon Video','ErosNow','Movie theater','In-flight entertainment','iTunes','Other video player','I Will Teach You To Be Rich','Bio Eats World','Audible','HBO','Disney Plus','Hulu'),
   format enum('Series (such as TV show or web series)','Single video (such as movie)'),
   live_watch boolean default false, /* true if minimum distance between watching period and release period is less than 45 days */
-  primary_language enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian'),
+  primary_language enum('English','Korean','Hindi','Japanese','Chinese','Tamil','Arabic','Spanish','Marathi','English/Hindi','English/Korean','German','Kannada','Malayalam','English/Thai','Taiwanese','Ukrainian','Telugu','Punjabi'),
   item varchar(200),
   url varchar(200),
   start_date date,
