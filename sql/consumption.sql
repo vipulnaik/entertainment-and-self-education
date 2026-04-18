@@ -75,8 +75,8 @@ create table consumption(
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
-  - 2026-03-03 Kumari Srimathi (Telugu -- language needs to be added to enum) (Amazon Video)
-  - 2026-03-15 Kohrra: Season 1 (Punjabi -- language needs to be added to enum) (Netflix)
+  - 2026-03-03 Kumari Srimathi (Telugu) (Amazon Video)
+  - 2026-03-15 Kohrra: Season 1 (Punjabi) (Netflix)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
   - 2026-04-11 Start-Up (rewatch / re-listen) (Netflix) review https://meicchisblog.ninja/2021/08/29/start-up/
   - 2026-04-11 Maamla Legal Hai: Season 2 (Hindi) (Netflix)
