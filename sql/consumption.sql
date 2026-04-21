@@ -78,6 +78,7 @@ create table consumption(
   - 2026-03-03 Kumari Srimathi (Telugu) (Amazon Video)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
   - 2026-04-11 Start-Up (rewatch / re-listen) (Netflix) review https://meicchisblog.ninja/2021/08/29/start-up/
+  - 2026-04-20 Weak Hero Class 1 (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
