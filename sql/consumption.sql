@@ -78,6 +78,7 @@ create table consumption(
   - 2026-03-03 Kumari Srimathi (Telugu) (Amazon Video)
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
   - 2026-04-25 Kingdom: Season 1 (rewatch / re-listen) (Netflix)
+  - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
  */
 
 /* MasterClass stuff */
