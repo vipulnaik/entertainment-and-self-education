@@ -63,7 +63,7 @@ create table consumption(
   - 2025-02-17 Permanent Roommates (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
   - 2025-03-16 Hyena (Korean) (Netflix)
-  - 2025-03-25 Inheritance Detective (Japanese) (Netflix)
+  - 2025-03-25-2026-05-03 Inheritance Detective (Japanese) (Netflix)
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
@@ -79,6 +79,7 @@ create table consumption(
   - 2026-04-06 Aachar & Co. (rewatch / re-listen) (Amazon)
   - 2026-04-25 Kingdom: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
+  - 2026-05-03 Undercover Miss Hong (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
