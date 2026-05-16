@@ -78,6 +78,7 @@ create table consumption(
   - 2026-04-25 Kingdom: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
+  - 2026-05-15 Because This Is My First Life (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
