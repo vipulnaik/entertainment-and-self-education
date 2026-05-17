@@ -79,6 +79,7 @@ create table consumption(
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-15 Because This Is My First Life (rewatch / re-listen) (Viki)
   - 2026-05-16 Love Birds (rewatch / re-listen) (Amazon Video)
+  - 2026-05-16 The K2 (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
