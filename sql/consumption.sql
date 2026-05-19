@@ -80,6 +80,7 @@ create table consumption(
   - 2026-05-15 Because This Is My First Life (rewatch / re-listen) (Viki)
   - 2026-05-16 Love Birds (rewatch / re-listen) (Amazon Video)
   - 2026-05-16 The K2 (rewatch / re-listen) (Viki)
+  - 2026-05-19 Aspirants: Season 3 (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
