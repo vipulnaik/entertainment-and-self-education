@@ -81,6 +81,8 @@ create table consumption(
   - 2026-05-16 Love Birds (rewatch / re-listen) (Amazon Video)
   - 2026-05-16 The K2 (rewatch / re-listen) (Viki)
   - 2026-05-19 Aspirants: Season 3 (Hindi) (Amazon Prime)
+  - 2026-05-19 The Testaments: Season 1 (English) (Hulu)
+  - 2026-05-19 My Mister (Korean) (Viki)
  */
 
 /* MasterClass stuff */
