@@ -53,15 +53,6 @@ Web series awaiting new season:
 * The Family Man (awaiting Season 3)
 * Farzi (awaiting Season 2)
 
-Movies:
-
-* Sita Ramam
-* Mujhse Dosti Karoge
-* Ek Tha Tiger
-* Tiger Zinda Hai
-* War
-* Lamhe
-
 ## Hulu
 
 * Lincoln
@@ -74,13 +65,6 @@ Movies:
 ## Netflix
 
 There's a lot I want to watch on Netflix.
-
-Stuff that is not yet on Netflix, that I expect will get on it in the next several months:
-
-* Squid Game Season 3 (estimated release September 2025)
-
-All the above are Netflix originals so they won't leave once they are
-on Netflix.
 
 Stuff that is ready for me to watch, that I have not yet started:
 
@@ -115,7 +99,6 @@ Indian (Hindi and other languages):
 * Dil Se...
 * 3 Idiots
 * The White Tiger
-* Kantara
 * RRR
 * Happy New Year
 * Zero
