@@ -83,6 +83,8 @@ create table consumption(
   - 2026-05-19-2026-05-27 The Testaments: Season 1 (English) (Hulu)
   - 2026-05-19 My Mister (Korean) (Viki)
   - 2026-05-28 Haechi (rewatch / re-listen) (Viki)
+  - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
+  - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
  */
 
 /* MasterClass stuff */
