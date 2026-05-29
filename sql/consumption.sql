@@ -82,6 +82,7 @@ create table consumption(
   - 2026-05-19 Aspirants: Season 3 (Hindi) (Amazon Prime)
   - 2026-05-19-2026-05-27 The Testaments: Season 1 (English) (Hulu)
   - 2026-05-19 My Mister (Korean) (Viki)
+  - 2026-05-28 Haechi (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
