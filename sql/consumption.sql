@@ -77,13 +77,14 @@ create table consumption(
   - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-15 Because This Is My First Life (rewatch / re-listen) (Viki)
-  - 2026-05-19 Aspirants: Season 3 (Hindi) (Amazon Prime)
+  - 2026-05-19-2026-06-11 Aspirants: Season 3 (Hindi) (Amazon Prime)
   - 2026-05-19 My Mister (Korean) (Viki)
   - 2026-05-28 Haechi (rewatch / re-listen) (Viki)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
   - 2026-05-29 Mischievous Kiss: Love in TOKYO (rewatch / re-listen) (Viki)
   - 2026-06-02 Healer (rewatch / re-listen) (Viki)
+  - 2026-06-11 Vyooham (Telugu) (Amazon Prine)
  */
 
 /* MasterClass stuff */
