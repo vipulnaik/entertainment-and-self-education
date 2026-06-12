@@ -84,7 +84,7 @@ create table consumption(
   - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
   - 2026-05-29 Mischievous Kiss: Love in TOKYO (rewatch / re-listen) (Viki)
   - 2026-06-02 Healer (rewatch / re-listen) (Viki)
-  - 2026-06-11 Vyooham (Telugu) (Amazon Prine)
+  - 2026-06-11 Vyooham (Telugu) (Amazon Prime)
  */
 
 /* MasterClass stuff */
