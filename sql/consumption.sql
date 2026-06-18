@@ -82,6 +82,7 @@ create table consumption(
   - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
   - 2026-06-02 Healer (rewatch / re-listen) (Viki)
   - 2026-06-15 (past midnight) Mischievous Kiss 2: Love in TOKYO (rewatch / re-listen) (Viki)
+  - 2026-06-17 Law (rewatch / re-listen) (Kannada) (Amazon Prime)
  */
 
 /* MasterClass stuff */
