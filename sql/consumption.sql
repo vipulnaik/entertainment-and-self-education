@@ -82,7 +82,7 @@ create table consumption(
   - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
   - 2026-06-02 Healer (rewatch / re-listen) (Viki)
   - 2026-06-15 (past midnight) Mischievous Kiss 2: Love in TOKYO (rewatch / re-listen) (Viki)
-  - 2026-06-17 Suzhal: The Vortex (Tamil) (Amazon Prime)
+  - 2026-06-17-2026-06-25 Suzhal: The Vortex: Season 1 (Tamil) (Amazon Prime)
  */
 
 /* MasterClass stuff */
