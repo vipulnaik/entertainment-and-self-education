@@ -79,7 +79,7 @@ create table consumption(
   - 2026-05-19 My Mister (Korean) (Viki)
   - 2026-05-28 Haechi (rewatch / re-listen) (Viki)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
-  - 2026-05-28 Sita Ramam (Telugu) (Amazon Prime)
+  - 2026-05-28-2026-06-28 (past midnight from 2026-06-27) Sita Ramam (Telugu) (Amazon Prime)
   - 2026-06-02 Healer (rewatch / re-listen) (Viki)
   - 2026-06-15 (past midnight) Mischievous Kiss 2: Love in TOKYO (rewatch / re-listen) (Viki)
   - 2026-06-17-2026-06-25 Suzhal: The Vortex: Season 1 (Tamil) (Amazon Prime)
