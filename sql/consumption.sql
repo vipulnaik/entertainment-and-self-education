@@ -57,7 +57,7 @@ create table consumption(
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
   - 2024-11-21 After School Doctor (Japanese) (Netflix)
-  - 2025-01-26 Tomorrow, I'll Be Someone's Girlfriend (Japanese) (Hulu)
+  - 2025-01-26-2026-06-27 Tomorrow, I'll Be Someone's Girlfriend: Season 1 (Japanese) (Hulu)
   - 2025-02-08 Hostel Daze: Season 1 (Hindi) (Amazon Prime)
   - 2025-02-17 Permanent Roommates (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
