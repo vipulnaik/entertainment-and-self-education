@@ -49,8 +49,8 @@ Web series:
 
 Web series awaiting new season:
 
-* Aspirants (awaiting Season 3)
-* The Family Man (awaiting Season 3)
+* Aspirants (awaiting Season 4)
+* The Family Man (awaiting Season 4)
 * Farzi (awaiting Season 2)
 
 ## Hulu
