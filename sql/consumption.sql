@@ -85,6 +85,7 @@ create table consumption(
   - 2026-06-17-2026-06-25 Suzhal: The Vortex: Season 1 (Tamil) (Amazon Prime)
   - 2026-07-01 99.9 Criminal Lawyer: Season 1 (rewatch / re-listen) (Viki)
   - 2026-07-03 Search: WWW (rewatch / re-listen) (Viki)
+  - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
  */
 
 /* MasterClass stuff */
