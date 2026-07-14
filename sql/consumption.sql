@@ -82,7 +82,7 @@ create table consumption(
   - 2026-07-01 99.9 Criminal Lawyer: Season 1 (rewatch / re-listen) (Viki)
   - 2026-07-03 Search: WWW (rewatch / re-listen) (Viki)
   - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
-  - 2026-07-10 Raakh (Hindi) (Amazon Prime)
+  - 2026-07-10-2026-07-13 Raakh (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
