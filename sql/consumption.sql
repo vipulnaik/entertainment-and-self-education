@@ -75,7 +75,7 @@ create table consumption(
   - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-19-2026-07-15 My Mister (Korean) (Viki)
-  - 2026-05-28 Haechi (rewatch / re-listen) (Viki)
+  - 2026-05-28-2026-07-25 Haechi (rewatch / re-listen) (Viki)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-07-01-2026-07-18 (past midnight from 2026-07-17) 99.9 Criminal Lawyer: Season 1 (rewatch / re-listen) (Viki)
   - 2026-07-03 Search: WWW (rewatch / re-listen) (Viki)
