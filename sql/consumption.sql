@@ -72,7 +72,7 @@ create table consumption(
   - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2026-04-25 Kingdom: Season 1 (rewatch / re-listen) (Netflix)
-  - 2026-04-28 Misaeng (rewatch / re-listen) (Netflix)
+  - 2026-04-28-2026-08-06 Misaeng (rewatch / re-listen) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-19-2026-07-15 My Mister (Korean) (Viki)
   - 2026-05-28-2026-07-25 Haechi (rewatch / re-listen) (Viki)
