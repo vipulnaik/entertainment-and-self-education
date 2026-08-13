@@ -79,7 +79,7 @@ create table consumption(
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-07-03 Search: WWW (rewatch / re-listen) (Viki)
   - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
-  - 2026-07-18 (past midnight from 2026-07-17) Game of Thrones: Season 1 (rewatch / re-listen) (HBO)
+  - 2026-07-18 (past midnight from 2026-07-17)-2026-08-12 Game of Thrones: Season 1 (rewatch / re-listen) (HBO)
  */
 
 /* MasterClass stuff */
