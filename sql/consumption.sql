@@ -31,7 +31,7 @@ create table consumption(
   - 2022-10-16 Judy Justice Season 1 (Freevee)
   - 2022-10-18 Last Shot with Judge Gunn (Freevee)
   - 2022-12-17 The Crown: Season 5 (Netflix)
-  - 2022-12-29 It's Okay to Not Be Okay (Netflix)
+  - 2022-12-29-2026-08-13 It's Okay to Not Be Okay (Korean) (Netflix)
   - 2022-12-30 Darlings (Netflix)
   - 2023-01-08 Change Days (Netflix)
   - 2023-01-22 The Rational Life (Chinese) (Netflix)
