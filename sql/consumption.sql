@@ -69,7 +69,7 @@ create table consumption(
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
   - 2025-11-07 D-Day (Korean) (Viki)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
-  - 2025-11-26 The 19th Medical Chart (Japanese) (Netflix)
+  - 2025-11-26-2026-08-18 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2026-04-25-2026-08-14 (past midnight from 2026-08-13) Kingdom: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-08-14 (past midnight from 2026-08-13) Kingdom: Season 2 (rewatch / re-listen) (Netflix)
