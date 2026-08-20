@@ -72,7 +72,7 @@ create table consumption(
   - 2025-11-26-2026-08-18 The 19th Medical Chart (Japanese) (Netflix)
   - 2025-12-24 The Bear: Season 4 (English) (Hulu)
   - 2026-04-25-2026-08-14 (past midnight from 2026-08-13) Kingdom: Season 1 (rewatch / re-listen) (Netflix)
-  - 2026-08-14 (past midnight from 2026-08-13) Kingdom: Season 2 (rewatch / re-listen) (Netflix)
+  - 2026-08-14 (past midnight from 2026-08-13)-2026-08-19 Kingdom: Season 2 (rewatch / re-listen) (Netflix)
   - 2026-04-28-2026-08-06 Misaeng (rewatch / re-listen) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-19-2026-07-15 My Mister (Korean) (Viki)
@@ -81,6 +81,7 @@ create table consumption(
   - 2026-07-03-2026-08-13 Search: WWW (rewatch / re-listen) (Viki)
   - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
   - 2026-07-18 (past midnight from 2026-07-17)-2026-08-12 Game of Thrones: Season 1 (rewatch / re-listen) (HBO)
+  - 2026-08-19 Kavaludaari (rewatch/re-listen) (Amazon Video)
  */
 
 /* MasterClass stuff */
