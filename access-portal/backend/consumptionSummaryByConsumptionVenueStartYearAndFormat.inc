@@ -1,6 +1,6 @@
 <?php
 
-$consumptionSummaryByConsumptionVenueStartYearAndFormatQuery = "select consumption_venue, year(start_date) as start_year, format, count(distinct item) as freq from consumption group by consumption_venue, year(start_date), format;";
+$consumptionSummaryByConsumptionVenueStartYearAndFormatQuery = "select consumption_venue, year(start_date) as start_year, format, case when rewatch then 'rewatch' else 'new' end as rewatch_or_new, count(distinct item) as freq from consumption group by consumption_venue, year(start_date), format, rewatch_or_new;";
 $consumptionSummaryByConsumptionVenueStartYearAndFormatResult = $mysqli -> query($consumptionSummaryByConsumptionVenueStartYearAndFormatQuery);
 
 $consumptionSummaryArray = [];
@@ -12,7 +12,7 @@ for ($i = 0; $i < $consumptionSummaryByConsumptionVenueStartYearAndFormatResult 
   if (!isset($consumptionSummaryArray[$row['consumption_venue']][$row['start_year']])) {
     $consumptionSummaryArray[$row['consumption_venue']][$row['start_year']] = [];
   }  
-  $consumptionSummaryArray[$row['consumption_venue']][$row['start_year']][$row['format']] = $row['freq'];
+  $consumptionSummaryArray[$row['consumption_venue']][$row['start_year']][$row['format'].' ('.$row['rewatch_or_new'].')'] = $row['freq'];
 }
 
 print '<h4 id="consumptionSummaryByConsumptionVenueStartYearAndFormat">Consumption summary by consumption venue, start year, and format</h4>';
@@ -21,8 +21,10 @@ print '<table id="myTableConsumptionSummaryByConsumptionVenueStartYearAndFormat"
 print "<thead>\n";
 print '<tr><th>Consumption venue</th>';
 print '<th>Start year</th>';
-print '<th>Count of consumption of distinct single videos (such as movies)</th>';
-print '<th>Count of consumption of distinct series (such as TV show or web series)</th>';
+print '<th>Count of consumption of distinct new single videos (such as movies)</th>';
+print '<th>Count of consumption of distinct new series (such as TV show or web series)</th>';
+print '<th>Count of consumption of distinct rewatch single videos (such as movies)</th>';
+print '<th>Count of consumption of distinct rewatch series (such as TV show or web series)</th>';
 print "</tr></thead>\n<tbody>\n";
 
 foreach ($venues as $venue) {
@@ -32,8 +34,10 @@ foreach ($venues as $venue) {
       print '<tr>';
       print '<td>'.$venue.'</td>';
       print '<td>'.$year.'</td>';
-      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Single video (such as movie)'] ?? 0).'</td>';
-      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Series (such as TV show or web series)'] ?? 0).'</td>';
+      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Single video (such as movie) (new)'] ?? 0).'</td>';
+      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Series (such as TV show or web series) (new)'] ?? 0).'</td>';
+      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Single video (such as movie) (rewatch)'] ?? 0).'</td>';
+      print '<td align="right">'.($consumptionSummaryArray[$venue][$year]['Series (such as TV show or web series) (rewatch)'] ?? 0).'</td>';
       print "</tr>\n";
     }
   }
