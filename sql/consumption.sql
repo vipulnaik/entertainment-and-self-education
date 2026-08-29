@@ -60,7 +60,7 @@ create table consumption(
   - 2025-02-08 Hostel Daze: Season 1 (Hindi) (Amazon Prime)
   - 2025-02-17 Permanent Roommates (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
-  - 2025-03-16 Hyena (Korean) (Netflix)
+  - 2025-03-16-2026-08-29 Hyena (Korean) (Netflix)
   - 2025-05-10 Vadhuvu (Kannada) (Hulu)
   - 2025-05-10 Sultan of Delhi (Kannada) (Hulu)
   - 2025-05-19 Private Bodyguard (Indonesian) (Viki)
