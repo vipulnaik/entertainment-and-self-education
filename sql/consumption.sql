@@ -77,7 +77,7 @@ create table consumption(
   - 2026-08-19-2026-08-26 Kavaludaari (rewatch/re-listen) (Amazon Video)
   - 2026-08-23 Game of Thrones: Season 2 (rewatch / re-listen) (HBO)
   - 2026-08-29 Stranger: Season 1 (rewatch / re-listen) (Netflix)
-  - 2026-08-30 Oxygen (French) (Netflix)
+  - 2026-08-30-2026-08-30 Oxygen (French) (Netflix)
  */
 
 /* MasterClass stuff */
