@@ -78,6 +78,7 @@ create table consumption(
   - 2026-08-23 Game of Thrones: Season 2 (rewatch / re-listen) (HBO)
   - 2026-08-29 Stranger: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-08-30-2026-08-30 Oxygen (French) (Netflix)
+  - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
