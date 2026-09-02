@@ -44,7 +44,7 @@ create table consumption(
   - 2023-07-27 One Dollar Lawyer (Hulu)
   - 2023-08-12 Tribunal Justice (Amazon Video: Freevee)
   - 2023-12-16 L.A. Law (English) (Hulu)
-  - 2024-02-11 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
+  - 2024-02-11-2026-09-02 From Me to You: Kimi ni Todoke (Japanese) (Netflix)
   - 2024-02-25 Ao Haru Ride (Japanese) (Viki)
   - 2024-03-21 Hi Nanna (Kannada) (Netflix)
   - 2024-06-28 Mansion 24 (Kannada) (Hulu) (stopped after some parts seemed over-the-top and I read negative reviews)
