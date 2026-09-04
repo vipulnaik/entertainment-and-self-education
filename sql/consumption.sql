@@ -75,7 +75,7 @@ create table consumption(
   - 2026-08-29 Stranger: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-08-30-2026-08-30 Oxygen (French) (Netflix)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
-  - 2026-08-31 Kingdom: Ashin of the North (Korean) (Netflix)
+  - 2026-08-31-2026-09-04 Kingdom: Ashin of the North (Korean) (Netflix)
  */
 
 /* MasterClass stuff */
