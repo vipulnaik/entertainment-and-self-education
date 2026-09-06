@@ -94,7 +94,6 @@ Indian (Hindi and other languages):
 
 * Race 2
 * Baaghi
-* Gangubai Kathiawadi
 * Sooryavanshi
 * Dil Se...
 * 3 Idiots
