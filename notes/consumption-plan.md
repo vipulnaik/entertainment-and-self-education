@@ -96,15 +96,12 @@ Indian (Hindi and other languages):
 * Baaghi
 * Sooryavanshi
 * Dil Se...
-* 3 Idiots
 * The White Tiger
 * RRR
 * Happy New Year
 * Zero
 * Jab Harry Met Sejal
 * Fida
-* Rang De Basanti
-* Kabir Singh
 
 ## Viki
 
