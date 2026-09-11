@@ -76,7 +76,8 @@ create table consumption(
   - 2026-08-30-2026-08-30 Oxygen (French) (Netflix)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
   - 2026-08-31-2026-09-04 Kingdom: Ashin of the North (Korean) (Netflix)
-  - 2026-09-05 Gangubai Kathiawadi (Hindi) (Netflix)
+  - 2026-09-05-2026-09-10 Gangubai Kathiawadi (Hindi) (Netflix)
+  - 2026-09-10 Dhurandhar (Hindi) (Netflix)
  */
 
 /* MasterClass stuff */
