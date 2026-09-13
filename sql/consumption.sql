@@ -78,6 +78,7 @@ create table consumption(
   - 2026-08-31-2026-09-04 Kingdom: Ashin of the North (Korean) (Netflix)
   - 2026-09-05-2026-09-10 Gangubai Kathiawadi (Hindi) (Netflix)
   - 2026-09-10-2026-09-11 Dhurandhar (Hindi) (Netflix)
+  - 2026-09-12 The Wire: Season 2 (English) (HBO)
  */
 
 /* MasterClass stuff */
