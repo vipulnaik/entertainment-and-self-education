@@ -55,7 +55,7 @@ create table consumption(
   - 2024-10-04 Wonderful World (Korean) (Hulu)
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
-  - 2024-11-21 After School Doctor (Japanese) (Netflix)
+  - 2024-11-21-2026-09-13 (wrap up before Netflix subscription end) After School Doctor (Japanese) (Netflix)
   - 2025-02-08 Hostel Daze: Season 1 (Hindi) (Amazon Prime)
   - 2025-02-17 Permanent Roommates (Hindi) (Amazon Prime)
   - 2025-03-09 Workin' Moms (English) (Netflix)
