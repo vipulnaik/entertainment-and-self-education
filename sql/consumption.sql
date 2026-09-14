@@ -71,7 +71,7 @@ create table consumption(
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
-  - 2026-08-23 Game of Thrones: Season 2 (rewatch / re-listen) (HBO)
+  - 2026-08-23-2026-09-13 Game of Thrones: Season 2 (rewatch / re-listen) (HBO)
   - 2026-08-29-2026-09-11 Stranger: Season 1 (rewatch / re-listen) (Netflix)
   - 2026-08-30-2026-08-30 Oxygen (French) (Netflix)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
@@ -79,6 +79,7 @@ create table consumption(
   - 2026-09-05-2026-09-10 Gangubai Kathiawadi (Hindi) (Netflix)
   - 2026-09-10-2026-09-11 Dhurandhar (Hindi) (Netflix)
   - 2026-09-12 The Wire: Season 2 (English) (HBO)
+  - 2026-09-13 Game of Thrones: Season 3 (rewatch / re-listen) (HBO)
  */
 
 /* MasterClass stuff */
