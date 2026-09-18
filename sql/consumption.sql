@@ -67,7 +67,7 @@ create table consumption(
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
-  - 2026-07-04 Dhootha (Telugu) (Amazon Prime)
+  - 2026-07-04-2026-09-17 Dhootha (Telugu) (Amazon Prime)
   - 2026-08-23-2026-09-13 Game of Thrones: Season 2 (rewatch / re-listen) (HBO)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
   - [insert before] 2026-09-05-2026-09-10 Gangubai Kathiawadi (Hindi) (Netflix)
