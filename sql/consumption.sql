@@ -76,6 +76,7 @@ create table consumption(
   - 2026-09-13 Game of Thrones: Season 3 (rewatch / re-listen) (HBO)
   - 2026-09-14 I Hear Your Voice (rewatch / re-listen) (Viki)
   - 2026-09-16 Governor (Hindi) (Amazon Prime)
+  - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
  */
 
 /* MasterClass stuff */
