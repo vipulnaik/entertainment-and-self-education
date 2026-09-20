@@ -73,11 +73,12 @@ create table consumption(
   - [insert before] 2026-09-05-2026-09-10 Gangubai Kathiawadi (Hindi) (Netflix)
   - [insert before] 2026-09-10-2026-09-11 Dhurandhar (Hindi) (Netflix)
   - 2026-09-12 The Wire: Season 2 (English) (HBO)
-  - 2026-09-13 Game of Thrones: Season 3 (rewatch / re-listen) (HBO)
+  - 2026-09-13-2026-09-19 Game of Thrones: Season 3 (rewatch / re-listen) (HBO)
   - 2026-09-14 I Hear Your Voice (rewatch / re-listen) (Viki)
   - 2026-09-16-2026-09-18 Governor (Hindi) (Amazon Prime)
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
   - 2026-09-19 Karwaan (Hindi) (Amazon Prime)
+  - 2026-09-19 Game of Thrones: Season 4 (rewatch / re-listen) (HBO)
  */
 
 /* MasterClass stuff */
