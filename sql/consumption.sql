@@ -77,6 +77,7 @@ create table consumption(
   - 2026-09-14 I Hear Your Voice (rewatch / re-listen) (Viki)
   - 2026-09-16-2026-09-18 Governor (Hindi) (Amazon Prime)
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
+  - 2026-09-19 Karwaan (Hindi) (Amazon Prime)
  */
 
 /* MasterClass stuff */
