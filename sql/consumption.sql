@@ -79,6 +79,7 @@ create table consumption(
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
   - 2026-09-19 Karwaan (Hindi) (Amazon Prime)
   - 2026-09-19 Game of Thrones: Season 4 (rewatch / re-listen) (HBO)
+  - 2026-09-20 Made in Korea: Season 2 (Korean) (Hulu)
  */
 
 /* MasterClass stuff */
