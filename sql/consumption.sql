@@ -78,7 +78,8 @@ create table consumption(
   - 2026-09-19-2026-09-22 Karwaan (Hindi) (Amazon Prime)
   - 2026-09-19-2026-09-24 Game of Thrones: Season 4 (rewatch / re-listen) (HBO)
   - 2026-09-20 Made in Korea: Season 2 (Korean) (Hulu)
-  - 2026-09-24 Game of Thrones: Season 5 (rewatch / re-listen) (HBO)
+  - 2026-09-24-2026-09-29 (past midnight from 2026-09-28) Game of Thrones: Season 5 (rewatch / re-listen) (HBO)
+  - 2026-09-29 (past midnight from 2026-09-28) Game of Thrones: Season 6 (rewatch / re-listen) (HBO)
  */
 
 /* MasterClass stuff */
