@@ -80,7 +80,7 @@ create table consumption(
   - 2026-09-20 Made in Korea: Season 2 (Korean) (Hulu)
   - 2026-09-24-2026-09-29 (past midnight from 2026-09-28) Game of Thrones: Season 5 (rewatch / re-listen) (HBO)
   - 2026-09-29 (past midnight from 2026-09-28) Game of Thrones: Season 6 (rewatch / re-listen) (HBO)
-  - 2026-09-30 The Sheep Detectives (English) (Amazon Prime)
+  - 2026-09-30-2026-10-01 (close to a single stretch) The Sheep Detectives (English) (Amazon Prime)
  */
 
 /* MasterClass stuff */
