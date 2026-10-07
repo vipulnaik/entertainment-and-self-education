@@ -75,9 +75,10 @@ create table consumption(
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
   - 2026-09-19-2026-09-22 Karwaan (Hindi) (Amazon Prime)
   - 2026-09-20 Made in Korea: Season 2 (Korean) (Hulu)
-  - 2026-09-29 (past midnight from 2026-09-28) Game of Thrones: Season 6 (rewatch / re-listen) (HBO)
+  - 2026-09-29 (past midnight from 2026-09-28)-2026-10-06 Game of Thrones: Season 6 (rewatch / re-listen) (HBO)
   - 2026-09-30-2026-10-01 (close to a single stretch) The Sheep Detectives (English) (Amazon Prime)
   - 2026-10-03 Rathnan Prapancha (rewatch / re-listen) (Amazon Prime)
+  - 2026-10-06 Game of Thrones: Season 7 (rewatch / re-listen) (HBO)
  */
 
 /* MasterClass stuff */
