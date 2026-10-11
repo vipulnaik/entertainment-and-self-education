@@ -69,7 +69,7 @@ create table consumption(
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-07-04-2026-09-17 Dhootha (Telugu) (Amazon Prime)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
-  - 2026-09-12 The Wire: Season 2 (English) (HBO)
+  - 2026-09-12-2026-10-11 (past midnight from 2026-10-10) The Wire: Season 2 (English) (HBO)
   - 2026-09-14 I Hear Your Voice (rewatch / re-listen) (Viki)
   - 2026-09-16-2026-09-18 Governor (Hindi) (Amazon Prime)
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
