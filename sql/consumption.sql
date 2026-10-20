@@ -78,6 +78,7 @@ create table consumption(
   - 2026-10-11 Rome: Season 1 (English) (HBO)
   - 2026-10-11-2026-10-14 Game of Thrones: Season 8 (rewatch / re-listen) (HBO)
   - 2026-10-15 The Judge from Hell (Korean) (Hulu)
+  - 2026-10-19 Doctor John (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
