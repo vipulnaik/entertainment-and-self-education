@@ -72,7 +72,7 @@ create table consumption(
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
   - 2026-10-11 Rome: Season 1 (English) (HBO)
   - 2026-10-15 The Judge from Hell (Korean) (Hulu)
-  - 2026-10-19 Doctor John (rewatch / re-listen) (Viki)
+  - 2026-10-19-2026-11-01 (past midnight from 2026-10-31) Doctor John (rewatch / re-listen) (Viki) words: anesthesiology&pain, euthanasia, ventilator, curiosity, ethics (committee), conscious
  */
 
 /* MasterClass stuff */
