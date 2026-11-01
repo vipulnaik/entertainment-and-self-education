@@ -68,7 +68,7 @@ create table consumption(
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
-  - 2026-09-14 I Hear Your Voice (rewatch / re-listen) (Viki)
+  - 2026-09-14-2026-10-31 I Hear Your Voice (rewatch / re-listen) (Viki)
   - 2026-09-18 Ikkat (Kannada) (Amazon Prime)
   - 2026-10-11 Rome: Season 1 (English) (HBO)
   - 2026-10-15 The Judge from Hell (Korean) (Hulu)
