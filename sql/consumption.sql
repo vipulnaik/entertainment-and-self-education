@@ -63,7 +63,7 @@ create table consumption(
   - 2025-07-08 Better Late Than Single (Korean) (Netflix)
   - 2025-07-26 Mujhse Dosti Karoge (Hindi) (Amazon Prime)
   - 2025-09-20 The Divorce Insurance (Korean) (Amazon Video)
-  - 2025-11-07 D-Day (Korean) (Viki)
+  - 2025-11-07-2026-11-05 D-Day (Korean) (Viki)
   - 2025-11-15 Squid Game: The Challenge: Season 2 (English) (Netflix)
   - 2026-05-09 ER: Season 7 (English) (Hulu)
   - 2026-05-28 Tokyo MPD PR Unit 2 (Japanese) (Viki)
