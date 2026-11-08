@@ -74,6 +74,7 @@ create table consumption(
   - 2026-10-15 The Judge from Hell (Korean) (Hulu)
   - 2026-10-19-2026-11-01 (past midnight from 2026-10-31) Doctor John (rewatch / re-listen) (Viki) words: anesthesiology&pain, euthanasia, ventilator, curiosity, ethics (committee), conscious
   - 2026-11-01 Moving: Season 1 (rewatch / re-listen) (Hulu)
+  - 2026-11-07 Swathi Mutthina Male Haniye (Kannada) (Amazon Prime)
  */
 
 /* MasterClass stuff */
