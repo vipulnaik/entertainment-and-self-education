@@ -50,7 +50,7 @@ create table consumption(
   - 2024-06-28 Radhe Shyam (Kannada) (Hulu) (discarded after noticing that it did not have subtitles)
   - 2024-07-02 Abraham Ozler (Kannada) (Hulu)
   - 2024-07-30 Betrayal: Season 1 (English) (Hulu)
-  - 2024-09-23 The Good Doctor: Season 5 (Hulu)
+  - 2024-09-23-2026-11-15 The Good Doctor: Season 5 (Hulu)
   - 2024-10-04 Wonderful World (Korean) (Hulu)
   - 2024-11-17 Hospital Playlist: Season 1 (Korean) (Netflix)
   - 2024-11-18 Bridgerton: Season 3 (English) (Netflix)
