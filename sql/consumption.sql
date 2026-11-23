@@ -73,6 +73,7 @@ create table consumption(
   - 2026-11-07-2026-11-11 Swathi Mutthina Male Haniye (Kannada) (Amazon Prime)
   - 2026-11-14-2026-11-16 Sapta Sagaradaache Ello - Side A (Kannada) (Amazon Prime) (words learned: lie, dream, punishment, beyond (daache), little girl (putti), donkey, used for idiot affectionately (katte); reinforced word for month
   - 2026-11-16 Sapta Sagaradaache Ello - Side B (Kannada) (Amazon Prime)
+  - 2026-11-22 Strong Woman Do Bong-soon (Korean) (Viki)
  */
 
 /* MasterClass stuff */

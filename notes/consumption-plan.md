@@ -110,7 +110,6 @@ VikiPass Standard (or Free):
 * Semantic Error
 * Boys over Flowers
 * Jirisan
-* Strong Woman Do Bong Soon
 * My Love from the Star
 * Just Between Lovers
 * That Winter, The Wind Blows
