@@ -69,7 +69,7 @@ create table consumption(
   - 2026-08-30 99.9 Criminal Lawyer: Season 2 (rewatch / re-listen) (Viki)
   - 2026-10-11 Rome: Season 1 (English) (HBO)
   - 2026-10-15-2026-11-12 The Judge from Hell (Korean) (Hulu)
-  - 2026-11-01 Moving: Season 1 (rewatch / re-listen) (Hulu)
+  - 2026-11-01-2026-11-27 (past midnight from 2026-11-26) Moving: Season 1 (rewatch / re-listen) (Hulu)
   - 2026-11-07-2026-11-11 Swathi Mutthina Male Haniye (Kannada) (Amazon Prime)
   - 2026-11-14-2026-11-16 Sapta Sagaradaache Ello - Side A (Kannada) (Amazon Prime) (words learned: lie, dream, punishment, beyond (daache), little girl (putti), donkey, used for idiot affectionately (katte); reinforced word for month
   - 2026-11-16 Sapta Sagaradaache Ello - Side B (Kannada) (Amazon Prime)
