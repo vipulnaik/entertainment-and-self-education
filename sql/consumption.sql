@@ -74,6 +74,7 @@ create table consumption(
   - 2026-11-14-2026-11-16 Sapta Sagaradaache Ello - Side A (Kannada) (Amazon Prime) (words learned: lie, dream, punishment, beyond (daache), little girl (putti), donkey, used for idiot affectionately (katte); reinforced word for month
   - 2026-11-16 Sapta Sagaradaache Ello - Side B (Kannada) (Amazon Prime)
   - 2026-11-22 Strong Woman Do Bong-soon (Korean) (Viki)
+  - 2026-11-28 (past midnight from 2026-11-27) Happiness (rewatch / re-listen) (Viki)
  */
 
 /* MasterClass stuff */
